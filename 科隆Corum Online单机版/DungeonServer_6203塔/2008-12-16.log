@@ -1,0 +1,33 @@
+C <14:26:00> ########### CorumZero Online - Dungeon Server Started! ###########
+B <14:28:59> Exception from CMonster::Update
+B <14:28:59> Monster will be dead!!
+B <14:29:20> Exception from CMonster::Update
+B <14:29:20> Monster will be dead!!
+C <14:30:11> Start reload dungeonserver data!
+C <14:30:11> End reload dungeonserver data!
+B <14:30:19> Exception from CMonster::Update
+B <14:30:19> Monster will be dead!!
+C <14:30:53> Start reload dungeonserver data!
+C <14:30:53> End reload dungeonserver data!
+B <14:31:00> Exception from CMonster::Update
+B <14:31:00> Monster will be dead!!
+C <14:31:09> ########### CorumZero Online - Dungeon Server Started! ###########
+B <14:31:19> Exception from CMonster::Update
+B <14:31:19> Monster will be dead!!
+C <14:31:41> Start reload dungeonserver data!
+C <14:31:41> End reload dungeonserver data!
+B <14:31:49> Exception from CMonster::Update
+B <14:31:49> Monster will be dead!!
+C <14:32:26> Start reload dungeonserver data!
+C <14:32:26> End reload dungeonserver data!
+B <14:32:32> Exception from CMonster::Update
+B <14:32:32> Monster will be dead!!
+C <14:33:01> Start reload dungeonserver data!
+C <14:33:01> End reload dungeonserver data!
+C <18:01:56> ########### CorumZero Online - Dungeon Server Started! ###########
+C <19:55:05> ########### CorumZero Online - Dungeon Server Started! ###########
+A <20:18:25> World Server Disconnected! Server Will Terminate...
+C <20:18:36> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <20:18:37> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <20:18:46> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+A <20:35:19> World Server Disconnected! Server Will Terminate...

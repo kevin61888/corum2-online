@@ -1,0 +1,10 @@
+C <19:59:22> ########### CorumOnline - LoginAgent Server Started! ###########
+B <19:59:22> @ Connecting SQL Server(Game DB)...
+B <19:59:23> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <19:59:23> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <19:59:23> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:59:23> @ Connecting SQL Server(Billing DB)...
+B <19:59:23> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:59:23> @ Connecting SQL Server(Log DB)...
+B <19:59:23> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <19:59:23> @ Now Listening... (For Userside(7001))

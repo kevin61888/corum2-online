@@ -1,0 +1,13 @@
+C <16:36:15> ########### CorumOnline - World Server Started! ###########
+C <16:36:15> GuildInfo Load - Start
+C <16:36:15> GuildInfo Load - End
+C <16:36:21> Fail to attach LoginAgent Server! (ErrorCode:1)
+B <16:37:44> Server That has Invalid ID Try to Login!(ID=6201)
+C <16:52:21> Unattached Server Disconnected! (IP=222.106.120.37)
+B <16:52:53> Server That has Invalid ID Try to Login!(ID=6201)
+C <16:53:30> Unattached Server Disconnected! (IP=222.106.120.37)
+C <16:53:50> ########### CorumOnline - World Server Started! ###########
+C <16:53:50> GuildInfo Load - Start
+C <16:53:50> GuildInfo Load - End
+C <16:53:57> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <20:12:03> Unattached Server Disconnected! (IP=222.106.120.37)

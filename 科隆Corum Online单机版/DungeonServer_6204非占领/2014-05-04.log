@@ -1,0 +1,9 @@
+C <15:53:22> ########### CorumZero Online - Dungeon Server Started! ###########
+C <15:54:24> ########### CorumZero Online - Dungeon Server Started! ###########
+C <15:59:06> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20140504 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+B <15:59:18> [Before Die] Name : 332323 Criminal : 7, Level : 8 exp : 5094, decExpItem : 0, IncExpItem : 0
+B <15:59:18> [After Die] Name : 332323 Criminal : 7, Level : 8 exp : 5052
+A <16:00:11> World Server Disconnected! Server Will Terminate...
+C <16:00:21> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <16:00:22> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <16:02:06> ########### CorumZero Online - Dungeon Server Started! ###########

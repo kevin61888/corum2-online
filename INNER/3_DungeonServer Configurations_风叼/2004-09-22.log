@@ -1,0 +1,48 @@
+C <13:11:08> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:11:08> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:11:32> @ Can not connect SQL Server(Game DB)! IP=""
+C <13:12:33> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:12:33> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:14:12> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:14:12> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:16:12> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:16:12> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:16:35> @ Can not connect SQL Server(Game DB)! IP=""
+C <13:16:43> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:16:43> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:17:26> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:17:26> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:17:48> @ Can not connect SQL Server(Game DB)! IP=""
+C <13:18:02> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:18:02> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:18:57> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:18:57> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:44:16> BillingServer(IP: 192.168.0.186, Port: 14999)
+C <13:44:16> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:44:42> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: «¹«È«¢«É «×«í«·?«¸«ã 'up_GameLogoutAll_FREE' ª¬Ì¸ªÄª«ªêªÞª»ªóªÇª·ª¿¡£, Query : up_GameLogoutAll_FREE '0'
+B <13:46:28> It might be Hacked Packet!, Length: 60
+B <14:01:33> It might be Hacked Packet!, Length: 60
+B <14:02:58> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:02:58> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:03:42> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:03:42> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:07:18> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:07:18> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:09:06> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:09:06> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:09:20> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:09:20> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:20:19> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:21:40> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:21:40> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:21:40> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:31:59> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:32:01> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:32:01> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:32:01> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:32:23> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:32:23> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:34:24> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:34:24> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <14:35:10> [Msg for DB] [OLEDB Query Error] 'EXEC up_GameLogin_Free 'mjlee', 'mjlee00', '203.238.38.179', '0''( OLEDBThread(VOID) )
+B <14:35:10> pResult->Query.select.pResult is NULL! (dwRowSize:0)

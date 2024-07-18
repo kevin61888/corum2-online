@@ -1,0 +1,55 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CorumOnlineProject", "CorumOnlineProject.vcproj", "{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CHINA_DEV|Default = CHINA_DEV|Default
+		CHINA|Default = CHINA|Default
+		Debug|Default = Debug|Default
+		dev_NEW_COMMAND|Default = dev_NEW_COMMAND|Default
+		dev|Default = dev|Default
+		develop_Test|Default = develop_Test|Default
+		EngineTest|Default = EngineTest|Default
+		JAPAN_DEV|Default = JAPAN_DEV|Default
+		JAPAN_ENCRYPE|Default = JAPAN_ENCRYPE|Default
+		JAPAN|Default = JAPAN|Default
+		Korea_GMMode|Default = Korea_GMMode|Default
+		Release|Default = Release|Default
+		TAIWAN_DEV|Default = TAIWAN_DEV|Default
+		TAIWAN|Default = TAIWAN|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.CHINA_DEV|Default.ActiveCfg = CHINA_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.CHINA_DEV|Default.Build.0 = CHINA_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.CHINA|Default.ActiveCfg = CHINA|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.CHINA|Default.Build.0 = CHINA|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Debug|Default.ActiveCfg = Debug|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Debug|Default.Build.0 = Debug|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.dev_NEW_COMMAND|Default.ActiveCfg = dev_NEW_COMMAND|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.dev_NEW_COMMAND|Default.Build.0 = dev_NEW_COMMAND|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.dev|Default.ActiveCfg = dev|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.dev|Default.Build.0 = dev|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.develop_Test|Default.ActiveCfg = develop_Test|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.develop_Test|Default.Build.0 = develop_Test|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.EngineTest|Default.ActiveCfg = EngineTest|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.EngineTest|Default.Build.0 = EngineTest|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN_DEV|Default.ActiveCfg = JAPAN_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN_DEV|Default.Build.0 = JAPAN_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN_ENCRYPE|Default.ActiveCfg = JAPAN_ENCRYPE|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN_ENCRYPE|Default.Build.0 = JAPAN_ENCRYPE|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN|Default.ActiveCfg = JAPAN|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.JAPAN|Default.Build.0 = JAPAN|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Korea_GMMode|Default.ActiveCfg = Korea_GMMode|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Korea_GMMode|Default.Build.0 = Korea_GMMode|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Release|Default.ActiveCfg = Release|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.Release|Default.Build.0 = Release|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.TAIWAN_DEV|Default.ActiveCfg = TAIWAN_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.TAIWAN_DEV|Default.Build.0 = TAIWAN_DEV|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.TAIWAN|Default.ActiveCfg = TAIWAN|Win32
+		{D9CE3238-B030-430A-BA0A-6AF91AC8D9B2}.TAIWAN|Default.Build.0 = TAIWAN|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

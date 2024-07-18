@@ -1,0 +1,62 @@
+*============================================================*
+	Date / Time			: 12/17/04   16:26:18
+	ProcessID / ThreadID: 0x000011A0 / 0x00000B08
+	ExceptionCode		: 0xC0000005
+*------------------------------------------------------------*
+0x2e6e6f69 - [Unknown Symbol:Error 126]
+0x7551202c - [Unknown Symbol:Error 126]
+
+*============================================================*
+	Date / Time			: 01/04/05   14:39:50
+	ProcessID / ThreadID: 0x000007A8 / 0x000002D0
+	ExceptionCode		: 0xC0000005
+*------------------------------------------------------------*
+0x00410E43 - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x004083BA - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x0041B2AC - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x7C816D4F - RegisterWaitForInputIdle() + 49h
+	ImageName: kernel32.dll
+	LoadedImageName: 
+
+*============================================================*
+	Date / Time			: 01/04/05   14:40:03
+	ProcessID / ThreadID: 0x0000089C / 0x00000F40
+	ExceptionCode		: 0xC0000005
+*------------------------------------------------------------*
+0x00410E43 - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x004083BA - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x0041B2AC - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x7C816D4F - RegisterWaitForInputIdle() + 49h
+	ImageName: kernel32.dll
+	LoadedImageName: 
+
+*============================================================*
+	Date / Time			: 01/05/05   16:45:18
+	ProcessID / ThreadID: 0x00000D74 / 0x00000D78
+	ExceptionCode		: 0xC0000005
+*------------------------------------------------------------*
+0x004108DE - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x00407C1F - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x00431CD3 - [Unknown Symbol:Error 487]
+	ImageName: LoginAgent.exe
+	LoadedImageName: 
+0x7C816D4F - RegisterWaitForInputIdle() + 49h
+	ImageName: kernel32.dll
+	LoadedImageName: 
+

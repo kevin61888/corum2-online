@@ -1,0 +1,49 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorldServer", "WorldServer.vcproj", "{15B98713-613E-4198-BC91-D6812829C304}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = WorldServer.vcproj
+		SccProjectName0 = \u0022$/Develop/WorldServer\u0022,\u0020XANAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		CHINA_BILLING = CHINA_BILLING
+		CHINA_LOCALIZING = CHINA_LOCALIZING
+		CHINA_TEST_BILLING = CHINA_TEST_BILLING
+		Debug = Debug
+		Debug_with_NEW_COMMAND = Debug_with_NEW_COMMAND
+		JAPAN_LOCALIZING = JAPAN_LOCALIZING
+		Release = Release
+		TAIWAN_LOCALIZING = TAIWAN_LOCALIZING
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_BILLING.ActiveCfg = CHINA_BILLING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_BILLING.Build.0 = CHINA_BILLING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_LOCALIZING.ActiveCfg = CHINA_LOCALIZING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_LOCALIZING.Build.0 = CHINA_LOCALIZING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_TEST_BILLING.ActiveCfg = CHINA_TEST_BILLING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.CHINA_TEST_BILLING.Build.0 = CHINA_TEST_BILLING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Debug.ActiveCfg = Debug|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Debug.Build.0 = Debug|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Debug_with_NEW_COMMAND.ActiveCfg = Debug_with_NEW_COMMAND|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Debug_with_NEW_COMMAND.Build.0 = Debug_with_NEW_COMMAND|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.JAPAN_LOCALIZING.ActiveCfg = JAPAN_LOCALIZING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.JAPAN_LOCALIZING.Build.0 = JAPAN_LOCALIZING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Release.ActiveCfg = Release|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.Release.Build.0 = Release|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.TAIWAN_LOCALIZING.ActiveCfg = TAIWAN_LOCALIZING|Win32
+		{15B98713-613E-4198-BC91-D6812829C304}.TAIWAN_LOCALIZING.Build.0 = TAIWAN_LOCALIZING|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

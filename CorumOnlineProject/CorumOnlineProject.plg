@@ -1,0 +1,776 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CorumOnlineProject - Win32 CHINA--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\½ÉÁø¼·\LOCALS~1\Temp\RSP332.tmp" with contents
+[
+/nologo /MLd /W3 /GX /ZI /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_FOR_CORUM" /D "CHINA_LOCALIZING" /D "__PACKAGE_MODE__" /FR"CorumOnlineProject___Win32_CHINA/" /Fp"CorumOnlineProject___Win32_CHINA/CorumOnlineProject.pch" /YX /Fo"CorumOnlineProject___Win32_CHINA/" /Fd"CorumOnlineProject___Win32_CHINA/" /FD /GZ /c 
+"D:\DEVELOP_V1\CorumOnlineProject\ChrInfo.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CodeFun.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Command.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crBaseMenu.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crButton.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crDialog.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crImage.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crImageList.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crListBox.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crListBoxItemInterface.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crProxyMenuToDialog.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crStaticText.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crtList.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\crtNode.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DamageNumber.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DebugLog.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DUNGEON_DATA.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DUNGEON_DATA_EX.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonTable.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GameControl.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildWarFinalSettingWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildWarInvite.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildwarRequest.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildWarStatusWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GxDefault.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\IdentyGraphicCard.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\IMEEdit.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InitGame.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InputManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InterfaceInstance.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\LocalTimeObserver.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\main.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Map.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MatchInfo.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Monster.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MonsterManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MouseLib.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\NetworkClient.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\NetworkTimeObserver.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ObjectManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\parsing.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyMatchingWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RivalGuildWarUI.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Script.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\SpriteManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\system_info.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\TeamMatch.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\TokenCommand.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\User.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\UserHash.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\IntroProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GlobalVariableLogin.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\LoginMsg.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\LoginProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharSelectMsg.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharSelectProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\SpecialCharacterJPN.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\WorldMsg_jjw6263.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\WorldMsg_minbobo.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\WorldMsg_yak.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\WorldProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg_deepdark.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg_jjw6263.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg_minbobo.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg_seven.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonMsg_yak.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonProcess2nd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonProcess_Sound.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\BlockLineManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\BlockManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\ControlStruct.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\DirectionManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\MemoryBlock.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\PriorityQue.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\SearchModule_Astar.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PathFinding\VirtualBlockManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Effect.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EffectCommand.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EffectProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\BaloonChat.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\BlockWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CDungeonInfoWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharMoveEditWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharMoveRtWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharMoveWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DSMiniMap.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DungeonSiegeInfoWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EventDungeonWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EventNPCSubWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EventNPCWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildDeleteWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildEditWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildExWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildJoinWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildMasterWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildPortalWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildRankWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildRequestWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildWarWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuildWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyBoardInfoWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyBoardWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyEntryWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyHelpWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyJoinWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyPortalWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PartyRequestWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemMakingHelpWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemMakingSubWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemShopWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemUpgradeHelpWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemUpgradeSubWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\LoginWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RequestMatchWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\SkillWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CharDieWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ChatWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ErrorWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ExitWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\NoticeWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GuardianWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ChatListWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ComboBox.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CommandWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DefaultWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GameDefaultWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GameMenuWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GameNoticeWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GroupWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\HelpWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InitItemWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Interface.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Menu.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MessengerDeleteWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MessengerWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\NpcDungeonInfoWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\OkWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RankNpcWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RankWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\TopDungeonHelpWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\WorldWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GMTool.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\GlobalSoundHandles.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MSoundControl.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MSoundManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\SoundControl.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Chat.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Guild.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Ini.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Messenger.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MinboboWork.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Party.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Shop.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Trade.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InterfaceSpr.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InterfaceSprDef.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ChatBackground.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ChinaHackToolBlock.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ClientTrafficLog.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\DFXForm.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Filter.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\MessagePool.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\NativeOsCheck.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PacketEncrypt.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\SevenWork.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\EventDungeonProcess.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\HashTable.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ListTable.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\OnlyList.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\Voidlist.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ChinaBillingRemainTime.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemAttrLayer.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemMove.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemMoveManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemNative.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemNativeManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemUsed.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemUsedManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\BankWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\CDungeonManagerWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemMakingWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemTradeShopWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemTradeWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemUpgrade.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\ItemWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\PlayerShopWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\QuantityWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\StoreWnd.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\UserInterface.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RivalGuildWar.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\RivalGuildWarLib.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InterfaceManager.cpp"
+"D:\DEVELOP_V1\CorumOnlineProject\InterfaceProcTemp.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\½ÉÁø¼·\LOCALS~1\Temp\RSP332.tmp"" 
+Creating temporary file "C:\DOCUME~1\½ÉÁø¼·\LOCALS~1\Temp\RSP333.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib imm32.lib Winmm.lib WS2_32.lib d3d8.lib mss32.lib commonserver.lib /nologo /subsystem:windows /incremental:yes /pdb:"CorumOnlineProject___Win32_CHINA/CorumOnline.pdb" /map:"CorumOnlineProject___Win32_CHINA/CorumOnline.map" /debug /machine:I386 /out:"Debug/CorumOnline.exe" /pdbtype:sept /libpath:"..\commonserver\\" 
+.\CorumOnlineProject___Win32_CHINA\ChrInfo.obj
+.\CorumOnlineProject___Win32_CHINA\CodeFun.obj
+.\CorumOnlineProject___Win32_CHINA\Command.obj
+.\CorumOnlineProject___Win32_CHINA\crBaseMenu.obj
+.\CorumOnlineProject___Win32_CHINA\crButton.obj
+.\CorumOnlineProject___Win32_CHINA\crDialog.obj
+.\CorumOnlineProject___Win32_CHINA\crImage.obj
+.\CorumOnlineProject___Win32_CHINA\crImageList.obj
+.\CorumOnlineProject___Win32_CHINA\crListBox.obj
+.\CorumOnlineProject___Win32_CHINA\crListBoxItemInterface.obj
+.\CorumOnlineProject___Win32_CHINA\crProxyMenuToDialog.obj
+.\CorumOnlineProject___Win32_CHINA\crStaticText.obj
+.\CorumOnlineProject___Win32_CHINA\crtList.obj
+.\CorumOnlineProject___Win32_CHINA\crtNode.obj
+.\CorumOnlineProject___Win32_CHINA\DamageNumber.obj
+.\CorumOnlineProject___Win32_CHINA\DebugLog.obj
+.\CorumOnlineProject___Win32_CHINA\DUNGEON_DATA.obj
+.\CorumOnlineProject___Win32_CHINA\DUNGEON_DATA_EX.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonTable.obj
+.\CorumOnlineProject___Win32_CHINA\GameControl.obj
+.\CorumOnlineProject___Win32_CHINA\GuildWarFinalSettingWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildWarInvite.obj
+.\CorumOnlineProject___Win32_CHINA\GuildwarRequest.obj
+.\CorumOnlineProject___Win32_CHINA\GuildWarStatusWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GxDefault.obj
+.\CorumOnlineProject___Win32_CHINA\IdentyGraphicCard.obj
+.\CorumOnlineProject___Win32_CHINA\IMEEdit.obj
+.\CorumOnlineProject___Win32_CHINA\InitGame.obj
+.\CorumOnlineProject___Win32_CHINA\InputManager.obj
+.\CorumOnlineProject___Win32_CHINA\InterfaceInstance.obj
+.\CorumOnlineProject___Win32_CHINA\LocalTimeObserver.obj
+.\CorumOnlineProject___Win32_CHINA\main.obj
+.\CorumOnlineProject___Win32_CHINA\Map.obj
+.\CorumOnlineProject___Win32_CHINA\MatchInfo.obj
+.\CorumOnlineProject___Win32_CHINA\Monster.obj
+.\CorumOnlineProject___Win32_CHINA\MonsterManager.obj
+.\CorumOnlineProject___Win32_CHINA\MouseLib.obj
+.\CorumOnlineProject___Win32_CHINA\NetworkClient.obj
+.\CorumOnlineProject___Win32_CHINA\NetworkTimeObserver.obj
+.\CorumOnlineProject___Win32_CHINA\ObjectManager.obj
+.\CorumOnlineProject___Win32_CHINA\parsing.obj
+.\CorumOnlineProject___Win32_CHINA\PartyMatchingWnd.obj
+.\CorumOnlineProject___Win32_CHINA\RivalGuildWarUI.obj
+.\CorumOnlineProject___Win32_CHINA\Script.obj
+.\CorumOnlineProject___Win32_CHINA\SpriteManager.obj
+.\CorumOnlineProject___Win32_CHINA\system_info.obj
+.\CorumOnlineProject___Win32_CHINA\TeamMatch.obj
+.\CorumOnlineProject___Win32_CHINA\TokenCommand.obj
+.\CorumOnlineProject___Win32_CHINA\User.obj
+.\CorumOnlineProject___Win32_CHINA\UserHash.obj
+.\CorumOnlineProject___Win32_CHINA\IntroProcess.obj
+.\CorumOnlineProject___Win32_CHINA\GlobalVariableLogin.obj
+.\CorumOnlineProject___Win32_CHINA\LoginMsg.obj
+.\CorumOnlineProject___Win32_CHINA\LoginProcess.obj
+.\CorumOnlineProject___Win32_CHINA\CharSelectMsg.obj
+.\CorumOnlineProject___Win32_CHINA\CharSelectProcess.obj
+.\CorumOnlineProject___Win32_CHINA\SpecialCharacterJPN.obj
+.\CorumOnlineProject___Win32_CHINA\WorldMsg_jjw6263.obj
+.\CorumOnlineProject___Win32_CHINA\WorldMsg_minbobo.obj
+.\CorumOnlineProject___Win32_CHINA\WorldMsg_yak.obj
+.\CorumOnlineProject___Win32_CHINA\WorldProcess.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg_deepdark.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg_jjw6263.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg_minbobo.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg_seven.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonMsg_yak.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonProcess.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonProcess2nd.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonProcess_Sound.obj
+.\CorumOnlineProject___Win32_CHINA\BlockLineManager.obj
+.\CorumOnlineProject___Win32_CHINA\BlockManager.obj
+.\CorumOnlineProject___Win32_CHINA\ControlStruct.obj
+.\CorumOnlineProject___Win32_CHINA\DirectionManager.obj
+.\CorumOnlineProject___Win32_CHINA\MemoryBlock.obj
+.\CorumOnlineProject___Win32_CHINA\PriorityQue.obj
+.\CorumOnlineProject___Win32_CHINA\SearchModule_Astar.obj
+.\CorumOnlineProject___Win32_CHINA\VirtualBlockManager.obj
+.\CorumOnlineProject___Win32_CHINA\Effect.obj
+.\CorumOnlineProject___Win32_CHINA\EffectCommand.obj
+.\CorumOnlineProject___Win32_CHINA\EffectProcess.obj
+.\CorumOnlineProject___Win32_CHINA\BaloonChat.obj
+.\CorumOnlineProject___Win32_CHINA\BlockWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CDungeonInfoWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CharMoveEditWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CharMoveRtWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CharMoveWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CharWnd.obj
+.\CorumOnlineProject___Win32_CHINA\DSMiniMap.obj
+.\CorumOnlineProject___Win32_CHINA\DungeonSiegeInfoWnd.obj
+.\CorumOnlineProject___Win32_CHINA\EventDungeonWnd.obj
+.\CorumOnlineProject___Win32_CHINA\EventNPCSubWnd.obj
+.\CorumOnlineProject___Win32_CHINA\EventNPCWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildDeleteWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildEditWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildExWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildJoinWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildMasterWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildPortalWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildRankWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildRequestWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildWarWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuildWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyBoardInfoWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyBoardWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyEntryWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyHelpWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyJoinWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyPortalWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PartyRequestWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemMakingHelpWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemMakingSubWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemShopWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemUpgradeHelpWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemUpgradeSubWnd.obj
+.\CorumOnlineProject___Win32_CHINA\LoginWnd.obj
+.\CorumOnlineProject___Win32_CHINA\RequestMatchWnd.obj
+.\CorumOnlineProject___Win32_CHINA\SkillWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CharDieWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ChatWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ErrorWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ExitWnd.obj
+.\CorumOnlineProject___Win32_CHINA\NoticeWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GuardianWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ChatListWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ComboBox.obj
+.\CorumOnlineProject___Win32_CHINA\CommandWnd.obj
+.\CorumOnlineProject___Win32_CHINA\DefaultWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GameDefaultWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GameMenuWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GameNoticeWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GroupWnd.obj
+.\CorumOnlineProject___Win32_CHINA\HelpWnd.obj
+.\CorumOnlineProject___Win32_CHINA\InitItemWnd.obj
+.\CorumOnlineProject___Win32_CHINA\Interface.obj
+.\CorumOnlineProject___Win32_CHINA\Menu.obj
+.\CorumOnlineProject___Win32_CHINA\MessengerDeleteWnd.obj
+.\CorumOnlineProject___Win32_CHINA\MessengerWnd.obj
+.\CorumOnlineProject___Win32_CHINA\NpcDungeonInfoWnd.obj
+.\CorumOnlineProject___Win32_CHINA\OkWnd.obj
+.\CorumOnlineProject___Win32_CHINA\RankNpcWnd.obj
+.\CorumOnlineProject___Win32_CHINA\RankWnd.obj
+.\CorumOnlineProject___Win32_CHINA\TopDungeonHelpWnd.obj
+.\CorumOnlineProject___Win32_CHINA\WorldWnd.obj
+.\CorumOnlineProject___Win32_CHINA\GMTool.obj
+.\CorumOnlineProject___Win32_CHINA\GlobalSoundHandles.obj
+.\CorumOnlineProject___Win32_CHINA\MSoundControl.obj
+.\CorumOnlineProject___Win32_CHINA\MSoundManager.obj
+.\CorumOnlineProject___Win32_CHINA\SoundControl.obj
+.\CorumOnlineProject___Win32_CHINA\Chat.obj
+.\CorumOnlineProject___Win32_CHINA\Guild.obj
+.\CorumOnlineProject___Win32_CHINA\Ini.obj
+.\CorumOnlineProject___Win32_CHINA\Messenger.obj
+.\CorumOnlineProject___Win32_CHINA\MinboboWork.obj
+.\CorumOnlineProject___Win32_CHINA\Party.obj
+.\CorumOnlineProject___Win32_CHINA\Shop.obj
+.\CorumOnlineProject___Win32_CHINA\Trade.obj
+.\CorumOnlineProject___Win32_CHINA\InterfaceSpr.obj
+.\CorumOnlineProject___Win32_CHINA\InterfaceSprDef.obj
+.\CorumOnlineProject___Win32_CHINA\ChatBackground.obj
+.\CorumOnlineProject___Win32_CHINA\ChinaHackToolBlock.obj
+.\CorumOnlineProject___Win32_CHINA\ClientTrafficLog.obj
+.\CorumOnlineProject___Win32_CHINA\DFXForm.obj
+.\CorumOnlineProject___Win32_CHINA\Filter.obj
+.\CorumOnlineProject___Win32_CHINA\MessagePool.obj
+.\CorumOnlineProject___Win32_CHINA\NativeOsCheck.obj
+.\CorumOnlineProject___Win32_CHINA\PacketEncrypt.obj
+.\CorumOnlineProject___Win32_CHINA\SevenWork.obj
+.\CorumOnlineProject___Win32_CHINA\EventDungeonProcess.obj
+.\CorumOnlineProject___Win32_CHINA\HashTable.obj
+.\CorumOnlineProject___Win32_CHINA\ListTable.obj
+.\CorumOnlineProject___Win32_CHINA\OnlyList.obj
+.\CorumOnlineProject___Win32_CHINA\Voidlist.obj
+.\CorumOnlineProject___Win32_CHINA\ChinaBillingRemainTime.obj
+.\CorumOnlineProject___Win32_CHINA\ItemAttrLayer.obj
+.\CorumOnlineProject___Win32_CHINA\ItemMove.obj
+.\CorumOnlineProject___Win32_CHINA\ItemMoveManager.obj
+.\CorumOnlineProject___Win32_CHINA\ItemNative.obj
+.\CorumOnlineProject___Win32_CHINA\ItemNativeManager.obj
+.\CorumOnlineProject___Win32_CHINA\ItemUsed.obj
+.\CorumOnlineProject___Win32_CHINA\ItemUsedManager.obj
+.\CorumOnlineProject___Win32_CHINA\BankWnd.obj
+.\CorumOnlineProject___Win32_CHINA\CDungeonManagerWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemMakingWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemTradeShopWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemTradeWnd.obj
+.\CorumOnlineProject___Win32_CHINA\ItemUpgrade.obj
+.\CorumOnlineProject___Win32_CHINA\ItemWnd.obj
+.\CorumOnlineProject___Win32_CHINA\PlayerShopWnd.obj
+.\CorumOnlineProject___Win32_CHINA\QuantityWnd.obj
+.\CorumOnlineProject___Win32_CHINA\StoreWnd.obj
+.\CorumOnlineProject___Win32_CHINA\UserInterface.obj
+.\CorumOnlineProject___Win32_CHINA\RivalGuildWar.obj
+.\CorumOnlineProject___Win32_CHINA\RivalGuildWarLib.obj
+.\CorumOnlineProject___Win32_CHINA\InterfaceManager.obj
+.\CorumOnlineProject___Win32_CHINA\InterfaceProcTemp.obj
+.\CorumOnlineProject___Win32_CHINA\Resource.res
+.\SoundLib.lib
+.\SS3DGFunc.lib
+.\NMCrypt.lib
+.\CommonServer.lib
+]
+Creating command line "link.exe @"C:\DOCUME~1\½ÉÁø¼·\LOCALS~1\Temp\RSP333.tmp""
+<h3>Output Window</h3>
+Compiling...
+ChrInfo.cpp
+CodeFun.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+Command.cpp
+crBaseMenu.cpp
+crButton.cpp
+crDialog.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+crImage.cpp
+crImageList.cpp
+crListBox.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+crListBoxItemInterface.cpp
+crProxyMenuToDialog.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+crStaticText.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+crtList.cpp
+crtNode.cpp
+DamageNumber.cpp
+DebugLog.cpp
+DUNGEON_DATA.cpp
+DUNGEON_DATA_EX.cpp
+DungeonTable.cpp
+GameControl.cpp
+GuildWarFinalSettingWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildWarInvite.cpp
+GuildwarRequest.cpp
+GuildWarStatusWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GxDefault.cpp
+IdentyGraphicCard.cpp
+IMEEdit.cpp
+InitGame.cpp
+InputManager.cpp
+InterfaceInstance.cpp
+LocalTimeObserver.cpp
+main.cpp
+Map.cpp
+MatchInfo.cpp
+Monster.cpp
+MonsterManager.cpp
+MouseLib.cpp
+NetworkClient.cpp
+NetworkTimeObserver.cpp
+ObjectManager.cpp
+parsing.cpp
+PartyMatchingWnd.cpp
+RivalGuildWarUI.cpp
+Script.cpp
+SpriteManager.cpp
+system_info.cpp
+TeamMatch.cpp
+TokenCommand.cpp
+User.cpp
+UserHash.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+IntroProcess.cpp
+GlobalVariableLogin.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+LoginMsg.cpp
+LoginProcess.cpp
+CharSelectMsg.cpp
+CharSelectProcess.cpp
+SpecialCharacterJPN.cpp
+WorldMsg_jjw6263.cpp
+WorldMsg_minbobo.cpp
+WorldMsg_yak.cpp
+WorldProcess.cpp
+DungeonMsg.cpp
+DungeonMsg_deepdark.cpp
+DungeonMsg_jjw6263.cpp
+DungeonMsg_minbobo.cpp
+DungeonMsg_seven.cpp
+DungeonMsg_yak.cpp
+DungeonProcess.cpp
+DungeonProcess2nd.cpp
+DungeonProcess_Sound.cpp
+BlockLineManager.cpp
+BlockManager.cpp
+ControlStruct.cpp
+DirectionManager.cpp
+MemoryBlock.cpp
+PriorityQue.cpp
+SearchModule_Astar.cpp
+VirtualBlockManager.cpp
+Effect.cpp
+EffectCommand.cpp
+EffectProcess.cpp
+BaloonChat.cpp
+BlockWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CDungeonInfoWnd.cpp
+CharMoveEditWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CharMoveRtWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CharMoveWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CharWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+DSMiniMap.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+DungeonSiegeInfoWnd.cpp
+EventDungeonWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+EventNPCSubWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+EventNPCWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildDeleteWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildEditWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildExWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildJoinWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildMasterWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildPortalWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildRankWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildRequestWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildWarWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuildWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyBoardInfoWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyBoardWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyEntryWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyHelpWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyJoinWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyPortalWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PartyRequestWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemMakingHelpWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemMakingSubWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemShopWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemUpgradeHelpWnd.cpp
+ItemUpgradeSubWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+LoginWnd.cpp
+RequestMatchWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+SkillWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CharDieWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ChatWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ErrorWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ExitWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+NoticeWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GuardianWnd.cpp
+ChatListWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ComboBox.cpp
+CommandWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+DefaultWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GameDefaultWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GameMenuWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GameNoticeWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GroupWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+HelpWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+InitItemWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+Interface.cpp
+Menu.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+MessengerDeleteWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+MessengerWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+NpcDungeonInfoWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+OkWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+RankNpcWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+RankWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+TopDungeonHelpWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+WorldWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+GMTool.cpp
+GlobalSoundHandles.cpp
+MSoundControl.cpp
+MSoundManager.cpp
+SoundControl.cpp
+Chat.cpp
+Guild.cpp
+Ini.cpp
+Messenger.cpp
+MinboboWork.cpp
+Party.cpp
+Shop.cpp
+Trade.cpp
+InterfaceSpr.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+InterfaceSprDef.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ChatBackground.cpp
+ChinaHackToolBlock.cpp
+ClientTrafficLog.cpp
+DFXForm.cpp
+Filter.cpp
+MessagePool.cpp
+NativeOsCheck.cpp
+PacketEncrypt.cpp
+SevenWork.cpp
+EventDungeonProcess.cpp
+HashTable.cpp
+ListTable.cpp
+OnlyList.cpp
+Voidlist.cpp
+ChinaBillingRemainTime.cpp
+ItemAttrLayer.cpp
+ItemMove.cpp
+ItemMoveManager.cpp
+ItemNative.cpp
+ItemNativeManager.cpp
+ItemUsed.cpp
+ItemUsedManager.cpp
+BankWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+CDungeonManagerWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemMakingWnd.cpp
+ItemTradeShopWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemTradeWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemUpgrade.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+ItemWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+PlayerShopWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+QuantityWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+StoreWnd.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+UserInterface.cpp
+d:\develop_v1\commonserver\commonglobaldefine.h(251) : warning C4005: 'MAX_PASSWORD_REAL_LENGTH' : macro redefinition
+        d:\develop_v1\corumonlineproject\define.h(34) : see previous definition of 'MAX_PASSWORD_REAL_LENGTH'
+RivalGuildWar.cpp
+RivalGuildWarLib.cpp
+InterfaceManager.cpp
+InterfaceProcTemp.cpp
+Linking...
+LINK : warning LNK4098: defaultlib "LIBC" conflicts with use of other libs; use /NODEFAULTLIB:library
+LIBCD.lib(crt0init.obj) : warning LNK4098: defaultlib "libcmtd.lib" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+CorumOnline.exe - 0 error(s), 78 warning(s)
+</pre>
+</body>
+</html>

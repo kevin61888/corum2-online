@@ -1,0 +1,5 @@
+G <11:55:22> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <11:55:23> <yakolla> e80004, 4 :: new m_pListRefreshFromDungeon
+G <11:55:32> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:hwoarang)
+G <11:57:37> WorldUserList Added! in CmdGoToWorldSuccess() (Name:hwoarang)
+G <11:57:41> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:hwoarang)

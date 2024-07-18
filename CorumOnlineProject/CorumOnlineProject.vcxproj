@@ -1,0 +1,1362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="CHINA_DEV|Win32">
+      <Configuration>CHINA_DEV</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="CHINA|Win32">
+      <Configuration>CHINA</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="develop_Test|Win32">
+      <Configuration>develop_Test</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="dev_NEW_COMMAND|Win32">
+      <Configuration>dev_NEW_COMMAND</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="dev|Win32">
+      <Configuration>dev</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="EngineTest|Win32">
+      <Configuration>EngineTest</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="JAPAN_DEV|Win32">
+      <Configuration>JAPAN_DEV</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="JAPAN_ENCRYPE|Win32">
+      <Configuration>JAPAN_ENCRYPE</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="JAPAN|Win32">
+      <Configuration>JAPAN</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Korea_GMMode|Win32">
+      <Configuration>Korea_GMMode</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="TAIWAN_DEV|Win32">
+      <Configuration>TAIWAN_DEV</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="TAIWAN|Win32">
+      <Configuration>TAIWAN</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName>"$/CorumOnlineProject", VPAAAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_DEV|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='develop_Test|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_ENCRYPE|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Korea_GMMode|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='dev|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='EngineTest|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='dev_NEW_COMMAND|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHINA_DEV|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN_DEV|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHINA|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_DEV|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='develop_Test|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_ENCRYPE|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Korea_GMMode|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='dev|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='EngineTest|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='dev_NEW_COMMAND|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='CHINA_DEV|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN_DEV|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='CHINA|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHINA|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_CHINA\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_CHINA\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN_DEV|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_TAIWAN_DEV\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_TAIWAN_DEV\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHINA_DEV|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_CHINA_DEV\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_CHINA_DEV\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='dev_NEW_COMMAND|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_develop_Test\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_develop_Test\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_TAIWAN\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_TAIWAN\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='EngineTest|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_EngineTest\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_EngineTest\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='dev|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_dev\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_dev\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>.\Debug\</OutDir>
+    <IntDir>.\Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_JAPAN\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_JAPAN\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Korea_GMMode|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_Korea_GMMode\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_Korea_GMMode\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_ENCRYPE|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='develop_Test|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_develop_Test\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_develop_Test\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_DEV|Win32'">
+    <OutDir>.\CorumOnlineProject___Win32_JAPAN_DEV\</OutDir>
+    <IntDir>.\CorumOnlineProject___Win32_JAPAN_DEV\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='CHINA|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;CHINA_LOCALIZING;__PACKAGE_MODE__;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_CHINA\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_CHINA\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_CHINA\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_CHINA\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_CHINA\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_CHINA\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN_DEV|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;TAIWAN_LOCALIZING;__PACKET_ENCRYPTION;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_TAIWAN_DEV\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_TAIWAN_DEV\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_TAIWAN_DEV\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_TAIWAN_DEV\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_TAIWAN_DEV\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0404</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_TAIWAN_DEV\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>D:\corum\CorumOnline TW\CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='CHINA_DEV|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;CHINA_LOCALIZING;__WITH_EXCEPTION_FILTER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_CHINA_DEV\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_CHINA_DEV\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_CHINA_DEV\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_CHINA_DEV\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_CHINA_DEV\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_CHINA_DEV\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='dev_NEW_COMMAND|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;NEW_COMMAND;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_develop_Test\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_develop_Test\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_develop_Test\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='TAIWAN|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;TAIWAN_LOCALIZING;__PACKAGE_MODE__;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_TAIWAN\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_TAIWAN\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_TAIWAN\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_TAIWAN\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_TAIWAN\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0404</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_TAIWAN\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level4</WarningLevel>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <MinimalRebuild>true</MinimalRebuild>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <OmitFramePointers>true</OmitFramePointers>
+      <StringPooling>true</StringPooling>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Release\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\Release\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\Release\CorumOnlineProject.exe</OutputFile>
+      <AdditionalDependencies>libcmtd.lib;libc.lib;odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='EngineTest|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;SS3D_TEST;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_EngineTest\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_EngineTest\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_EngineTest\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_EngineTest\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_EngineTest\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_EngineTest\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>C:\Program Files\eSofNet\CorumOnlineTest\CorumOnlineEngineTest.exe</OutputFile>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;version.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='dev|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level4</WarningLevel>
+      <TreatWarningAsError>false</TreatWarningAsError>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_dev\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_dev\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_dev\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_dev\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_dev\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_dev\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>../CommonServer;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;CommonServer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;__PACKAGE_MODE__;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Debug\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Debug\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\Debug\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Debug\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Debug\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Debug\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\debug\CorumOnline\CorumOnline.exe</OutputFile>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;version.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;JAPAN_LOCALIZING;__PACKET_ENCRYPTION;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_JAPAN\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_JAPAN\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_JAPAN\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_JAPAN\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_JAPAN\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0411</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_JAPAN\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\JAPAN\CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Korea_GMMode|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_Korea_GMMode\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_Korea_GMMode\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_Korea_GMMode\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_Korea_GMMode\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_Korea_GMMode\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_Korea_GMMode\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\debug\CorumOnlineWindow.exe</OutputFile>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;version.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_ENCRYPE|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;__PACKAGE_MODE__;__PACKET_ENCRYPTION;GM_TOOL;DEVELOP_MODE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0411</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_JAPAN_ENCRYPE\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>Debug/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='develop_Test|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <TreatWarningAsError>true</TreatWarningAsError>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;__PACKAGE_MODE__;NEW_COMMAND;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_develop_Test\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_develop_Test\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_develop_Test\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_develop_Test\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>LIBC.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>CorumOnlineProject___Win32_develop_Test/CorumOnline.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='JAPAN_DEV|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_FOR_CORUM;GM_TOOL;DEVELOP_MODE;JAPAN_LOCALIZING;__PACKET_ENCRYPTION;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\CorumOnlineProject___Win32_JAPAN_DEV\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\CorumOnlineProject___Win32_JAPAN_DEV\CorumOnlineProject.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\CorumOnlineProject___Win32_JAPAN_DEV\</ObjectFileName>
+      <ProgramDataBaseFileName>.\CorumOnlineProject___Win32_JAPAN_DEV\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\CorumOnlineProject___Win32_JAPAN_DEV\CorumOnlineProject.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0411</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\CorumOnlineProject___Win32_JAPAN_DEV\CorumOnlineProject.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>.\japan\CorumOnlineJJD.exe</OutputFile>
+      <AdditionalLibraryDirectories>..\commonserver\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>odbc32.lib;odbccp32.lib;imm32.lib;Winmm.lib;WS2_32.lib;d3d8.lib;mss32.lib;commonserver.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ChrInfo.cpp" />
+    <ClCompile Include="CodeFun.cpp" />
+    <ClCompile Include="Command.cpp" />
+    <ClCompile Include="crBaseMenu.cpp" />
+    <ClCompile Include="crButton.cpp" />
+    <ClCompile Include="crDialog.cpp" />
+    <ClCompile Include="crImage.cpp" />
+    <ClCompile Include="crImageList.cpp" />
+    <ClCompile Include="crListBox.cpp" />
+    <ClCompile Include="crListBoxItemInterface.cpp" />
+    <ClCompile Include="crProxyMenuToDialog.cpp" />
+    <ClCompile Include="crStaticText.cpp" />
+    <ClCompile Include="crtList.cpp" />
+    <ClCompile Include="crtNode.cpp" />
+    <ClCompile Include="DamageNumber.cpp" />
+    <ClCompile Include="DebugLog.cpp" />
+    <ClCompile Include="DUNGEON_DATA.cpp" />
+    <ClCompile Include="DUNGEON_DATA_EX.cpp" />
+    <ClCompile Include="DungeonTable.cpp" />
+    <ClCompile Include="GameControl.cpp" />
+    <ClCompile Include="GuildWarFinalSettingWnd.cpp" />
+    <ClCompile Include="GuildWarInvite.cpp" />
+    <ClCompile Include="GuildwarRequest.cpp" />
+    <ClCompile Include="GuildWarStatusWnd.cpp" />
+    <ClCompile Include="GxDefault.cpp" />
+    <ClCompile Include="IdentyGraphicCard.cpp" />
+    <ClCompile Include="IMEEdit.cpp" />
+    <ClCompile Include="InitGame.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="InterfaceInstance.cpp" />
+    <ClCompile Include="LocalTimeObserver.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="MatchInfo.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="MonsterManager.cpp" />
+    <ClCompile Include="MouseLib.cpp" />
+    <ClCompile Include="NetworkClient.cpp" />
+    <ClCompile Include="NetworkTimeObserver.cpp" />
+    <ClCompile Include="ObjectManager.cpp" />
+    <ClCompile Include="parsing.cpp" />
+    <ClCompile Include="PartyMatchingWnd.cpp" />
+    <ClCompile Include="RivalGuildWarUI.cpp" />
+    <ClCompile Include="Script.cpp" />
+    <ClCompile Include="SpriteManager.cpp" />
+    <ClCompile Include="system_info.cpp" />
+    <ClCompile Include="TeamMatch.cpp" />
+    <ClCompile Include="TokenCommand.cpp" />
+    <ClCompile Include="User.cpp" />
+    <ClCompile Include="UserHash.cpp" />
+    <ClCompile Include="IntroProcess.cpp" />
+    <ClCompile Include="GlobalVariableLogin.cpp" />
+    <ClCompile Include="LoginMsg.cpp" />
+    <ClCompile Include="LoginProcess.cpp" />
+    <ClCompile Include="CharSelectMsg.cpp" />
+    <ClCompile Include="CharSelectProcess.cpp" />
+    <ClCompile Include="SpecialCharacterJPN.cpp" />
+    <ClCompile Include="WorldMsg_jjw6263.cpp" />
+    <ClCompile Include="WorldMsg_minbobo.cpp" />
+    <ClCompile Include="WorldMsg_yak.cpp" />
+    <ClCompile Include="WorldProcess.cpp" />
+    <ClCompile Include="DungeonMsg.cpp" />
+    <ClCompile Include="DungeonMsg_deepdark.cpp" />
+    <ClCompile Include="DungeonMsg_jjw6263.cpp" />
+    <ClCompile Include="DungeonMsg_minbobo.cpp" />
+    <ClCompile Include="DungeonMsg_seven.cpp" />
+    <ClCompile Include="DungeonMsg_yak.cpp" />
+    <ClCompile Include="DungeonProcess.cpp" />
+    <ClCompile Include="DungeonProcess2nd.cpp" />
+    <ClCompile Include="DungeonProcess_Sound.cpp" />
+    <ClCompile Include="PathFinding\BlockLineManager.cpp" />
+    <ClCompile Include="PathFinding\BlockManager.cpp" />
+    <ClCompile Include="PathFinding\ControlStruct.cpp" />
+    <ClCompile Include="PathFinding\DirectionManager.cpp" />
+    <ClCompile Include="PathFinding\MemoryBlock.cpp" />
+    <ClCompile Include="PathFinding\PriorityQue.cpp" />
+    <ClCompile Include="PathFinding\SearchModule_Astar.cpp" />
+    <ClCompile Include="PathFinding\VirtualBlockManager.cpp" />
+    <ClCompile Include="Effect.cpp" />
+    <ClCompile Include="EffectCommand.cpp" />
+    <ClCompile Include="EffectProcess.cpp" />
+    <ClCompile Include="BaloonChat.cpp" />
+    <ClCompile Include="BlockWnd.cpp" />
+    <ClCompile Include="CDungeonInfoWnd.cpp" />
+    <ClCompile Include="CharMoveEditWnd.cpp" />
+    <ClCompile Include="CharMoveRtWnd.cpp" />
+    <ClCompile Include="CharMoveWnd.cpp" />
+    <ClCompile Include="CharWnd.cpp" />
+    <ClCompile Include="DSMiniMap.cpp" />
+    <ClCompile Include="DungeonSiegeInfoWnd.cpp" />
+    <ClCompile Include="EventDungeonWnd.cpp" />
+    <ClCompile Include="EventNPCSubWnd.cpp" />
+    <ClCompile Include="EventNPCWnd.cpp" />
+    <ClCompile Include="GuildDeleteWnd.cpp" />
+    <ClCompile Include="GuildEditWnd.cpp" />
+    <ClCompile Include="GuildExWnd.cpp" />
+    <ClCompile Include="GuildJoinWnd.cpp" />
+    <ClCompile Include="GuildMasterWnd.cpp" />
+    <ClCompile Include="GuildPortalWnd.cpp" />
+    <ClCompile Include="GuildRankWnd.cpp" />
+    <ClCompile Include="GuildRequestWnd.cpp" />
+    <ClCompile Include="GuildWarWnd.cpp" />
+    <ClCompile Include="GuildWnd.cpp" />
+    <ClCompile Include="PartyBoardInfoWnd.cpp" />
+    <ClCompile Include="PartyBoardWnd.cpp" />
+    <ClCompile Include="PartyEntryWnd.cpp" />
+    <ClCompile Include="PartyHelpWnd.cpp" />
+    <ClCompile Include="PartyJoinWnd.cpp" />
+    <ClCompile Include="PartyPortalWnd.cpp" />
+    <ClCompile Include="PartyRequestWnd.cpp" />
+    <ClCompile Include="ItemMakingHelpWnd.cpp" />
+    <ClCompile Include="ItemMakingSubWnd.cpp" />
+    <ClCompile Include="ItemShopWnd.cpp" />
+    <ClCompile Include="ItemUpgradeHelpWnd.cpp" />
+    <ClCompile Include="ItemUpgradeSubWnd.cpp" />
+    <ClCompile Include="LoginWnd.cpp" />
+    <ClCompile Include="RequestMatchWnd.cpp" />
+    <ClCompile Include="SkillWnd.cpp" />
+    <ClCompile Include="CharDieWnd.cpp" />
+    <ClCompile Include="ChatWnd.cpp" />
+    <ClCompile Include="ErrorWnd.cpp" />
+    <ClCompile Include="ExitWnd.cpp" />
+    <ClCompile Include="NoticeWnd.cpp" />
+    <ClCompile Include="GuardianWnd.cpp" />
+    <ClCompile Include="ChatListWnd.cpp" />
+    <ClCompile Include="ComboBox.cpp" />
+    <ClCompile Include="CommandWnd.cpp" />
+    <ClCompile Include="DefaultWnd.cpp" />
+    <ClCompile Include="GameDefaultWnd.cpp" />
+    <ClCompile Include="GameMenuWnd.cpp" />
+    <ClCompile Include="GameNoticeWnd.cpp" />
+    <ClCompile Include="GroupWnd.cpp" />
+    <ClCompile Include="HelpWnd.cpp" />
+    <ClCompile Include="InitItemWnd.cpp" />
+    <ClCompile Include="Interface.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="MessengerDeleteWnd.cpp" />
+    <ClCompile Include="MessengerWnd.cpp" />
+    <ClCompile Include="NpcDungeonInfoWnd.cpp" />
+    <ClCompile Include="OkWnd.cpp" />
+    <ClCompile Include="RankNpcWnd.cpp" />
+    <ClCompile Include="RankWnd.cpp" />
+    <ClCompile Include="TopDungeonHelpWnd.cpp" />
+    <ClCompile Include="WorldWnd.cpp" />
+    <ClCompile Include="GMTool.cpp" />
+    <ClCompile Include="GlobalSoundHandles.cpp" />
+    <ClCompile Include="MSoundControl.cpp" />
+    <ClCompile Include="MSoundManager.cpp" />
+    <ClCompile Include="SoundControl.cpp" />
+    <ClCompile Include="Chat.cpp" />
+    <ClCompile Include="Guild.cpp" />
+    <ClCompile Include="Ini.cpp" />
+    <ClCompile Include="Messenger.cpp" />
+    <ClCompile Include="MinboboWork.cpp" />
+    <ClCompile Include="Party.cpp" />
+    <ClCompile Include="Shop.cpp" />
+    <ClCompile Include="Trade.cpp" />
+    <ClCompile Include="InterfaceSpr.cpp" />
+    <ClCompile Include="InterfaceSprDef.cpp" />
+    <ClCompile Include="ChatBackground.cpp" />
+    <ClCompile Include="ChinaHackToolBlock.cpp" />
+    <ClCompile Include="ClientTrafficLog.cpp" />
+    <ClCompile Include="DFXForm.cpp" />
+    <ClCompile Include="Filter.cpp" />
+    <ClCompile Include="MessagePool.cpp" />
+    <ClCompile Include="NativeOsCheck.cpp" />
+    <ClCompile Include="PacketEncrypt.cpp" />
+    <ClCompile Include="SevenWork.cpp" />
+    <ClCompile Include="EventDungeonProcess.cpp" />
+    <ClCompile Include="HashTable.cpp" />
+    <ClCompile Include="ListTable.cpp" />
+    <ClCompile Include="OnlyList.cpp" />
+    <ClCompile Include="Voidlist.cpp" />
+    <ClCompile Include="ChinaBillingRemainTime.cpp" />
+    <ClCompile Include="ItemAttrLayer.cpp" />
+    <ClCompile Include="ItemMove.cpp" />
+    <ClCompile Include="ItemMoveManager.cpp" />
+    <ClCompile Include="ItemNative.cpp" />
+    <ClCompile Include="ItemNativeManager.cpp" />
+    <ClCompile Include="ItemUsed.cpp" />
+    <ClCompile Include="ItemUsedManager.cpp" />
+    <ClCompile Include="BankWnd.cpp" />
+    <ClCompile Include="CDungeonManagerWnd.cpp" />
+    <ClCompile Include="ItemMakingWnd.cpp" />
+    <ClCompile Include="ItemTradeShopWnd.cpp" />
+    <ClCompile Include="ItemTradeWnd.cpp" />
+    <ClCompile Include="ItemUpgrade.cpp" />
+    <ClCompile Include="ItemWnd.cpp" />
+    <ClCompile Include="PlayerShopWnd.cpp" />
+    <ClCompile Include="QuantityWnd.cpp" />
+    <ClCompile Include="StoreWnd.cpp" />
+    <ClCompile Include="UserInterface.cpp" />
+    <ClCompile Include="RivalGuildWar.cpp" />
+    <ClCompile Include="RivalGuildWarLib.cpp" />
+    <ClCompile Include="InterfaceManager.cpp" />
+    <ClCompile Include="InterfaceProcTemp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MouseLib.h" />
+    <ClInclude Include="BaseNetworkInterface.h" />
+    <ClInclude Include="ChrInfo.h" />
+    <ClInclude Include="cmd_message.h" />
+    <ClInclude Include="CodeFun.h" />
+    <ClInclude Include="Command.h" />
+    <ClInclude Include="crBaseMenu.h" />
+    <ClInclude Include="crButton.h" />
+    <ClInclude Include="crDialog.h" />
+    <ClInclude Include="CResNameResolver.h" />
+    <ClInclude Include="crImage.h" />
+    <ClInclude Include="crImageList.h" />
+    <ClInclude Include="crListBox.h" />
+    <ClInclude Include="crListBoxItemInterface.h" />
+    <ClInclude Include="crProxyMenuToDialog.h" />
+    <ClInclude Include="crStaticText.h" />
+    <ClInclude Include="crtList.h" />
+    <ClInclude Include="crtNode.h" />
+    <ClInclude Include="DamageNumber.h" />
+    <ClInclude Include="DebugLog.h" />
+    <ClInclude Include="Define.h" />
+    <ClInclude Include="Develop.h" />
+    <ClInclude Include="DUNGEON_DATA.h" />
+    <ClInclude Include="DUNGEON_DATA_EX.h" />
+    <ClInclude Include="DungeonTable.h" />
+    <ClInclude Include="EffectInfo.h" />
+    <ClInclude Include="GameControl.h" />
+    <ClInclude Include="GameDefine.h" />
+    <ClInclude Include="GetDxVer.h" />
+    <ClInclude Include="GuildWarFinalSettingWnd.h" />
+    <ClInclude Include="GuildWarInvite.h" />
+    <ClInclude Include="GuildwarRequest.h" />
+    <ClInclude Include="GuildWarStatusWnd.h" />
+    <ClInclude Include="GXDefault.h" />
+    <ClInclude Include="IdentyGraphicCard.h" />
+    <ClInclude Include="IMEEdit.h" />
+    <ClInclude Include="InitGame.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="InterfaceInstance.h" />
+    <ClInclude Include="Localizing.h" />
+    <ClInclude Include="LocalTimeObserver.h" />
+    <ClInclude Include="LogWnd.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MatchInfo.h" />
+    <ClInclude Include="message.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="MonsterManager.h" />
+    <ClInclude Include="NetworkClient.h" />
+    <ClInclude Include="NetworkTimeObserver.h" />
+    <ClInclude Include="Npc.h" />
+    <ClInclude Include="ObjectDefine.h" />
+    <ClInclude Include="ObjectManager.h" />
+    <ClInclude Include="Parsing.h" />
+    <ClInclude Include="PartyMatchingWnd.h" />
+    <ClInclude Include="RivalGuildWarUI.h" />
+    <ClInclude Include="Script.h" />
+    <ClInclude Include="special_effect.h" />
+    <ClInclude Include="SpriteManager.h" />
+    <ClInclude Include="StaticText.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="struct.h" />
+    <ClInclude Include="system_info.h" />
+    <ClInclude Include="TokenCommand.h" />
+    <ClInclude Include="User.h" />
+    <ClInclude Include="UserHash.h" />
+    <ClInclude Include="Version.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="IntroProcess.h" />
+    <ClInclude Include="GlobalVariableLogin.h" />
+    <ClInclude Include="LoginMsg.h" />
+    <ClInclude Include="LoginProcess.h" />
+    <ClInclude Include="CharSelectMsg.h" />
+    <ClInclude Include="CharSelectProcess.h" />
+    <ClInclude Include="WorldMsg.h" />
+    <ClInclude Include="WorldMsg_jjw6263.h" />
+    <ClInclude Include="WorldMsg_minbobo.h" />
+    <ClInclude Include="WorldMsg_yak.h" />
+    <ClInclude Include="WorldProcess.h" />
+    <ClInclude Include="DungeonMsg.h" />
+    <ClInclude Include="DungeonMsg_deepdark.h" />
+    <ClInclude Include="DungeonMsg_jjw6263.h" />
+    <ClInclude Include="DungeonMsg_minbobo.h" />
+    <ClInclude Include="DungeonMsg_seven.h" />
+    <ClInclude Include="DungeonMsg_yak.h" />
+    <ClInclude Include="DungeonProcess.h" />
+    <ClInclude Include="DungeonProcess2nd.h" />
+    <ClInclude Include="DungeonProcess_Sound.h" />
+    <ClInclude Include="PathFinding\BlockLineManager.h" />
+    <ClInclude Include="PathFinding\BlockManager.h" />
+    <ClInclude Include="PathFinding\ControlStruct.h" />
+    <ClInclude Include="PathFinding\DirectionManager.h" />
+    <ClInclude Include="PathFinding\MemoryBlock.h" />
+    <ClInclude Include="PathFinding\PriorityQue.h" />
+    <ClInclude Include="PathFinding\SearchModule_Astar.h" />
+    <ClInclude Include="PathFinding\VirtualBlockManager.h" />
+    <ClInclude Include="CorumResource.h" />
+    <ClInclude Include="DefResource.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="EffectCommand.h" />
+    <ClInclude Include="EffectProcess.h" />
+    <ClInclude Include="BaloonChat.h" />
+    <ClInclude Include="BlockWnd.h" />
+    <ClInclude Include="CDungeonInfoWnd.h" />
+    <ClInclude Include="CharMoveEditWnd.h" />
+    <ClInclude Include="CharMoveRtWnd.h" />
+    <ClInclude Include="CharMoveWnd.h" />
+    <ClInclude Include="CharWnd.h" />
+    <ClInclude Include="DSMiniMap.h" />
+    <ClInclude Include="DungeonSiegeInfoWnd.h" />
+    <ClInclude Include="EventDungeonWnd.h" />
+    <ClInclude Include="EventNPCSubWnd.h" />
+    <ClInclude Include="EventNPCWnd.h" />
+    <ClInclude Include="GuildDeleteWnd.h" />
+    <ClInclude Include="GuildEditWnd.h" />
+    <ClInclude Include="GuildExWnd.h" />
+    <ClInclude Include="GuildJoinWnd.h" />
+    <ClInclude Include="GuildMasterWnd.h" />
+    <ClInclude Include="GuildPortalWnd.h" />
+    <ClInclude Include="GuildRankWnd.h" />
+    <ClInclude Include="GuildRequestWnd.h" />
+    <ClInclude Include="GuildWarWnd.h" />
+    <ClInclude Include="GuildWnd.h" />
+    <ClInclude Include="PartyBoardInfoWnd.h" />
+    <ClInclude Include="PartyBoardWnd.h" />
+    <ClInclude Include="PartyEntryWnd.h" />
+    <ClInclude Include="PartyHelpWnd.h" />
+    <ClInclude Include="PartyJoinWnd.h" />
+    <ClInclude Include="PartyPortalWnd.h" />
+    <ClInclude Include="PartyRequestWnd.h" />
+    <ClInclude Include="ItemMakingHelpWnd.h" />
+    <ClInclude Include="ItemMakingSubWnd.h" />
+    <ClInclude Include="ItemShopWnd.h" />
+    <ClInclude Include="ItemUpgradeHelpWnd.h" />
+    <ClInclude Include="ItemUpgradeSubWnd.h" />
+    <ClInclude Include="LoginWnd.h" />
+    <ClInclude Include="RequestMatchWnd.h" />
+    <ClInclude Include="SkillWnd.h" />
+    <ClInclude Include="CharDieWnd.h" />
+    <ClInclude Include="ChatWnd.h" />
+    <ClInclude Include="ErrorWnd.h" />
+    <ClInclude Include="ExitWnd.h" />
+    <ClInclude Include="NoticeWnd.h" />
+    <ClInclude Include="GuardianWnd.h" />
+    <ClInclude Include="ChatListWnd.h" />
+    <ClInclude Include="ComboBox.h" />
+    <ClInclude Include="CommandWnd.h" />
+    <ClInclude Include="DefaultWnd.h" />
+    <ClInclude Include="GameDefaultWnd.h" />
+    <ClInclude Include="GameMenuWnd.h" />
+    <ClInclude Include="GameNoticeWnd.h" />
+    <ClInclude Include="GroupWnd.h" />
+    <ClInclude Include="HelpWnd.h" />
+    <ClInclude Include="InitItemWnd.h" />
+    <ClInclude Include="Interface.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="MessengerDeleteWnd.h" />
+    <ClInclude Include="MessengerWnd.h" />
+    <ClInclude Include="NpcDungeonInfoWnd.h" />
+    <ClInclude Include="OkWnd.h" />
+    <ClInclude Include="RankNpcWnd.h" />
+    <ClInclude Include="RankWnd.h" />
+    <ClInclude Include="TopDungeonHelpWnd.h" />
+    <ClInclude Include="WorldWnd.h" />
+    <ClInclude Include="GMTool.h" />
+    <ClInclude Include="GlobalSoundHandles.h" />
+    <ClInclude Include="MSoundControl.h" />
+    <ClInclude Include="MSoundManager.h" />
+    <ClInclude Include="SoundControl.h" />
+    <ClInclude Include="SoundLib.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="Chat.h" />
+    <ClInclude Include="Guild.h" />
+    <ClInclude Include="Ini.h" />
+    <ClInclude Include="Messenger.h" />
+    <ClInclude Include="MinboboWork.h" />
+    <ClInclude Include="Party.h" />
+    <ClInclude Include="Shop.h" />
+    <ClInclude Include="Trade.h" />
+    <ClInclude Include="NMCrypt.h" />
+    <ClInclude Include="InterfaceSpr.h" />
+    <ClInclude Include="InterfaceSprDef.h" />
+    <ClInclude Include="ChatBackground.h" />
+    <ClInclude Include="ChinaHackToolBlock.h" />
+    <ClInclude Include="ClientTrafficLog.h" />
+    <ClInclude Include="DFXForm.h" />
+    <ClInclude Include="Filter.h" />
+    <ClInclude Include="MessagePool.h" />
+    <ClInclude Include="PacketEncrypt.h" />
+    <ClInclude Include="SafeMemory.h" />
+    <ClInclude Include="StringFunc.h" />
+    <ClInclude Include="SevenWork.h" />
+    <ClInclude Include="EventDungeonProcess.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="ListTable.h" />
+    <ClInclude Include="OnlyList.h" />
+    <ClInclude Include="VoidList.h" />
+    <ClInclude Include="ChinaBillingRemainTime.h" />
+    <ClInclude Include="ItemAttrLayer.h" />
+    <ClInclude Include="ItemMove.h" />
+    <ClInclude Include="ItemMoveManager.h" />
+    <ClInclude Include="ItemNative.h" />
+    <ClInclude Include="ItemNativeManager.h" />
+    <ClInclude Include="ItemUsed.h" />
+    <ClInclude Include="ItemUsedManager.h" />
+    <ClInclude Include="BankWnd.h" />
+    <ClInclude Include="CDungeonManagerWnd.h" />
+    <ClInclude Include="ItemMakingWnd.h" />
+    <ClInclude Include="ItemTradeShopWnd.h" />
+    <ClInclude Include="ItemTradeWnd.h" />
+    <ClInclude Include="ItemUpgrade.h" />
+    <ClInclude Include="ItemWnd.h" />
+    <ClInclude Include="PlayerShopWnd.h" />
+    <ClInclude Include="QuantityWnd.h" />
+    <ClInclude Include="StoreWnd.h" />
+    <ClInclude Include="UserInterface.h" />
+    <ClInclude Include="RivalGuildWar.h" />
+    <ClInclude Include="RivalGuildWarLib.h" />
+    <ClInclude Include="InterfaceManager.h" />
+    <ClInclude Include="InterfaceProcTemp.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="crBaseMenu.inl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="corum.ico" />
+    <CustomBuild Include="Data\Cursor\m_attack.cur" />
+    <CustomBuild Include="Data\Cursor\m_attack_c.cur" />
+    <CustomBuild Include="Data\Cursor\m_button.cur" />
+    <CustomBuild Include="Data\Cursor\m_button_c.cur" />
+    <CustomBuild Include="Data\Cursor\m_common.cur" />
+    <CustomBuild Include="Data\Cursor\m_common_c.cur" />
+    <CustomBuild Include="Data\Cursor\m_dialog.cur" />
+    <CustomBuild Include="Data\Cursor\m_dialog_c.cur" />
+    <CustomBuild Include="Data\Cursor\m_item.cur" />
+    <CustomBuild Include="Data\Cursor\m_item_c.cur" />
+    <CustomBuild Include="Data\Cursor\m_target.cur" />
+    <CustomBuild Include="Data\Cursor\m_target_c.cur" />
+    <CustomBuild Include="CorumResource.erd">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="default.rtl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="default2.rtl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="DefResource.erd">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="DefResource.erl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="Resource.erl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="resource1.erl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="resource2.erl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="resource3.erl">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SoundLib.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DExecutiveForCorum.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DFileStorage.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGeometryForCorum.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFunc.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFuncN.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFuncSSE.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="SS3DRendererForCorum.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="CommonServer.dll">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="CorumOnlineProject.dsp">
+      <FileType>Document</FileType>
+    </CustomBuild>
+    <CustomBuild Include="CorumVerInfo.ver">
+      <FileType>Document</FileType>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="SoundLib.lib" />
+    <Library Include="SS3DGFunc.lib" />
+    <Library Include="NMCrypt.lib" />
+    <Library Include="CommonServer.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

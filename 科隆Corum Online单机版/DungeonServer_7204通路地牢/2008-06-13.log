@@ -1,0 +1,13 @@
+C <13:57:17> ########### CorumZero Online - Dungeon Server Started! ###########
+C <13:59:22> ########### CorumZero Online - Dungeon Server Started! ###########
+A <14:00:55> World Server Disconnected! Server Will Terminate...
+C <14:01:02> ########### CorumZero Online - Dungeon Server Started! ###########
+B <14:01:05> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <14:01:15> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+C <14:13:37> ########### CorumZero Online - Dungeon Server Started! ###########
+A <14:45:54> World Server Disconnected! Server Will Terminate...
+C <15:37:12> ########### CorumZero Online - Dungeon Server Started! ###########
+B <15:37:15> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <20:24:10> ########### CorumZero Online - Dungeon Server Started! ###########
+B <20:25:48> Invalid Start Spot (CDungeon::JoinUser())
+C <20:25:48> JoinUser Failed! ReceivedFromDB(normal join)! AY±ùËª½£

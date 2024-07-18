@@ -1,0 +1,58 @@
+C <14:18:12> ########### CorumOnline - World Server Started! ###########
+C <14:18:12> GuildInfo Load - Start
+C <14:18:12> GuildInfo Load - End
+C <14:26:44> ########### CorumOnline - World Server Started! ###########
+C <14:26:45> GuildInfo Load - Start
+C <14:26:45> GuildInfo Load - End
+C <16:04:15> ########### CorumOnline - World Server Started! ###########
+C <16:04:15> GuildInfo Load - Start
+C <16:04:15> GuildInfo Load - End
+C <16:15:02> ########### CorumOnline - World Server Started! ###########
+C <16:15:02> GuildInfo Load - Start
+C <16:15:02> GuildInfo Load - End
+C <16:31:28> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <16:31:48> ########### CorumOnline - World Server Started! ###########
+C <16:31:48> GuildInfo Load - Start
+C <16:31:48> GuildInfo Load - End
+C <16:31:49> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <16:33:59> Unattached Server Disconnected! (IP=222.106.120.33)
+C <16:34:06> ########### CorumOnline - World Server Started! ###########
+C <16:34:06> GuildInfo Load - Start
+C <16:34:06> GuildInfo Load - End
+C <16:34:07> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <16:34:24> ########### CorumOnline - World Server Started! ###########
+C <16:34:24> GuildInfo Load - Start
+C <16:34:24> GuildInfo Load - End
+C <16:35:40> ########### CorumOnline - World Server Started! ###########
+C <16:35:40> GuildInfo Load - Start
+C <16:35:40> GuildInfo Load - End
+B <16:35:55> Server That has Invalid ID Try to Login!(ID=6009)
+C <16:36:05> Unattached Server Disconnected! (IP=222.106.120.33)
+A <16:40:09> Dungeon Server Disconnected! (ID=4025)
+C <16:40:15> Start! - Release BaseNetwork!
+C <16:40:15> End! - Release BaseNetwork!
+C <16:40:15> Start! - Release DB Component!
+C <16:48:52> ########### CorumOnline - World Server Started! ###########
+C <16:48:53> GuildInfo Load - Start
+C <16:48:53> GuildInfo Load - End
+G <17:07:05> WorldUserList Added! in QueryTypeUserInfo() (Name:½ÉÁø¼·)
+G <17:07:05> <yakolla> 1480004, 1 :: new m_pListRefreshFromDungeon
+G <17:10:04> WorldUserList Removed! in OnDisconnectUser() (Name:½ÉÁø¼·)
+G <17:12:17> WorldUserList Added! in QueryTypeUserInfo() (Name:½ÉÁø¼·)
+G <17:12:17> <yakolla> 1480004, 2 :: new m_pListRefreshFromDungeon
+G <17:15:42> WorldUserList Removed! in OnDisconnectUser() (Name:½ÉÁø¼·)
+G <17:16:49> WorldUserList Added! in QueryTypeUserInfo() (Name:½ÉÁø¼·)
+G <17:16:49> <yakolla> 1480004, 3 :: new m_pListRefreshFromDungeon
+G <17:17:18> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:½ÉÁø¼·)
+A <17:21:03> Dungeon Server Disconnected! (ID=4025)
+C <17:50:26> ########### CorumOnline - World Server Started! ###########
+C <17:50:27> GuildInfo Load - Start
+C <17:50:27> GuildInfo Load - End
+A <17:52:09> Dungeon Server Disconnected! (ID=4025)
+C <18:05:10> ########### CorumOnline - World Server Started! ###########
+C <18:05:10> GuildInfo Load - Start
+C <18:05:10> GuildInfo Load - End
+G <18:08:23> WorldUserList Added! in QueryTypeUserInfo() (Name:½ÉÁø¼·)
+G <18:08:23> <yakolla> 1480004, 1 :: new m_pListRefreshFromDungeon
+G <18:08:49> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:½ÉÁø¼·)
+A <18:18:26> Dungeon Server Disconnected! (ID=4025)

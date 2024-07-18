@@ -1,0 +1,20 @@
+C <21:19:27> ########### CorumZero Online - Dungeon Server Started! ###########
+C <21:19:55> ########### CorumZero Online - Dungeon Server Started! ###########
+C <21:24:21> ########### CorumZero Online - Dungeon Server Started! ###########
+C <21:28:35> ########### CorumZero Online - Dungeon Server Started! ###########
+C <21:31:02> ########### CorumZero Online - Dungeon Server Started! ###########
+B <21:32:42> [Before Die] Name : GM001รฮปร Criminal : 32767, Level : 130 exp : 167026932, decExpItem : 0, IncExpItem : 0
+B <21:32:42> [After Die] Name : GM001รฮปร Criminal : 32767, Level : 130 exp : 167000000
+A <21:35:43> World Server Disconnected! Server Will Terminate...
+C <21:35:53> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+A <21:38:15> World Server Disconnected! Server Will Terminate...
+C <21:38:25> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:38:26> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:38:35> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:38:36> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:38:45> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:38:46> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:38:55> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:38:56> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:39:05> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+A <21:40:41> World Server Disconnected! Server Will Terminate...

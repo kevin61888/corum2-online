@@ -1,0 +1,202 @@
+C <12:00:08> ########### CorumOnline - LoginAgent Server Started! ###########
+B <12:00:08> @ Connecting SQL Server(Game DB)...
+B <12:00:09> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <12:00:09> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <12:00:09> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <12:00:09> @ Connecting SQL Server(Billing DB)...
+B <12:00:09> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <12:00:09> @ Connecting SQL Server(Log DB)...
+B <12:00:09> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <12:00:37> @ Now Listening... (For Userside(7001))
+B <12:00:38> @ Userside already listening!
+B <12:00:38> @ Userside already listening!
+B <12:00:38> @ Userside already listening!
+B <12:00:39> @ Userside already listening!
+C <13:58:51> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:58:51> @ Connecting SQL Server(Game DB)...
+B <13:58:51> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <13:58:51> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <13:58:51> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <13:58:51> @ Connecting SQL Server(Billing DB)...
+B <13:58:51> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <13:58:51> @ Connecting SQL Server(Log DB)...
+B <13:58:51> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <13:58:53> @ Now Listening... (For Userside(7001))
+B <13:58:53> @ Userside already listening!
+B <13:58:53> @ Userside already listening!
+B <13:58:54> @ Userside already listening!
+B <14:10:11> @ Userside already listening!
+B <14:10:11> @ Userside already listening!
+B <14:10:11> @ Userside already listening!
+C <14:12:45> ########### CorumOnline - LoginAgent Server Started! ###########
+B <14:12:45> @ Connecting SQL Server(Game DB)...
+B <14:12:45> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <14:12:45> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <14:12:45> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <14:12:45> @ Connecting SQL Server(Billing DB)...
+B <14:12:45> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <14:12:45> @ Connecting SQL Server(Log DB)...
+B <14:12:45> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <14:12:46> @ Now Listening... (For Userside(7001))
+B <14:12:46> @ Userside already listening!
+B <14:12:46> @ Userside already listening!
+B <14:12:47> @ Userside already listening!
+B <14:12:52> Invalid WorldServer IP Address Connected! Check WorldServerTable!(192.168.1.88)
+C <15:49:39> ########### CorumOnline - LoginAgent Server Started! ###########
+B <15:49:39> @ Connecting SQL Server(Game DB)...
+B <15:49:39> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <15:49:39> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <15:49:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <15:49:39> @ Connecting SQL Server(Billing DB)...
+B <15:49:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <15:49:39> @ Connecting SQL Server(Log DB)...
+B <15:49:39> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <15:49:40> @ Now Listening... (For Userside(7001))
+B <15:49:40> @ Userside already listening!
+B <15:49:41> @ Userside already listening!
+B <15:49:41> @ Userside already listening!
+B <15:49:41> @ Userside already listening!
+B <15:58:14> @ Userside already listening!
+B <15:58:15> @ Userside already listening!
+B <15:58:15> @ Userside already listening!
+B <15:58:15> @ Userside already listening!
+B <15:58:15> @ Userside already listening!
+B <15:58:15> @ Userside already listening!
+B <15:58:16> @ Userside already listening!
+A <16:00:11> WorldServer Disconnected! (WorldMapID=1)
+B <16:00:11> OnDisconnectServer() : SetEvent(g_pThis->m_hKeyEvent[7])
+B <16:00:11> ShutDownServer()
+C <16:00:11> Start! - Logout All User!
+C <16:00:12> End! - Logout All User!
+C <16:00:12> Start! - Delete OwnServerInfo!
+C <16:00:12> End! - Delete OwnServerInfo!
+C <16:00:12> Start! - Release BaseNetwork!
+C <16:00:13> End! - Release BaseNetwork!
+C <16:00:13> Start! - Release DB Component!
+C <16:00:13> End! - Release DB Component!
+C <16:00:13> Start! - CoUninitialize!
+C <16:00:39> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:00:39> @ Connecting SQL Server(Game DB)...
+B <16:00:39> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <16:00:39> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <16:00:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:00:39> @ Connecting SQL Server(Billing DB)...
+B <16:00:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:00:39> @ Connecting SQL Server(Log DB)...
+B <16:00:39> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <16:00:41> @ Now Listening... (For Userside(7001))
+B <16:00:41> @ Userside already listening!
+B <16:00:41> @ Userside already listening!
+B <16:00:41> @ Userside already listening!
+B <16:00:41> @ Userside already listening!
+B <16:00:41> @ Userside already listening!
+B <16:00:42> @ Userside already listening!
+B <16:00:42> @ Userside already listening!
+B <16:00:42> @ Userside already listening!
+A <16:01:15> WorldServer Disconnected! (WorldMapID=1)
+B <16:01:15> OnDisconnectServer() : SetEvent(g_pThis->m_hKeyEvent[7])
+B <16:01:15> ShutDownServer()
+C <16:01:15> Start! - Logout All User!
+C <16:01:15> End! - Logout All User!
+C <16:01:15> Start! - Delete OwnServerInfo!
+C <16:01:15> End! - Delete OwnServerInfo!
+C <16:01:15> Start! - Release BaseNetwork!
+C <16:01:15> End! - Release BaseNetwork!
+C <16:01:15> Start! - Release DB Component!
+C <16:01:15> End! - Release DB Component!
+C <16:01:15> Start! - CoUninitialize!
+C <16:01:55> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:01:55> @ Connecting SQL Server(Game DB)...
+B <16:01:55> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <16:01:55> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <16:01:55> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:01:55> @ Connecting SQL Server(Billing DB)...
+B <16:01:55> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:01:55> @ Connecting SQL Server(Log DB)...
+B <16:01:55> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <16:01:56> @ Now Listening... (For Userside(7001))
+B <16:01:57> @ Userside already listening!
+B <16:01:57> @ Userside already listening!
+B <16:01:57> @ Userside already listening!
+B <16:01:57> @ Userside already listening!
+B <16:03:33> WorldServer is Not Attached! (WorldMapID=1)
+B <16:04:20> WorldServer is Not Attached! (WorldMapID=1)
+B <16:04:50> WorldServer is Not Attached! (WorldMapID=1)
+B <16:09:33> WorldServer is Not Attached! (WorldMapID=1)
+B <16:09:51> WorldServer is Not Attached! (WorldMapID=1)
+C <16:58:49> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:58:49> @ Connecting SQL Server(Game DB)...
+C <16:59:36> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:59:36> @ Connecting SQL Server(Game DB)...
+C <16:59:50> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:59:50> @ Connecting SQL Server(Game DB)...
+B <16:59:50> @ SQL Server(Game DB) Connected!()
+B <16:59:50> @ SQL Server(Total DB) Connected!()
+B <16:59:50> @ SQL Server(Member DB) Connected!()
+B <16:59:50> @ Connecting SQL Server(Billing DB)...
+B <16:59:50> @ SQL Server(Member DB) Connected!()
+B <16:59:50> @ Connecting SQL Server(Log DB)...
+B <16:59:50> @ SQL Server(Log DB) Connected!()
+B <16:59:51> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <16:59:51> Fail to query BaseClassInfo!
+B <16:59:51> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon
+C <17:00:07> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:00:07> @ Connecting SQL Server(Game DB)...
+B <17:00:07> @ SQL Server(Game DB) Connected!()
+B <17:00:07> @ SQL Server(Total DB) Connected!()
+B <17:00:07> @ SQL Server(Member DB) Connected!()
+B <17:00:07> @ Connecting SQL Server(Billing DB)...
+B <17:00:07> @ SQL Server(Member DB) Connected!()
+B <17:00:07> @ Connecting SQL Server(Log DB)...
+B <17:00:07> @ SQL Server(Log DB) Connected!()
+B <17:00:07> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:00:07> Fail to query BaseClassInfo!
+B <17:00:07> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon
+C <17:00:56> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:00:56> @ Connecting SQL Server(Game DB)...
+B <17:00:56> @ SQL Server(Game DB) Connected!()
+B <17:00:56> @ SQL Server(Total DB) Connected!()
+B <17:00:56> @ SQL Server(Member DB) Connected!()
+B <17:00:56> @ Connecting SQL Server(Billing DB)...
+B <17:00:56> @ SQL Server(Member DB) Connected!()
+B <17:00:56> @ Connecting SQL Server(Log DB)...
+B <17:00:56> @ SQL Server(Log DB) Connected!()
+B <17:00:56> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:00:56> Fail to query BaseClassInfo!
+B <17:00:56> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon
+C <17:02:37> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:02:37> @ Connecting SQL Server(Game DB)...
+B <17:02:37> @ SQL Server(Game DB) Connected!()
+B <17:02:37> @ SQL Server(Total DB) Connected!()
+B <17:02:37> @ SQL Server(Member DB) Connected!()
+B <17:02:37> @ Connecting SQL Server(Billing DB)...
+B <17:02:37> @ SQL Server(Member DB) Connected!()
+B <17:02:37> @ Connecting SQL Server(Log DB)...
+B <17:02:37> @ SQL Server(Log DB) Connected!()
+B <17:02:37> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:02:37> Fail to query BaseClassInfo!
+B <17:02:37> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon
+C <17:02:58> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:02:58> @ Connecting SQL Server(Game DB)...
+B <17:02:58> @ SQL Server(Game DB) Connected!()
+B <17:02:58> @ SQL Server(Total DB) Connected!()
+B <17:02:58> @ SQL Server(Member DB) Connected!()
+B <17:02:58> @ Connecting SQL Server(Billing DB)...
+B <17:02:58> @ SQL Server(Member DB) Connected!()
+B <17:02:58> @ Connecting SQL Server(Log DB)...
+B <17:02:58> @ SQL Server(Log DB) Connected!()
+B <17:02:58> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:02:58> Fail to query BaseClassInfo!
+B <17:02:58> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon
+C <17:31:59> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:32:00> @ Connecting SQL Server(Game DB)...
+B <17:32:00> @ SQL Server(Game DB) Connected!()
+B <17:32:00> @ SQL Server(Total DB) Connected!()
+B <17:32:00> @ SQL Server(Member DB) Connected!()
+B <17:32:00> @ Connecting SQL Server(Billing DB)...
+B <17:32:00> @ SQL Server(Member DB) Connected!()
+B <17:32:00> @ Connecting SQL Server(Log DB)...
+B <17:32:00> @ SQL Server(Log DB) Connected!()
+B <17:32:00> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:32:00> Fail to query BaseClassInfo!
+B <17:32:00> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: 对象名  'Item_Weapon' 无效。, Query : Select * from Item_Weapon

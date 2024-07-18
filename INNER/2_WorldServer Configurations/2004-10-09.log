@@ -1,0 +1,331 @@
+B <00:07:51> Invalid Server IP Address Connected! Check ServerTable For System DB!(222.106.120.39)
+C <00:14:01> Unattached Server Disconnected! (IP=222.106.120.39)
+B <00:14:05> Server That has Invalid ID Try to Login!(ID=7777)
+A <00:14:19> LoginAgent Server Disconnected! (ID=0)
+C <00:14:19> Start! - delete Certain IP List!
+C <00:14:19> End! - delete Certain IP List!
+C <00:14:19> Start! - delete AcceptTable!
+C <00:14:19> Start! - delete AcceptTable!
+C <00:14:19> Start! - delete DungeonTable!
+C <00:14:19> End! - delete DungeonTable!
+C <00:14:19> Start! - delete EventDungeonManager!
+C <00:14:19> End! - delete EventDungeonManager!
+C <00:14:19> Start! - delete CConnectionDistributionTable!
+C <00:14:19> End! - delete CConnectionDistributionTable!
+C <00:14:19> Start! - delete GuildTable!
+C <00:14:19> End! - delete GuildTable!
+C <00:14:19> Start! - delete PartyTable!
+C <00:14:19> End! - delete PartyTable!
+C <00:14:19> Start unloading notice messgae data.
+C <00:14:19> End unloading notice message data.
+C <00:14:19> Start! - delete GroupTable!
+C <00:14:19> End! - delete GorupTable!
+C <00:14:19> Start! - Release GuildOfflinePool Pool!
+C <00:14:19> End! - Release GuildOfflinePool Pool!
+C <00:14:19> Start! - Release GroupTable Pool!
+C <00:14:19> End! - Release GroupTable Pool!
+C <00:14:19> Start! - Release GuildTable Pool!
+C <00:14:19> End! - Release GuildTable Pool!
+C <00:14:19> Start! - Release GuildUser Pool!
+C <00:14:19> End! - Release GuildUser Pool!
+C <00:14:19> Start! - Release PartyTable Pool!
+C <00:14:19> End! - Release PartyTable Pool!
+C <00:14:19> Start! - Release PartyUser Pool!
+C <00:14:19> Start! - Delete UserTable!
+C <00:14:19> End! - Delete UserTable!
+C <00:14:19> Start! - Delete ServerTable!
+C <00:14:19> End! - Delete ServerTable!
+C <00:14:19> Start! - Delete OwnServerInfo!
+C <00:14:19> End! - Delete OwnServerInfo!
+C <00:16:10> ########### CorumOnline - World Server Started! ###########
+C <00:16:12> GuildInfo Load - Start
+C <00:16:12> GuildInfo Load - End
+A <00:17:14> Dungeon Server Disconnected! (ID=7777)
+B <00:19:47> Server That has Invalid ID Try to Login!(ID=7201)
+C <00:19:56> Refresh Message Sended to All Dungeon Server!
+A <00:20:11> LoginAgent Server Disconnected! (ID=0)
+C <00:20:11> Start! - delete Certain IP List!
+C <00:20:11> End! - delete Certain IP List!
+C <00:20:11> Start! - delete AcceptTable!
+C <00:20:11> Start! - delete AcceptTable!
+C <00:20:11> Start! - delete DungeonTable!
+C <00:20:11> End! - delete DungeonTable!
+C <00:20:11> Start! - delete EventDungeonManager!
+C <00:20:11> End! - delete EventDungeonManager!
+C <00:20:11> Start! - delete CConnectionDistributionTable!
+C <00:20:11> End! - delete CConnectionDistributionTable!
+C <00:20:11> Start! - delete GuildTable!
+C <00:20:11> End! - delete GuildTable!
+C <00:20:11> Start! - delete PartyTable!
+C <00:20:11> End! - delete PartyTable!
+C <00:20:11> Start unloading notice messgae data.
+C <00:20:11> End unloading notice message data.
+C <00:20:11> Start! - delete GroupTable!
+C <00:20:11> End! - delete GorupTable!
+C <00:20:11> Start! - Release GuildOfflinePool Pool!
+C <00:20:11> End! - Release GuildOfflinePool Pool!
+C <00:20:11> Start! - Release GroupTable Pool!
+C <00:20:11> End! - Release GroupTable Pool!
+C <00:20:11> Start! - Release GuildTable Pool!
+C <00:20:11> End! - Release GuildTable Pool!
+C <00:20:11> Start! - Release GuildUser Pool!
+C <00:20:11> End! - Release GuildUser Pool!
+C <00:20:11> Start! - Release PartyTable Pool!
+C <00:20:11> End! - Release PartyTable Pool!
+C <00:20:11> Start! - Release PartyUser Pool!
+C <00:20:11> Start! - Delete UserTable!
+C <00:20:11> End! - Delete UserTable!
+C <00:20:11> Start! - Delete ServerTable!
+C <00:20:11> End! - Delete ServerTable!
+C <00:20:11> Start! - Delete OwnServerInfo!
+C <00:20:11> End! - Delete OwnServerInfo!
+C <00:20:11> Start! - Release BaseNetwork!
+C <00:20:13> End! - Release BaseNetwork!
+C <00:20:13> Start! - Release DB Component!
+C <00:20:13> End! - Release DB Component!
+C <00:20:13> Start! - CoUninitialize!
+C <00:20:51> ########### CorumOnline - World Server Started! ###########
+C <00:20:52> GuildInfo Load - Start
+C <00:20:53> GuildInfo Load - End
+A <00:58:57> LoginAgent Server Disconnected! (ID=0)
+C <00:58:57> Start! - delete Certain IP List!
+C <00:58:57> End! - delete Certain IP List!
+C <00:58:57> Start! - delete AcceptTable!
+C <00:58:57> Start! - delete AcceptTable!
+C <00:58:57> Start! - delete DungeonTable!
+C <00:58:57> End! - delete DungeonTable!
+C <00:58:57> Start! - delete EventDungeonManager!
+C <00:58:57> End! - delete EventDungeonManager!
+C <00:58:57> Start! - delete CConnectionDistributionTable!
+C <00:58:57> End! - delete CConnectionDistributionTable!
+C <00:58:57> Start! - delete GuildTable!
+C <00:58:57> End! - delete GuildTable!
+C <00:58:57> Start! - delete PartyTable!
+C <00:58:57> End! - delete PartyTable!
+C <00:58:57> Start unloading notice messgae data.
+C <00:58:57> End unloading notice message data.
+C <00:58:57> Start! - delete GroupTable!
+C <00:58:57> End! - delete GorupTable!
+C <00:58:57> Start! - Release GuildOfflinePool Pool!
+C <00:58:57> End! - Release GuildOfflinePool Pool!
+C <00:58:57> Start! - Release GroupTable Pool!
+C <00:58:57> End! - Release GroupTable Pool!
+C <00:58:57> Start! - Release GuildTable Pool!
+C <00:58:57> End! - Release GuildTable Pool!
+C <00:58:57> Start! - Release GuildUser Pool!
+C <00:58:57> End! - Release GuildUser Pool!
+C <00:58:57> Start! - Release PartyTable Pool!
+C <00:58:57> End! - Release PartyTable Pool!
+C <00:58:57> Start! - Release PartyUser Pool!
+C <00:58:57> Start! - Delete UserTable!
+C <00:58:57> End! - Delete UserTable!
+C <00:58:57> Start! - Delete ServerTable!
+C <00:58:57> End! - Delete ServerTable!
+C <00:58:57> Start! - Delete OwnServerInfo!
+C <00:58:57> End! - Delete OwnServerInfo!
+C <00:58:58> Start! - Release BaseNetwork!
+C <00:58:59> End! - Release BaseNetwork!
+C <00:58:59> Start! - Release DB Component!
+C <00:58:59> End! - Release DB Component!
+C <00:58:59> Start! - CoUninitialize!
+C <01:05:41> ########### CorumOnline - World Server Started! ###########
+C <01:05:43> GuildInfo Load - Start
+C <01:05:43> GuildInfo Load - End
+A <02:22:39> LoginAgent Server Disconnected! (ID=0)
+C <02:22:39> Start! - delete Certain IP List!
+C <02:22:39> End! - delete Certain IP List!
+C <02:22:39> Start! - delete AcceptTable!
+C <02:22:39> Start! - delete AcceptTable!
+C <02:22:39> Start! - delete DungeonTable!
+C <02:22:39> End! - delete DungeonTable!
+C <02:22:39> Start! - delete EventDungeonManager!
+C <02:22:39> End! - delete EventDungeonManager!
+C <02:22:39> Start! - delete CConnectionDistributionTable!
+C <02:22:39> End! - delete CConnectionDistributionTable!
+C <02:22:39> Start! - delete GuildTable!
+C <02:22:39> End! - delete GuildTable!
+C <02:22:39> Start! - delete PartyTable!
+C <02:22:39> End! - delete PartyTable!
+C <02:22:39> Start unloading notice messgae data.
+C <02:22:39> End unloading notice message data.
+C <02:22:39> Start! - delete GroupTable!
+C <02:22:39> End! - delete GorupTable!
+C <02:22:39> Start! - Release GuildOfflinePool Pool!
+C <02:22:39> End! - Release GuildOfflinePool Pool!
+C <02:22:39> Start! - Release GroupTable Pool!
+C <02:22:39> End! - Release GroupTable Pool!
+C <02:22:39> Start! - Release GuildTable Pool!
+C <02:22:39> End! - Release GuildTable Pool!
+C <02:22:39> Start! - Release GuildUser Pool!
+C <02:22:39> End! - Release GuildUser Pool!
+C <02:22:39> Start! - Release PartyTable Pool!
+C <02:22:39> End! - Release PartyTable Pool!
+C <02:22:39> Start! - Release PartyUser Pool!
+C <02:22:39> Start! - Delete UserTable!
+C <02:22:39> End! - Delete UserTable!
+C <02:22:39> Start! - Delete ServerTable!
+C <02:22:39> End! - Delete ServerTable!
+C <02:22:39> Start! - Delete OwnServerInfo!
+C <02:22:39> End! - Delete OwnServerInfo!
+C <02:22:39> Start! - Release BaseNetwork!
+C <02:22:40> End! - Release BaseNetwork!
+C <02:22:40> Start! - Release DB Component!
+C <02:22:40> End! - Release DB Component!
+C <02:22:40> Start! - CoUninitialize!
+C <03:01:32> ########### CorumOnline - World Server Started! ###########
+C <03:01:34> GuildInfo Load - Start
+C <03:01:34> GuildInfo Load - End
+C <03:01:49> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <03:02:08> ########### CorumOnline - World Server Started! ###########
+C <03:02:10> GuildInfo Load - Start
+C <03:02:10> GuildInfo Load - End
+C <03:02:12> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <03:03:10> ########### CorumOnline - World Server Started! ###########
+C <03:03:12> GuildInfo Load - Start
+C <03:03:12> GuildInfo Load - End
+C <03:04:06> ########### CorumOnline - World Server Started! ###########
+C <03:04:08> GuildInfo Load - Start
+C <03:04:08> GuildInfo Load - End
+C <03:05:38> ########### CorumOnline - World Server Started! ###########
+C <03:05:39> GuildInfo Load - Start
+C <03:05:39> GuildInfo Load - End
+C <03:05:43> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <03:07:09> Unattached Server Disconnected! (IP=222.106.120.39)
+C <03:26:13> ########### CorumOnline - World Server Started! ###########
+C <03:26:15> GuildInfo Load - Start
+C <03:26:15> GuildInfo Load - End
+A <03:27:05> Dungeon Server Disconnected! (ID=7201)
+C <03:28:25> Unattached Server Disconnected! (IP=222.106.120.39)
+C <03:29:20> Unattached Server Disconnected! (IP=222.106.120.39)
+C <03:30:08> Unattached Server Disconnected! (IP=222.106.120.39)
+B <03:32:13> Server That has Invalid ID Try to Login!(ID=6209)
+A <03:32:29> LoginAgent Server Disconnected! (ID=0)
+C <03:32:29> Start! - delete Certain IP List!
+C <03:32:29> End! - delete Certain IP List!
+C <03:32:29> Start! - delete AcceptTable!
+C <03:32:29> Start! - delete AcceptTable!
+C <03:32:29> Start! - delete DungeonTable!
+C <03:32:29> End! - delete DungeonTable!
+C <03:32:29> Start! - delete EventDungeonManager!
+C <03:32:29> End! - delete EventDungeonManager!
+C <03:32:29> Start! - delete CConnectionDistributionTable!
+C <03:32:29> End! - delete CConnectionDistributionTable!
+C <03:32:29> Start! - delete GuildTable!
+C <03:32:29> End! - delete GuildTable!
+C <03:32:29> Start! - delete PartyTable!
+C <03:32:29> End! - delete PartyTable!
+C <03:32:29> Start unloading notice messgae data.
+C <03:32:29> End unloading notice message data.
+C <03:32:29> Start! - delete GroupTable!
+C <03:32:29> End! - delete GorupTable!
+C <03:32:29> Start! - Release GuildOfflinePool Pool!
+C <03:32:29> End! - Release GuildOfflinePool Pool!
+C <03:32:29> Start! - Release GroupTable Pool!
+C <03:32:29> End! - Release GroupTable Pool!
+C <03:32:29> Start! - Release GuildTable Pool!
+C <03:32:29> End! - Release GuildTable Pool!
+C <03:32:29> Start! - Release GuildUser Pool!
+C <03:32:29> End! - Release GuildUser Pool!
+C <03:32:29> Start! - Release PartyTable Pool!
+C <03:32:29> End! - Release PartyTable Pool!
+C <03:32:29> Start! - Release PartyUser Pool!
+C <03:32:29> Start! - Delete UserTable!
+C <03:32:29> End! - Delete UserTable!
+C <03:32:29> Start! - Delete ServerTable!
+C <03:32:29> End! - Delete ServerTable!
+C <03:32:29> Start! - Delete OwnServerInfo!
+C <03:32:29> End! - Delete OwnServerInfo!
+C <03:32:29> Start! - Release BaseNetwork!
+C <03:32:31> End! - Release BaseNetwork!
+C <03:32:31> Start! - Release DB Component!
+C <03:32:31> End! - Release DB Component!
+C <03:32:31> Start! - CoUninitialize!
+C <03:32:45> ########### CorumOnline - World Server Started! ###########
+C <03:32:47> GuildInfo Load - Start
+C <03:32:47> GuildInfo Load - End
+A <03:37:05> LoginAgent Server Disconnected! (ID=0)
+C <03:37:05> Start! - delete Certain IP List!
+C <03:37:05> End! - delete Certain IP List!
+C <03:37:05> Start! - delete AcceptTable!
+C <03:37:05> Start! - delete AcceptTable!
+C <03:37:05> Start! - delete DungeonTable!
+C <03:37:05> End! - delete DungeonTable!
+C <03:37:05> Start! - delete EventDungeonManager!
+C <03:37:05> End! - delete EventDungeonManager!
+C <03:37:05> Start! - delete CConnectionDistributionTable!
+C <03:37:05> End! - delete CConnectionDistributionTable!
+C <03:37:05> Start! - delete GuildTable!
+C <03:37:05> End! - delete GuildTable!
+C <03:37:05> Start! - delete PartyTable!
+C <03:37:05> End! - delete PartyTable!
+C <03:37:05> Start unloading notice messgae data.
+C <03:37:05> End unloading notice message data.
+C <03:37:05> Start! - delete GroupTable!
+C <03:37:05> End! - delete GorupTable!
+C <03:37:05> Start! - Release GuildOfflinePool Pool!
+C <03:37:05> End! - Release GuildOfflinePool Pool!
+C <03:37:05> Start! - Release GroupTable Pool!
+C <03:37:05> End! - Release GroupTable Pool!
+C <03:37:05> Start! - Release GuildTable Pool!
+C <03:37:05> End! - Release GuildTable Pool!
+C <03:37:05> Start! - Release GuildUser Pool!
+C <03:37:05> End! - Release GuildUser Pool!
+C <03:37:05> Start! - Release PartyTable Pool!
+C <03:37:05> End! - Release PartyTable Pool!
+C <03:37:05> Start! - Release PartyUser Pool!
+C <03:37:05> Start! - Delete UserTable!
+C <03:37:05> End! - Delete UserTable!
+C <03:37:05> Start! - Delete ServerTable!
+C <03:37:05> End! - Delete ServerTable!
+C <03:37:05> Start! - Delete OwnServerInfo!
+C <03:37:05> End! - Delete OwnServerInfo!
+C <03:37:05> Start! - Release BaseNetwork!
+C <03:37:07> End! - Release BaseNetwork!
+C <03:37:07> Start! - Release DB Component!
+C <03:37:07> End! - Release DB Component!
+C <03:37:07> Start! - CoUninitialize!
+C <03:38:36> ########### CorumOnline - World Server Started! ###########
+C <03:38:38> GuildInfo Load - Start
+C <03:38:38> GuildInfo Load - End
+A <10:10:06> Dungeon Server Disconnected! (ID=6209)
+A <10:10:16> LoginAgent Server Disconnected! (ID=0)
+C <10:10:16> Start! - delete Certain IP List!
+C <10:10:16> End! - delete Certain IP List!
+C <10:10:16> Start! - delete AcceptTable!
+C <10:10:16> Start! - delete AcceptTable!
+C <10:10:16> Start! - delete DungeonTable!
+C <10:10:16> End! - delete DungeonTable!
+C <10:10:16> Start! - delete EventDungeonManager!
+C <10:10:16> End! - delete EventDungeonManager!
+C <10:10:16> Start! - delete CConnectionDistributionTable!
+C <10:10:16> End! - delete CConnectionDistributionTable!
+C <10:10:16> Start! - delete GuildTable!
+C <10:10:16> End! - delete GuildTable!
+C <10:10:16> Start! - delete PartyTable!
+C <10:10:16> End! - delete PartyTable!
+C <10:10:16> Start unloading notice messgae data.
+C <10:10:16> End unloading notice message data.
+C <10:10:16> Start! - delete GroupTable!
+C <10:10:16> End! - delete GorupTable!
+C <10:10:16> Start! - Release GuildOfflinePool Pool!
+C <10:10:16> End! - Release GuildOfflinePool Pool!
+C <10:10:16> Start! - Release GroupTable Pool!
+C <10:10:16> End! - Release GroupTable Pool!
+C <10:10:16> Start! - Release GuildTable Pool!
+C <10:10:16> End! - Release GuildTable Pool!
+C <10:10:16> Start! - Release GuildUser Pool!
+C <10:10:16> End! - Release GuildUser Pool!
+C <10:10:16> Start! - Release PartyTable Pool!
+C <10:10:16> End! - Release PartyTable Pool!
+C <10:10:16> Start! - Release PartyUser Pool!
+C <10:10:16> Start! - Delete UserTable!
+C <10:10:16> End! - Delete UserTable!
+C <10:10:16> Start! - Delete ServerTable!
+C <10:10:16> End! - Delete ServerTable!
+C <10:10:16> Start! - Delete OwnServerInfo!
+C <10:10:16> End! - Delete OwnServerInfo!
+C <10:10:17> Start! - Release BaseNetwork!
+C <10:10:18> End! - Release BaseNetwork!
+C <10:10:18> Start! - Release DB Component!
+C <10:10:18> End! - Release DB Component!
+C <10:10:18> Start! - CoUninitialize!

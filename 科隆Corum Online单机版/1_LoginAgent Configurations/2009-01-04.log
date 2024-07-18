@@ -1,0 +1,86 @@
+C <01:38:54> ########### CorumOnline - LoginAgent Server Started! ###########
+B <01:38:54> @ Connecting SQL Server(Game DB)...
+B <01:38:54> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <01:38:54> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <01:38:54> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <01:38:54> @ Connecting SQL Server(Billing DB)...
+B <01:38:54> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <01:38:54> @ Connecting SQL Server(Log DB)...
+B <01:38:54> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <01:38:54> @ Now Listening... (For Userside(7001))
+C <17:58:20> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:58:20> @ Connecting SQL Server(Game DB)...
+B <17:58:20> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:58:20> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:58:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:58:20> @ Connecting SQL Server(Billing DB)...
+B <17:58:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:58:20> @ Connecting SQL Server(Log DB)...
+B <17:58:20> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <17:58:21> @ Now Listening... (For Userside(7001))
+A <18:04:51> WorldServer Disconnected! (WorldMapID=1)
+C <18:29:55> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:29:55> @ Connecting SQL Server(Game DB)...
+B <18:29:55> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <18:29:55> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <18:29:55> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:29:55> @ Connecting SQL Server(Billing DB)...
+B <18:29:55> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:29:55> @ Connecting SQL Server(Log DB)...
+B <18:29:55> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <18:29:55> @ Failed To Connect Billing Server! (IP:, Port:0)
+C <18:30:18> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:30:18> @ Connecting SQL Server(Game DB)...
+B <18:30:18> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <18:30:18> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <18:30:18> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:30:18> @ Connecting SQL Server(Billing DB)...
+B <18:30:18> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:30:18> @ Connecting SQL Server(Log DB)...
+B <18:30:18> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <18:30:20> @ Now Listening... (For Userside(7001))
+C <18:30:37> Login overlapped but prev userinfo is not exist!
+C <18:34:35> Login overlapped but prev userinfo is not exist!
+C <18:35:37> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:35:37> @ Connecting SQL Server(Game DB)...
+B <18:35:39> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <18:35:39> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <18:35:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:35:39> @ Connecting SQL Server(Billing DB)...
+B <18:35:39> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:35:39> @ Connecting SQL Server(Log DB)...
+B <18:35:39> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <18:35:41> @ Now Listening... (For Userside(7001))
+B <18:40:34> pUser is NULL!! in QueryTypeLogin()
+C <18:40:35> Login overlapped but prev userinfo is not exist!
+C <18:41:06> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:41:06> @ Connecting SQL Server(Game DB)...
+B <18:41:06> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <18:41:06> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <18:41:06> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:41:06> @ Connecting SQL Server(Billing DB)...
+B <18:41:06> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:41:06> @ Connecting SQL Server(Log DB)...
+B <18:41:06> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <18:41:06> @ Now Listening... (For Userside(7001))
+C <18:42:38> Login overlapped but prev userinfo is not exist!
+C <18:46:10> Login overlapped but prev userinfo is not exist!
+C <18:52:14> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:52:14> @ Connecting SQL Server(Game DB)...
+B <18:52:14> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <18:52:14> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <18:52:14> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:52:14> @ Connecting SQL Server(Billing DB)...
+B <18:52:14> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <18:52:14> @ Connecting SQL Server(Log DB)...
+B <18:52:14> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+C <23:15:30> ########### CorumOnline - LoginAgent Server Started! ###########
+B <23:15:31> @ Connecting SQL Server(Game DB)...
+B <23:15:31> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <23:15:31> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <23:15:31> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <23:15:31> @ Connecting SQL Server(Billing DB)...
+B <23:15:31> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <23:15:31> @ Connecting SQL Server(Log DB)...
+B <23:15:31> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <23:15:33> @ Now Listening... (For Userside(7001))

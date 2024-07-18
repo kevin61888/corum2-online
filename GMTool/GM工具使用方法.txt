@@ -1,0 +1,7 @@
+修改config.ini里的sql帐号密码和IP
+
+Corum_Total_DB数据库里的CM_LOG_INFO里修改登陆帐号密码和绑定IP
+
+logintype设置成10000是最高权限.
+
+其它不废话了,设置sql帐号时记得把原有的删掉,新建的要指定权限,我不废话,大家都懂.

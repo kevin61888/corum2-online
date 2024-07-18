@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{a146d023-16a2-4ace-b0e1-c73fb9ef3db1}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{670ab70c-1127-495b-b6fc-ea42b7902d3d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Packet">
+      <UniqueIdentifier>{aa0dd517-9cb7-4ab0-b6e0-ce944cabedac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{5fd95446-2407-4539-804c-948aee366492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COM Interface">
+      <UniqueIdentifier>{823af7ea-bd44-452b-a267-74a8445f8ad2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{76083549-b26c-476b-8d04-9325280ad4d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{2a47f77e-fb59-4bc7-abb2-29b781d871d3}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CommonServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DFXForm.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Encode.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="ReportCMListener.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="UniqueProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseItem.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ComInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonAccessory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonGlobalDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonPacket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AgentServerPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="CharSelectPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="General_Command.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="GM_Command.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="GMPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="ProtocolDefinition.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="RivalGuildWarPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldPacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="AbyssHash.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="AbyssHash64.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="DFXForm.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Encode.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="IllegalPacketLog.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Profile.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ReportCMListener.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="SizeReporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="StringFunc.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="UniqueProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="DBStruct.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="inetwork.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="IOleDBThread.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="network_guid.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="typedef.h">
+      <Filter>COM Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseItem.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManagerDefine.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

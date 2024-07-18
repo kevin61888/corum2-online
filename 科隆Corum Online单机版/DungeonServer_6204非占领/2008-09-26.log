@@ -1,0 +1,21 @@
+C <19:29:53> ########### CorumZero Online - Dungeon Server Started! ###########
+C <19:37:50> ########### CorumZero Online - Dungeon Server Started! ###########
+B <19:41:56> [Before Die] Name : test1 Criminal : 156, Level : 200 exp : 1032004698, decExpItem : 0, IncExpItem : 0
+B <19:41:56> [After Die] Name : test1 Criminal : 156, Level : 200 exp : 1032000000
+C <19:42:22> Start reload dungeonserver data!
+C <19:42:22> End reload dungeonserver data!
+C <19:44:38> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <19:44:43> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <19:52:43> Start reload dungeonserver data!
+C <19:52:43> End reload dungeonserver data!
+A <20:03:51> World Server Disconnected! Server Will Terminate...
+C <03:22:18> ########### CorumZero Online - Dungeon Server Started! ###########
+C <04:20:47> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <04:20:52> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <04:27:05> Start reload dungeonserver data!
+C <04:27:23> End reload dungeonserver data!
+C <04:28:37> ########### CorumZero Online - Dungeon Server Started! ###########
+C <04:29:33> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <04:29:34> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <04:29:37> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <04:29:39> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080926 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )

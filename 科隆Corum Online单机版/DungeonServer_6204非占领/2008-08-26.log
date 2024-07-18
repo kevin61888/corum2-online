@@ -1,0 +1,7 @@
+C <10:38:41> ########### CorumZero Online - Dungeon Server Started! ###########
+C <10:39:03> @ Can not connect SQL Server(Game DB)! IP="192.168.1.88,2433"
+B <10:39:03> Fail to Query DungeonInfo!(Port=14201)
+B <10:39:03> Fail to Query ServerSerialID!(Port=14201)
+C <10:40:12> ########### CorumZero Online - Dungeon Server Started! ###########
+C <10:40:32> ########### CorumZero Online - Dungeon Server Started! ###########
+A <10:47:28> World Server Disconnected! Server Will Terminate...

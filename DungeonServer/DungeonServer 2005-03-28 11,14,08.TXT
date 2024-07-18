@@ -1,0 +1,184 @@
+==============================================================================
+
+------------------------------------------------------------------------------
+    Basic Information
+------------------------------------------------------------------------------
+
+Program Name : DungeonServer
+EXE          : d:\corum\inner\3_dungeonserver configurations_±æµåÀü\DungeonServer.exe
+User         : Administrator
+Computer     : WIN2003
+
+OS           : Windows 2003 5.2 (Build 3790)
+Processor    : AMD Unknown
+Disk         : A:, C: (FREE: 47G/ TOTAL: 58G), D: (FREE: 79G/ TOTAL: 90G), E:, F:, 
+
+Program      : d:\[Source]\Develop_v1\DungeonServer\CommonServer.dll
+Exception    : C0000005 (ACCESS_VIOLATION)
+Fault Address: 1002512B 02:0000512B
+
+
+------------------------------------------------------------------------------
+    x86 Registers
+------------------------------------------------------------------------------
+
+EAX=00000000  EBX=7FFDF000  ECX=00000000  EDX=00B5FA30
+ESI=0012F698  EDI=0012F770  EBP=0012F770
+DS =0023      ES=0023       FS=0038       GS:0000
+CS:EIP=001B:1002512B
+SS:ESP=0023:0012F68C
+Flags=00010212
+
+
+------------------------------------------------------------------------------
+    Call Stack (Short)
+------------------------------------------------------------------------------
+
+Address   Frame     Function                        SourceFile
+1002512B  0012F770  DecodeCFGFile+0x08I64X        
+004B3C16  0012F938  InitNetwork+0x08I64X            d:\[source]\develop_v1\dungeonserver\serverfunction.cpp line 519
+004AB235  0012FEDC  main+0x08I64X                   d:\[source]\develop_v1\dungeonserver\main.cpp line 322
+0058E8F3  0012FFC0  mainCRTStartup+0x08I64X         f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c line 259
+77DEF38C  0012FFF0  TerminateThread+0x08I64X      
+
+
+------------------------------------------------------------------------------
+    Call Stack (Detail)
+------------------------------------------------------------------------------
+
+Address   Frame     Function                        SourceFile
+1002512B  0012F770  DecodeCFGFile+0x08I64X        
+
+004B3C16  0012F938  InitNetwork+0x08I64X            d:\[source]\develop_v1\dungeonserver\serverfunction.cpp line 519
+	Local 'hr' = 80040154
+	Local 'ev'
+	Local 'desc' DESC_NETWORK
+		 dwMaxUserNum = 0
+		 dwMaxServerNum = 0
+		 OnRecvFromUserTCP = 490086
+		 OnRecvFromServerTCP = 492007
+		 OnAcceptUser = 48F352
+		 OnAcceptServer = 48F51E
+		 OnDisconnectUser = 492CB9
+		 OnDisconnectServer = 492D77
+		 dwServerMaxTransferSize = 0
+		 dwUserMaxTransferSize = 0
+		 dwServerBufferSizePerConnection = 0
+		 dwUserBufferSizePerConnection = 0
+		 dwMainMsgQueMaxBufferSize = 0
+		 dwConnectNumAtSameTime = 14
+		 dwFlag = 0
+		 dwCustomDefineEventNum = C
+		 pEvent = 12F8C8
+
+
+004AB235  0012FEDC  main+0x08I64X                   d:\[source]\develop_v1\dungeonserver\main.cpp line 322
+	Local 'i' = 7
+	Parameter 'argc' = 1
+	Parameter 'argv' = B53618
+	Local 'hCombo' = CCCCCCCC
+	Local 'dwResult' = CCCCCCCC
+	Local 'irBuffer' _INPUT_RECORD
+		 EventType = 0
+		 Event
+
+	Local 'szTitle'
+	Local 'msg' tagMSG
+		 hwnd = CCCCCCCC
+		 message = CCCCCCCC
+		 wParam = CCCCCCCC
+		 lParam = CCCCCCCC
+		 time = CCCCCCCC
+		 pt = CCCCCCCCCCCCCCCC
+
+	Local 'bSuccess' = 1
+	Local 'nRet' = CCCCCCCC
+	Local 'dwMode' = A7
+
+0058E8F3  0012FFC0  mainCRTStartup+0x08I64X         f:\vs70builds\3077\vc\crtbld\crt\src\crt0.c line 259
+	Local 'mainret' = 0
+	Local 'posvi' = 12FEF0
+	Local 'managedapp' = 0
+	Local 'initret' = 0
+
+77DEF38C  0012FFF0  TerminateThread+0x08I64X      
+
+
+
+
+
+------------------------------------------------------------------------------
+    Memory Dump
+------------------------------------------------------------------------------
+
+Code: 16 bytes starting at (EIP = 1002512B)
+1002512B: 8B 09 50 FF 51 0C 3B F4  E8 B9 B8 FF FF 5F 5E 5B  ..P.Q.;......_^[
+
+Stack: 1024 bytes starting at (ESP = 0012F68C)
+0012F680: 00 00 00 00 00 00 00 00  00 00 00 00 7C F8 12 00  ............|...
+0012F690: 0A 00 00 00 00 00 00 00  2C F9 12 00 84 F7 12 00  ........,.......
+0012F6A0: 00 F0 FD 7F CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F6B0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F6C0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F6D0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F6E0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F6F0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F700: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F710: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F720: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F730: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F740: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F750: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F760: CC CC CC CC CC CC CC CC  30 FA B5 00 CC CC CC CC  ........0.......
+0012F770: 38 F9 12 00 16 3C 4B 00  7C F8 12 00 0A 00 00 00  8....<K.|.......
+0012F780: 00 00 00 00 8B FE 12 00  40 F9 12 00 00 F0 FD 7F  ........@.......
+0012F790: 30 FA B5 00 CC CC CC CC  30 FA B5 00 CC CC CC CC  0.......0.......
+0012F7A0: CC CC CC CC 30 FA B5 00  CC CC CC CC CC CC CC CC  ....0...........
+0012F7B0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F7C0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F7D0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F7E0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F7F0: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F800: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F810: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F820: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F830: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F840: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F850: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F860: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F870: 54 01 04 80 CC CC CC CC  CC CC CC CC 00 00 00 00  T...............
+0012F880: 00 00 00 00 86 00 49 00  07 20 49 00 52 F3 48 00  ......I.. I.R.H.
+0012F890: 1E F5 48 00 B9 2C 49 00  77 2D 49 00 00 00 00 00  ..H..,I.w-I.....
+0012F8A0: 00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................
+0012F8B0: 14 00 00 00 00 00 00 00  0C 00 00 00 C8 F8 12 00  ................
+0012F8C0: CC CC CC CC CC CC CC CC  C8 00 00 00 55 F5 48 00  ............U.H.
+0012F8D0: C8 00 00 00 1A 08 49 00  10 27 00 00 C5 25 49 00  ......I..'...%I.
+0012F8E0: 00 00 00 00 CB 29 49 00  00 00 00 00 24 26 49 00  .....)I.....$&I.
+0012F8F0: 00 00 00 00 C4 0D 49 00  00 00 00 00 1A 1C 49 00  ......I.......I.
+0012F900: 00 00 00 00 4C 26 49 00  00 00 00 00 70 16 49 00  ....L&I.....p.I.
+0012F910: 00 00 00 00 90 0F 49 00  00 00 00 00 A1 12 49 00  ......I.......I.
+0012F920: 60 EA 00 00 05 FF 48 00  CC CC CC CC D0 FE 12 00  `.....H.........
+0012F930: 7E 05 5B 00 FF FF FF FF  DC FE 12 00 35 B2 4A 00  ~.[.........5.J.
+0012F940: 00 00 00 00 00 00 00 00  00 F0 FD 7F D8 73 B5 00  .............s..
+0012F950: CC CC CC CC 48 2C B5 00  CC CC CC CC CC CC CC CC  ....H,..........
+0012F960: 48 2C B5 00 CC CC CC CC  CC CC CC CC CC CC CC CC  H,..............
+0012F970: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012F980: CC CC CC CC D0 2E B5 00  CC CC CC CC CC CC CC CC  ................
+0012F990: D0 2E B5 00 CC CC CC CC  CC CC CC CC 48 31 B5 00  ............H1..
+0012F9A0: CC CC CC CC CC CC CC CC  48 31 B5 00 CC CC CC CC  ........H1......
+0012F9B0: CC CC CC CC 80 31 B5 00  CC CC CC CC CC CC CC CC  .....1..........
+0012F9C0: 80 31 B5 00 CC CC CC CC  CC CC CC CC D8 73 B5 00  .1...........s..
+0012F9D0: CC CC CC CC CC CC CC CC  D8 73 B5 00 CC CC CC CC  .........s......
+0012F9E0: CC CC CC CC 28 B0 D7 00  CC CC CC CC CC CC CC CC  ....(...........
+0012F9F0: 68 54 D8 00 CC CC CC CC  CC CC CC CC 80 EC B5 00  hT..............
+0012FA00: CC CC CC CC CC CC CC CC  00 4F D9 00 CC CC CC CC  .........O......
+0012FA10: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA20: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA30: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA40: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA50: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA60: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+0012FA70: CC CC CC CC CC CC CC CC  CC CC CC CC CC CC CC CC  ................
+
+
+==============================================================================

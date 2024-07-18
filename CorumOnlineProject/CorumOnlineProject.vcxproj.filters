@@ -1,0 +1,1538 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f64a5bb3-ee5e-4a61-85f4-3543eb64f286}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4deb7c6b-5f09-45ee-92a7-8e0bffa8e6c1}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{6c88ce8c-4dc5-4cba-bb28-1464112f9f30}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Intro">
+      <UniqueIdentifier>{28548b17-13c8-416a-9672-e2543dd04578}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="Login">
+      <UniqueIdentifier>{866405d5-53c2-46f1-9efd-f25832a67742}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="CharSelect">
+      <UniqueIdentifier>{9fde27b2-c975-469e-b13a-4ab7a60bc7ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World">
+      <UniqueIdentifier>{8fdea71c-497c-4790-9c22-ca02fc60e6d5}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="World\World Msg">
+      <UniqueIdentifier>{bd874699-fa60-4bb7-919f-3bf53ebf0f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dungeon">
+      <UniqueIdentifier>{945fd1b5-593f-4755-b422-d371956cb99c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dungeon\Dungeon Msg">
+      <UniqueIdentifier>{f4e3a616-818a-421a-bd6b-d4b4169333ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PathFinding">
+      <UniqueIdentifier>{7d7e6578-bdbd-4928-b5d6-ebf51be2c376}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{c732e558-9e8e-4160-9417-98091a5be571}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Effect">
+      <UniqueIdentifier>{c30248cb-44a9-4dd4-9d02-6ea29d1ce98a}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{843eb566-92e0-4a4d-92fb-73afa787cf1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface\BaloonChat">
+      <UniqueIdentifier>{c6ee708f-7e2b-451b-8e5a-91a10b49bb6e}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\BlockWnd">
+      <UniqueIdentifier>{5746fd3b-9e0e-4e86-83f6-2ba3d0a0596a}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\DungeonInfo Wnd">
+      <UniqueIdentifier>{403b76d6-980e-45d5-b03b-1f7a435c8b30}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Character Change">
+      <UniqueIdentifier>{38093bc5-ee24-4b57-a318-0ac106a6e489}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Character Status Wnd">
+      <UniqueIdentifier>{88b415f2-f1a7-41a1-88d8-6a7d86cae21f}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\MiniMap Wnd">
+      <UniqueIdentifier>{2c01a1e3-93cf-4064-af64-6f569ef5a791}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Dungeon Siege Info Wnd">
+      <UniqueIdentifier>{d6c93040-bb1a-4f1b-aa61-b22866b8059e}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Event Dungeon">
+      <UniqueIdentifier>{e8889b55-405a-479f-8563-da90801373ea}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Guild">
+      <UniqueIdentifier>{f6f023e3-9da0-4fdd-a84f-d416ff25e028}</UniqueIdentifier>
+      <Extensions>cpp; h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Party">
+      <UniqueIdentifier>{ccea2a1f-628b-4761-9a73-f264cb40ab1d}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Item">
+      <UniqueIdentifier>{d4322162-0c5a-46f0-b72b-88509d902249}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Login Wnd">
+      <UniqueIdentifier>{704b7a2b-50f1-4496-8268-78681f36282b}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Match">
+      <UniqueIdentifier>{cde1abe4-ed25-4441-b831-7128655eff56}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Skill Wnd">
+      <UniqueIdentifier>{493eb9fc-55c4-48e3-abc3-8f8409ad1280}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Wnds in Dungeon">
+      <UniqueIdentifier>{33fbc7d3-31ce-40b4-b599-db7d1c3631e6}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="Interface\Guandina Status Wnd">
+      <UniqueIdentifier>{f727c733-3aaf-4b2b-b5bb-c0a7efe29be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GMTool">
+      <UniqueIdentifier>{64571a77-269f-463f-9afc-7f01972a3652}</UniqueIdentifier>
+      <Extensions>cpp;h;inl</Extensions>
+    </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{89c6fabf-def8-4738-9ba6-42988c1be97d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Minbobo">
+      <UniqueIdentifier>{1c85dc0f-baa6-49d8-84c3-0b397cc1e355}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SS3DEngine">
+      <UniqueIdentifier>{757fbaac-15f7-4945-b949-218682d05af3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Netmarble">
+      <UniqueIdentifier>{b340e16d-bfac-4217-ad64-5e2095e7a08c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface Sprite">
+      <UniqueIdentifier>{f6441e06-4d63-4b61-8c19-b191564ce050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DeepDark">
+      <UniqueIdentifier>{dd10d0cf-d6b0-40dc-baa0-96964cde4cdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Seven">
+      <UniqueIdentifier>{c31649d6-ee96-4ad4-9910-ce6b9a794192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="JJW6263">
+      <UniqueIdentifier>{9a4c3d78-967e-4b21-b0ce-3cee4490d71f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hash &amp; List">
+      <UniqueIdentifier>{831e0fa7-49e6-4c96-a5b2-58415ba2474d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChinaBilling">
+      <UniqueIdentifier>{c1c094d8-0821-4bfd-a837-3122e2c81aaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ItemNative">
+      <UniqueIdentifier>{799ce221-fd96-4480-aaa2-0f87c10fad39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ItemNativeWnd">
+      <UniqueIdentifier>{241619d4-be78-42a9-86fe-aa3463081af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RivalGuildWar">
+      <UniqueIdentifier>{cc911b8a-54ce-4fe3-afa1-7c9cca1b37ed}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="minjin">
+      <UniqueIdentifier>{465b02e8-1922-4d11-812a-575bc703ebaa}</UniqueIdentifier>
+      <Extensions>cpp;h</Extensions>
+    </Filter>
+    <Filter Include="CommonServer">
+      <UniqueIdentifier>{2493843d-e7a7-427e-9721-fdf27e02ab1c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChrInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crBaseMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crImageList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crListBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crListBoxItemInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crProxyMenuToDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crStaticText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crtList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crtNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DUNGEON_DATA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DUNGEON_DATA_EX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWarFinalSettingWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWarInvite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildwarRequest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWarStatusWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GxDefault.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IdentyGraphicCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IMEEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InitGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceInstance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalTimeObserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NetworkTimeObserver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parsing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyMatchingWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RivalGuildWarUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TeamMatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TokenCommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserHash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroProcess.cpp">
+      <Filter>Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalVariableLogin.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginMsg.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginProcess.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="CharSelectMsg.cpp">
+      <Filter>CharSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="CharSelectProcess.cpp">
+      <Filter>CharSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialCharacterJPN.cpp">
+      <Filter>CharSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldMsg_jjw6263.cpp">
+      <Filter>World\World Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldMsg_minbobo.cpp">
+      <Filter>World\World Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldMsg_yak.cpp">
+      <Filter>World\World Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldProcess.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg_deepdark.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg_jjw6263.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg_minbobo.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg_seven.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonMsg_yak.cpp">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonProcess.cpp">
+      <Filter>Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonProcess2nd.cpp">
+      <Filter>Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonProcess_Sound.cpp">
+      <Filter>Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\BlockLineManager.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\BlockManager.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\ControlStruct.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\DirectionManager.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\MemoryBlock.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\PriorityQue.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\SearchModule_Astar.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinding\VirtualBlockManager.cpp">
+      <Filter>PathFinding</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectCommand.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectProcess.cpp">
+      <Filter>Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="BaloonChat.cpp">
+      <Filter>Interface\BaloonChat</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockWnd.cpp">
+      <Filter>Interface\BlockWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="CDungeonInfoWnd.cpp">
+      <Filter>Interface\DungeonInfo Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="CharMoveEditWnd.cpp">
+      <Filter>Interface\Character Change</Filter>
+    </ClCompile>
+    <ClCompile Include="CharMoveRtWnd.cpp">
+      <Filter>Interface\Character Change</Filter>
+    </ClCompile>
+    <ClCompile Include="CharMoveWnd.cpp">
+      <Filter>Interface\Character Change</Filter>
+    </ClCompile>
+    <ClCompile Include="CharWnd.cpp">
+      <Filter>Interface\Character Status Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="DSMiniMap.cpp">
+      <Filter>Interface\MiniMap Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonSiegeInfoWnd.cpp">
+      <Filter>Interface\Dungeon Siege Info Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="EventDungeonWnd.cpp">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="EventNPCSubWnd.cpp">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="EventNPCWnd.cpp">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildDeleteWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildEditWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildExWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildJoinWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildMasterWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildPortalWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildRankWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildRequestWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWarWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWnd.cpp">
+      <Filter>Interface\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyBoardInfoWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyBoardWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyEntryWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyHelpWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyJoinWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyPortalWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="PartyRequestWnd.cpp">
+      <Filter>Interface\Party</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMakingHelpWnd.cpp">
+      <Filter>Interface\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMakingSubWnd.cpp">
+      <Filter>Interface\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemShopWnd.cpp">
+      <Filter>Interface\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUpgradeHelpWnd.cpp">
+      <Filter>Interface\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUpgradeSubWnd.cpp">
+      <Filter>Interface\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginWnd.cpp">
+      <Filter>Interface\Login Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="RequestMatchWnd.cpp">
+      <Filter>Interface\Match</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillWnd.cpp">
+      <Filter>Interface\Skill Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="CharDieWnd.cpp">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatWnd.cpp">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="ErrorWnd.cpp">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="ExitWnd.cpp">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="NoticeWnd.cpp">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClCompile>
+    <ClCompile Include="GuardianWnd.cpp">
+      <Filter>Interface\Guandina Status Wnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatListWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBox.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDefaultWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenuWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="GameNoticeWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="InitItemWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="MessengerDeleteWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="MessengerWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="NpcDungeonInfoWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="OkWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="RankNpcWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="RankWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="TopDungeonHelpWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldWnd.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="GMTool.cpp">
+      <Filter>GMTool</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalSoundHandles.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="MSoundControl.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="MSoundManager.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundControl.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Chat.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Guild.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Ini.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Messenger.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="MinboboWork.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Party.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="Trade.cpp">
+      <Filter>Minbobo</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceSpr.cpp">
+      <Filter>Interface Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceSprDef.cpp">
+      <Filter>Interface Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatBackground.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="ChinaHackToolBlock.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientTrafficLog.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="DFXForm.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="MessagePool.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="NativeOsCheck.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketEncrypt.cpp">
+      <Filter>DeepDark</Filter>
+    </ClCompile>
+    <ClCompile Include="SevenWork.cpp">
+      <Filter>Seven</Filter>
+    </ClCompile>
+    <ClCompile Include="EventDungeonProcess.cpp">
+      <Filter>JJW6263</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTable.cpp">
+      <Filter>Hash &amp; List</Filter>
+    </ClCompile>
+    <ClCompile Include="ListTable.cpp">
+      <Filter>Hash &amp; List</Filter>
+    </ClCompile>
+    <ClCompile Include="OnlyList.cpp">
+      <Filter>Hash &amp; List</Filter>
+    </ClCompile>
+    <ClCompile Include="Voidlist.cpp">
+      <Filter>Hash &amp; List</Filter>
+    </ClCompile>
+    <ClCompile Include="ChinaBillingRemainTime.cpp">
+      <Filter>ChinaBilling</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemAttrLayer.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMove.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMoveManager.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemNative.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemNativeManager.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUsed.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUsedManager.cpp">
+      <Filter>ItemNative</Filter>
+    </ClCompile>
+    <ClCompile Include="BankWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="CDungeonManagerWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemMakingWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemTradeShopWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemTradeWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemUpgrade.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShopWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="QuantityWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="StoreWnd.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInterface.cpp">
+      <Filter>ItemNativeWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="RivalGuildWar.cpp">
+      <Filter>RivalGuildWar</Filter>
+    </ClCompile>
+    <ClCompile Include="RivalGuildWarLib.cpp">
+      <Filter>RivalGuildWar</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceManager.cpp">
+      <Filter>minjin</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceProcTemp.cpp">
+      <Filter>minjin</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MouseLib.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseNetworkInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChrInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cmd_message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeFun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crBaseMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CResNameResolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crImageList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crListBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crListBoxItemInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crProxyMenuToDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crStaticText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crtList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crtNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Develop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DUNGEON_DATA.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DUNGEON_DATA_EX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameControl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GetDxVer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWarFinalSettingWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWarInvite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildwarRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWarStatusWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GXDefault.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IdentyGraphicCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IMEEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InitGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceInstance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Localizing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalTimeObserver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NetworkTimeObserver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Npc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parsing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyMatchingWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RivalGuildWarUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Script.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="special_effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticText.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TokenCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroProcess.h">
+      <Filter>Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalVariableLogin.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginMsg.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginProcess.h">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="CharSelectMsg.h">
+      <Filter>CharSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="CharSelectProcess.h">
+      <Filter>CharSelect</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMsg.h">
+      <Filter>World\World Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMsg_jjw6263.h">
+      <Filter>World\World Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMsg_minbobo.h">
+      <Filter>World\World Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldMsg_yak.h">
+      <Filter>World\World Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldProcess.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg_deepdark.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg_jjw6263.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg_minbobo.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg_seven.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonMsg_yak.h">
+      <Filter>Dungeon\Dungeon Msg</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonProcess.h">
+      <Filter>Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonProcess2nd.h">
+      <Filter>Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonProcess_Sound.h">
+      <Filter>Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\BlockLineManager.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\BlockManager.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\ControlStruct.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\DirectionManager.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\MemoryBlock.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\PriorityQue.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\SearchModule_Astar.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFinding\VirtualBlockManager.h">
+      <Filter>PathFinding</Filter>
+    </ClInclude>
+    <ClInclude Include="CorumResource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="DefResource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectCommand.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectProcess.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="BaloonChat.h">
+      <Filter>Interface\BaloonChat</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockWnd.h">
+      <Filter>Interface\BlockWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="CDungeonInfoWnd.h">
+      <Filter>Interface\DungeonInfo Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="CharMoveEditWnd.h">
+      <Filter>Interface\Character Change</Filter>
+    </ClInclude>
+    <ClInclude Include="CharMoveRtWnd.h">
+      <Filter>Interface\Character Change</Filter>
+    </ClInclude>
+    <ClInclude Include="CharMoveWnd.h">
+      <Filter>Interface\Character Change</Filter>
+    </ClInclude>
+    <ClInclude Include="CharWnd.h">
+      <Filter>Interface\Character Status Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="DSMiniMap.h">
+      <Filter>Interface\MiniMap Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonSiegeInfoWnd.h">
+      <Filter>Interface\Dungeon Siege Info Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="EventDungeonWnd.h">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="EventNPCSubWnd.h">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="EventNPCWnd.h">
+      <Filter>Interface\Event Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildDeleteWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildEditWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildExWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildJoinWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildMasterWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildPortalWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildRankWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildRequestWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWarWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWnd.h">
+      <Filter>Interface\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyBoardInfoWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyBoardWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyEntryWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyHelpWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyJoinWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyPortalWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="PartyRequestWnd.h">
+      <Filter>Interface\Party</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMakingHelpWnd.h">
+      <Filter>Interface\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMakingSubWnd.h">
+      <Filter>Interface\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemShopWnd.h">
+      <Filter>Interface\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUpgradeHelpWnd.h">
+      <Filter>Interface\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUpgradeSubWnd.h">
+      <Filter>Interface\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginWnd.h">
+      <Filter>Interface\Login Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="RequestMatchWnd.h">
+      <Filter>Interface\Match</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillWnd.h">
+      <Filter>Interface\Skill Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="CharDieWnd.h">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatWnd.h">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorWnd.h">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="ExitWnd.h">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="NoticeWnd.h">
+      <Filter>Interface\Wnds in Dungeon</Filter>
+    </ClInclude>
+    <ClInclude Include="GuardianWnd.h">
+      <Filter>Interface\Guandina Status Wnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatListWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBox.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDefaultWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenuWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNoticeWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="InitItemWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="MessengerDeleteWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="MessengerWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="NpcDungeonInfoWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="OkWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="RankNpcWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="RankWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="TopDungeonHelpWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldWnd.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="GMTool.h">
+      <Filter>GMTool</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalSoundHandles.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="MSoundControl.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="MSoundManager.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundControl.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundLib.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Chat.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Guild.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Ini.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Messenger.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="MinboboWork.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Party.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="Trade.h">
+      <Filter>Minbobo</Filter>
+    </ClInclude>
+    <ClInclude Include="NMCrypt.h">
+      <Filter>Netmarble</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceSpr.h">
+      <Filter>Interface Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceSprDef.h">
+      <Filter>Interface Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatBackground.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="ChinaHackToolBlock.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientTrafficLog.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="DFXForm.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="MessagePool.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketEncrypt.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeMemory.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="StringFunc.h">
+      <Filter>DeepDark</Filter>
+    </ClInclude>
+    <ClInclude Include="SevenWork.h">
+      <Filter>Seven</Filter>
+    </ClInclude>
+    <ClInclude Include="EventDungeonProcess.h">
+      <Filter>JJW6263</Filter>
+    </ClInclude>
+    <ClInclude Include="HashTable.h">
+      <Filter>Hash &amp; List</Filter>
+    </ClInclude>
+    <ClInclude Include="ListTable.h">
+      <Filter>Hash &amp; List</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyList.h">
+      <Filter>Hash &amp; List</Filter>
+    </ClInclude>
+    <ClInclude Include="VoidList.h">
+      <Filter>Hash &amp; List</Filter>
+    </ClInclude>
+    <ClInclude Include="ChinaBillingRemainTime.h">
+      <Filter>ChinaBilling</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemAttrLayer.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMove.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMoveManager.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemNative.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemNativeManager.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUsed.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUsedManager.h">
+      <Filter>ItemNative</Filter>
+    </ClInclude>
+    <ClInclude Include="BankWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="CDungeonManagerWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemMakingWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemTradeShopWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemTradeWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemUpgrade.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShopWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="QuantityWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="StoreWnd.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInterface.h">
+      <Filter>ItemNativeWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="RivalGuildWar.h">
+      <Filter>RivalGuildWar</Filter>
+    </ClInclude>
+    <ClInclude Include="RivalGuildWarLib.h">
+      <Filter>RivalGuildWar</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceManager.h">
+      <Filter>minjin</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceProcTemp.h">
+      <Filter>minjin</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="SoundLib.lib">
+      <Filter>sound</Filter>
+    </Library>
+    <Library Include="SS3DGFunc.lib">
+      <Filter>SS3DEngine</Filter>
+    </Library>
+    <Library Include="NMCrypt.lib">
+      <Filter>Netmarble</Filter>
+    </Library>
+    <Library Include="CommonServer.lib">
+      <Filter>CommonServer</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="crBaseMenu.inl">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="corum.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_attack.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_attack_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_button.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_button_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_common.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_common_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_dialog.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_dialog_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_item.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_item_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_target.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Data\Cursor\m_target_c.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CorumResource.erd">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="default.rtl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="default2.rtl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DefResource.erd">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DefResource.erl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Resource.erl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="resource1.erl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="resource2.erl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="resource3.erl">
+      <Filter>Resource</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SoundLib.dll">
+      <Filter>sound</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DExecutiveForCorum.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DFileStorage.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGeometryForCorum.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFunc.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFuncN.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DGFuncSSE.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SS3DRendererForCorum.dll">
+      <Filter>SS3DEngine</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CommonServer.dll">
+      <Filter>CommonServer</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CorumOnlineProject.dsp" />
+    <CustomBuild Include="CorumVerInfo.ver" />
+  </ItemGroup>
+</Project>

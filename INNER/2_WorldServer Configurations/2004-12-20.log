@@ -1,0 +1,77 @@
+C <17:22:46> ########### CorumOnline - World Server Started! ###########
+C <17:25:48> ########### CorumOnline - World Server Started! ###########
+C <17:27:20> ########### CorumOnline - World Server Started! ###########
+C <17:27:52> ########### CorumOnline - World Server Started! ###########
+C <17:29:08> ########### CorumOnline - World Server Started! ###########
+C <17:30:03> ########### CorumOnline - World Server Started! ###########
+C <17:30:08> GuildInfo Load - Start
+C <17:30:08> GuildInfo Load - End
+B <17:30:18> Fail To Connect LoginAgent Server! (IP:222.106.120.46, Port:17100)
+B <17:30:18> Invalid Server IP Address Connected! Check ServerTable For System DB!(222.106.120.46)
+C <17:38:00> Start! - delete Certain IP List!
+C <17:38:00> End! - delete Certain IP List!
+C <17:38:00> Start! - delete AcceptTable!
+C <17:38:00> Start! - delete AcceptTable!
+C <17:38:00> Start! - delete DungeonTable!
+C <17:38:00> End! - delete DungeonTable!
+C <17:38:00> Start! - delete EventDungeonManager!
+C <17:38:00> End! - delete EventDungeonManager!
+C <17:38:00> Start! - delete GuildTable!
+C <17:38:00> End! - delete GuildTable!
+C <17:38:00> Start! - delete PartyTable!
+C <17:38:00> End! - delete PartyTable!
+C <17:38:00> Start unloading notice messgae data.
+C <17:38:00> End unloading notice message data.
+C <17:38:00> Start! - delete GroupTable!
+C <17:38:00> End! - delete GorupTable!
+C <17:38:00> Start! - Release GuildOfflinePool Pool!
+C <17:38:00> End! - Release GuildOfflinePool Pool!
+C <17:38:00> Start! - Release GroupTable Pool!
+C <17:38:00> End! - Release GroupTable Pool!
+C <17:38:00> Start! - Release GuildTable Pool!
+C <17:38:00> End! - Release GuildTable Pool!
+C <17:38:00> Start! - Release GuildUser Pool!
+C <17:38:00> End! - Release GuildUser Pool!
+C <17:38:00> Start! - Release PartyTable Pool!
+C <17:38:00> End! - Release PartyTable Pool!
+C <17:38:00> Start! - Release PartyUser Pool!
+C <17:38:00> Start! - Delete UserTable!
+C <17:38:00> End! - Delete UserTable!
+C <17:38:00> Start! - Delete ServerTable!
+C <17:38:00> End! - Delete ServerTable!
+C <17:38:00> Start! - Delete OwnServerInfo!
+C <17:38:00> End! - Delete OwnServerInfo!
+C <17:38:01> Start! - Release BaseNetwork!
+C <17:38:02> End! - Release BaseNetwork!
+C <17:38:02> Start! - Release DB Component!
+C <17:38:02> End! - Release DB Component!
+C <17:38:02> Start! - CoUninitialize!
+C <17:38:21> ########### CorumOnline - World Server Started! ###########
+C <17:38:23> GuildInfo Load - Start
+C <17:38:23> GuildInfo Load - End
+B <17:38:30> Fail To Connect LoginAgent Server! (IP:222.106.120.46, Port:17100)
+C <17:43:09> ########### CorumOnline - World Server Started! ###########
+C <17:43:15> GuildInfo Load - Start
+C <17:43:15> GuildInfo Load - End
+B <17:43:25> Fail To Connect LoginAgent Server! (IP:222.106.120.46, Port:17100)
+C <18:19:16> ########### CorumOnline - World Server Started! ###########
+C <18:19:18> GuildInfo Load - Start
+C <18:19:18> GuildInfo Load - End
+G <18:20:44> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <18:20:44> <yakolla> e80004, 1 :: new m_pListRefreshFromDungeon
+A <18:22:04> Village Server Disconnected! (ID=6201)
+G <18:24:58> WorldUserList Removed! in OnDisconnectUser() (Name:hwoarang)
+G <18:25:07> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <18:25:07> <yakolla> e80004, 2 :: new m_pListRefreshFromDungeon
+C <18:27:10> ########### CorumOnline - World Server Started! ###########
+C <18:27:12> GuildInfo Load - Start
+C <18:27:12> GuildInfo Load - End
+G <18:28:03> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <18:28:03> <yakolla> e80004, 1 :: new m_pListRefreshFromDungeon
+G <18:28:15> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:hwoarang)
+G <18:37:11> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <18:37:12> <yakolla> e80004, 2 :: new m_pListRefreshFromDungeon
+G <18:37:21> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:hwoarang)
+G <18:43:52> WorldUserList Added! in QueryTypeUserInfo() (Name:hwoarang)
+G <18:43:52> <yakolla> e80004, 3 :: new m_pListRefreshFromDungeon
+G <18:43:58> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:hwoarang)

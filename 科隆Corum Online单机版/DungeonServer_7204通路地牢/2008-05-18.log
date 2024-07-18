@@ -1,0 +1,51 @@
+C <12:37:30> ########### CorumZero Online - Dungeon Server Started! ###########
+B <13:12:18> [Before Die] Name : 心痛的回忆 Criminal : 99, Level : 21 exp : 63410, decExpItem : 0, IncExpItem : 0
+B <13:12:18> [After Die] Name : 心痛的回忆 Criminal : 99, Level : 21 exp : 63095
+C <14:06:37> Magic Item Drop Rate : 100
+C <14:06:39> Magic Item Drop Rate : 200
+C <14:06:39> Magic Item Drop Rate : 300
+C <14:06:40> Magic Item Drop Rate : 400
+C <14:06:40> Magic Item Drop Rate : 500
+C <14:06:41> Magic Item Drop Rate : 600
+C <14:06:41> Magic Item Drop Rate : 700
+C <14:06:41> Magic Item Drop Rate : 800
+C <14:06:42> Magic Item Drop Rate : 900
+C <14:06:42> Magic Item Drop Rate : 1000
+C <14:29:21> Start reload dungeonserver data!
+C <14:29:21> End reload dungeonserver data!
+C <14:29:24> Double Exp Enabled!
+C <14:29:26> Double Exp Disabled!
+C <14:29:28> Double Exp Enabled!
+G <15:20:34> UpdateUserDB Name : 狂刀, Level : 55, Exp : 2602688
+C <15:20:54> User that has invalid dungeon layer Entered!(Name:狂刀)
+G <15:24:55> UpdateUserDB Name : 狂刀, Level : 55, Exp : 2602688
+C <15:25:01> User that has invalid dungeon layer Entered!(Name:狂刀)
+G <15:53:37> UpdateUserDB Name : 狂刀, Level : 57, Exp : 2976578
+C <15:54:27> User that has invalid dungeon layer Entered!(Name:狂刀)
+G <16:19:04> UpdateUserDB Name : 狂刀, Level : 57, Exp : 2982615
+C <16:19:43> User that has invalid dungeon layer Entered!(Name:狂刀)
+C <18:58:04> ########### CorumZero Online - Dungeon Server Started! ###########
+C <18:58:13> ########### CorumZero Online - Dungeon Server Started! ###########
+C <18:58:43> ########### CorumZero Online - Dungeon Server Started! ###########
+C <19:18:36> Magic Item Drop Rate : 400
+C <19:18:37> Magic Item Drop Rate : 300
+C <19:18:37> Magic Item Drop Rate : 200
+C <19:18:39> Magic Item Drop Rate : 100
+C <19:18:40> Magic Item Drop Rate : 0
+G <19:22:28> UpdateUserDB Name : 狂刀, Level : 59, Exp : 3347055
+C <19:24:09> User that has invalid dungeon layer Entered!(Name:狂刀)
+B <19:39:25> [Before Die] Name : 十二月 Criminal : 1303, Level : 48 exp : 1537518, decExpItem : 0, IncExpItem : 0
+B <19:39:25> [After Die] Name : 十二月 Criminal : 1303, Level : 48 exp : 1533678
+C <19:45:51> Magic Item Drop Rate : 0
+B <20:17:45> Request UserIndex is already accepted! (CmdRequestUserAcceptForPortal Function!)
+G <20:45:01> UpdateUserDB Name : 十二月, Level : 53, Exp : 2170243
+C <20:45:38> User that has invalid dungeon layer Entered!(Name:十二月)
+A <20:59:35> World Server Disconnected! Server Will Terminate...
+C <20:59:45> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <20:59:45> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <20:59:55> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <20:59:55> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:00:05> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:00:05> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:00:15> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:00:15> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)

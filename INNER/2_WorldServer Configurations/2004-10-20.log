@@ -1,0 +1,47 @@
+C <18:28:30> ########### CorumOnline - World Server Started! ###########
+C <18:28:32> GuildInfo Load - Start
+C <18:28:32> GuildInfo Load - End
+G <18:30:58> WorldUserList Added! in QueryTypeUserInfo() (Name:æ»≥Á√ ƒ⁄)
+G <18:30:59> <yakolla> ce0004, 1 :: new m_pListRefreshFromDungeon
+G <18:31:09> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:æ»≥Á√ ƒ⁄)
+A <20:30:13> LoginAgent Server Disconnected! (ID=0)
+C <20:30:13> Start! - delete Certain IP List!
+C <20:30:13> End! - delete Certain IP List!
+C <20:30:13> Start! - delete AcceptTable!
+C <20:30:13> Start! - delete AcceptTable!
+C <20:30:13> Start! - delete DungeonTable!
+C <20:30:13> End! - delete DungeonTable!
+C <20:30:13> Start! - delete EventDungeonManager!
+C <20:30:13> End! - delete EventDungeonManager!
+C <20:30:13> Start! - delete CConnectionDistributionTable!
+C <20:30:13> End! - delete CConnectionDistributionTable!
+C <20:30:13> Start! - delete GuildTable!
+C <20:30:13> End! - delete GuildTable!
+C <20:30:13> Start! - delete PartyTable!
+C <20:30:13> End! - delete PartyTable!
+C <20:30:13> Start unloading notice messgae data.
+C <20:30:13> End unloading notice message data.
+C <20:30:13> Start! - delete GroupTable!
+C <20:30:13> End! - delete GorupTable!
+C <20:30:13> Start! - Release GuildOfflinePool Pool!
+C <20:30:13> End! - Release GuildOfflinePool Pool!
+C <20:30:13> Start! - Release GroupTable Pool!
+C <20:30:13> End! - Release GroupTable Pool!
+C <20:30:13> Start! - Release GuildTable Pool!
+C <20:30:13> End! - Release GuildTable Pool!
+C <20:30:13> Start! - Release GuildUser Pool!
+C <20:30:13> End! - Release GuildUser Pool!
+C <20:30:13> Start! - Release PartyTable Pool!
+C <20:30:13> End! - Release PartyTable Pool!
+C <20:30:13> Start! - Release PartyUser Pool!
+C <20:30:13> Start! - Delete UserTable!
+C <20:30:13> End! - Delete UserTable!
+C <20:30:13> Start! - Delete ServerTable!
+C <20:30:13> End! - Delete ServerTable!
+C <20:30:13> Start! - Delete OwnServerInfo!
+C <20:30:13> End! - Delete OwnServerInfo!
+C <20:30:14> Start! - Release BaseNetwork!
+C <20:30:16> End! - Release BaseNetwork!
+C <20:30:16> Start! - Release DB Component!
+C <20:30:16> End! - Release DB Component!
+C <20:30:16> Start! - CoUninitialize!

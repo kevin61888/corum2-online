@@ -1,0 +1,25 @@
+#ifndef __VERSION_H__
+#define __VERSION_H__
+
+#pragma once
+
+// client의 버전을 세팅!!
+// 게임에서 실제로 사용하는 것은 CURRENT_VERSION_STRING 이다.
+// 이 녀석을 뽑아내기 위해서는 UUEXXE 툴을 사용한다.
+// 이 툴은 45 FTP 서버의 MAIN 폴더에 존재!
+// 툴에 대한 문의는 DEEPDARK에게!
+
+#define CURRENT_VERSION_STRING	"KJ-VTJa+KLtNI33BHJpBHE2+"//05033101
+
+#if IS_TAIWAN_LOCALIZING()
+	#undef CURRENT_VERSION_STRING
+	#define CURRENT_VERSION_STRING	"KJ-VTJa+KLtNI33BHJpBHE2+"//05033101
+#elif IS_CHINA_LOCALIZING()
+	#undef CURRENT_VERSION_STRING
+	#define CURRENT_VERSION_STRING	"KJ-VTJa+KLtNI33BHJpBHE2+"//05033101
+#elif IS_JAPAN_LOCALIZING()
+	#undef CURRENT_VERSION_STRING
+	#define CURRENT_VERSION_STRING	"KJ-VTJa+KLtNI33BHJpBHE2+"//05033101
+#endif
+
+#endif // __VERSION_H__

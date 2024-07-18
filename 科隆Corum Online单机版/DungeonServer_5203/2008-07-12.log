@@ -1,0 +1,109 @@
+C <15:45:52> ########### CorumZero Online - Dungeon Server Started! ###########
+C <15:45:52> @ Can not connect SQL Server(Game DB)! IP="192.168.1.88,1433"
+C <15:46:00> ########### CorumZero Online - Dungeon Server Started! ###########
+C <15:48:07> Start reload dungeonserver data!
+C <15:48:07> End reload dungeonserver data!
+C <15:52:48> Start reload dungeonserver data!
+C <15:52:48> End reload dungeonserver data!
+C <15:53:57> Start reload dungeonserver data!
+C <15:53:57> End reload dungeonserver data!
+C <15:54:30> Start reload dungeonserver data!
+C <15:54:30> End reload dungeonserver data!
+C <15:55:01> Start reload dungeonserver data!
+C <15:55:01> End reload dungeonserver data!
+C <15:56:07> Start reload dungeonserver data!
+C <15:56:07> End reload dungeonserver data!
+C <15:56:47> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <15:56:47> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <15:57:16> Start reload dungeonserver data!
+C <15:57:16> End reload dungeonserver data!
+C <15:57:40> Start reload dungeonserver data!
+C <15:57:40> End reload dungeonserver data!
+C <16:09:06> Start reload dungeonserver data!
+C <16:09:06> End reload dungeonserver data!
+C <16:28:55> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:56> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:56> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:57> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:58> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:59> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:28:59> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+B <16:31:46> [Before Die] Name : 超级时装城 Criminal : 255, Level : 130 exp : 416358157, decExpItem : 0, IncExpItem : 0
+B <16:31:46> [After Die] Name : 超级时装城 Criminal : 255, Level : 130 exp : 416000000
+C <16:34:27> Start reload dungeonserver data!
+C <16:34:27> End reload dungeonserver data!
+C <16:35:24> Start reload dungeonserver data!
+C <16:35:24> End reload dungeonserver data!
+C <16:36:10> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:36:10> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:37:01> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:40:51> Start reload dungeonserver data!
+C <16:40:51> End reload dungeonserver data!
+C <16:42:53> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:42:57> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog0_20080712 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <16:47:49> ########### CorumZero Online - Dungeon Server Started! ###########
+C <16:47:49> @ Can not connect SQL Server(Game DB)! IP="192.168.1.88,1433"
+C <16:48:45> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:14:02> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 46211821, decExpItem : 0, IncExpItem : 0
+B <17:14:02> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 46082821
+B <17:22:09> [Before Die] Name : 超级时装城 Criminal : 311, Level : 130 exp : 416014944, decExpItem : 0, IncExpItem : 0
+B <17:22:09> [After Die] Name : 超级时装城 Criminal : 311, Level : 130 exp : 416000000
+C <17:31:41> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:32:00> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 46082821, decExpItem : 0, IncExpItem : 0
+B <17:32:00> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45953821
+B <17:32:30> Exception from CMonster::Update
+B <17:32:30> Monster will be dead!!
+B <17:32:32> Exception from CMonster::Update
+B <17:32:32> Monster will be dead!!
+B <17:32:36> Exception from CMonster::Update
+B <17:32:36> Monster will be dead!!
+B <17:32:43> Exception from CMonster::Update
+B <17:32:43> Monster will be dead!!
+B <17:32:47> Exception from CMonster::Update
+B <17:32:47> Monster will be dead!!
+B <17:32:49> Exception from CMonster::Update
+B <17:32:49> Monster will be dead!!
+B <17:32:49> Exception from CMonster::Update
+B <17:32:49> Monster will be dead!!
+B <17:32:50> Exception from CMonster::Update
+B <17:32:50> Monster will be dead!!
+B <17:32:51> Exception from CMonster::Update
+B <17:32:51> Monster will be dead!!
+B <17:32:52> Exception from CMonster::Update
+B <17:32:52> Monster will be dead!!
+B <17:32:53> Exception from CMonster::Update
+B <17:32:53> Monster will be dead!!
+B <17:32:53> Exception from CMonster::Update
+B <17:32:53> Monster will be dead!!
+B <17:32:54> Exception from CMonster::Update
+B <17:32:54> Monster will be dead!!
+B <17:32:55> Exception from CMonster::Update
+B <17:32:55> Monster will be dead!!
+B <17:32:56> Exception from CMonster::Update
+B <17:32:56> Monster will be dead!!
+B <17:32:56> Exception from CMonster::Update
+B <17:32:56> Monster will be dead!!
+C <17:33:20> Start reload dungeonserver data!
+C <17:33:20> End reload dungeonserver data!
+C <17:33:46> Start reload dungeonserver data!
+C <17:33:46> End reload dungeonserver data!
+B <17:33:50> Exception from CMonster::Update
+B <17:33:50> Monster will be dead!!
+C <17:34:00> Start reload dungeonserver data!
+C <17:34:00> End reload dungeonserver data!
+B <17:35:18> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45953821, decExpItem : 0, IncExpItem : 0
+B <17:35:18> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45824821
+B <17:35:55> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45824821, decExpItem : 0, IncExpItem : 0
+B <17:35:55> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45695821
+B <17:37:37> [Before Die] Name : 超级时装城 Criminal : 321, Level : 130 exp : 416018342, decExpItem : 0, IncExpItem : 0
+B <17:37:37> [After Die] Name : 超级时装城 Criminal : 321, Level : 130 exp : 416000000
+C <17:38:48> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:39:54> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45695821, decExpItem : 0, IncExpItem : 0
+B <17:39:54> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45566821
+C <17:46:06> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:46:49> [Before Die] Name : 超级时装城 Criminal : 326, Level : 130 exp : 416001854, decExpItem : 0, IncExpItem : 0
+B <17:46:49> [After Die] Name : 超级时装城 Criminal : 326, Level : 130 exp : 416000000
+B <17:46:56> [Before Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45571075, decExpItem : 0, IncExpItem : 0
+B <17:46:56> [After Die] Name : 仇敌克星 Criminal : 32767, Level : 104 exp : 45442075
+B <17:47:25> [Before Die] Name : 超级时装城 Criminal : 329, Level : 130 exp : 416000585, decExpItem : 0, IncExpItem : 0
+B <17:47:25> [After Die] Name : 超级时装城 Criminal : 329, Level : 130 exp : 416000000

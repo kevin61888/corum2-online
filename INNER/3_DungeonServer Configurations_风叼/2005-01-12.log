@@ -1,0 +1,4 @@
+C <10:25:09> ########### CorumZero Online - Dungeon Server Started! ###########
+C <11:10:42> ########### CorumZero Online - Dungeon Server Started! ###########
+C <11:22:12> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog105_20050112 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )
+C <11:23:27> [Msg for DB] [OLEDB Query Error] QUERY_TYPE_EXECUTE_BY_PARAM (QueryUID:0, Query:Insert into ItemLog105_20050112 (Serial, LogCode, ServerSet, DungeonID, Item, OwnerName, SellerName) values( ?, ?, ?, ?, ?, ?, ? ))( OLEDBThread(VOID) )

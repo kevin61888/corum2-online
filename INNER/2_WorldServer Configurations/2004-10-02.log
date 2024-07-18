@@ -1,0 +1,118 @@
+C <18:22:44> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:22:51> @ Licensing Server Connected Successfully!
+C <18:25:54> ########### CorumOnline - World Server Started! ###########
+C <18:25:59> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <18:25:59> Fail to query GuildDungeonTable!
+C <18:25:59> GuildInfo Load - Start
+C <18:26:00> GuildInfo Load - End
+A <18:32:23> Dungeon Server Disconnected! (ID=4201)
+A <18:32:36> Village Server Disconnected! (ID=6201)
+A <18:33:23> LoginAgent Server Disconnected! (ID=0)
+C <18:33:24> Start! - delete Certain IP List!
+C <18:33:24> End! - delete Certain IP List!
+C <18:33:24> Start! - delete AcceptTable!
+C <18:33:24> Start! - delete AcceptTable!
+C <18:33:24> Start! - delete DungeonTable!
+C <18:33:24> End! - delete DungeonTable!
+C <18:33:24> Start! - delete EventDungeonManager!
+C <18:33:24> End! - delete EventDungeonManager!
+C <18:33:24> Start! - delete CConnectionDistributionTable!
+C <18:33:24> End! - delete CConnectionDistributionTable!
+C <18:33:24> Start! - delete SchoolGuildTable!
+C <18:33:24> End! - delete SchoolGuildTable!
+C <18:33:24> Start! - delete GuildTable!
+C <18:33:24> End! - delete GuildTable!
+C <18:33:24> Start! - delete PartyTable!
+C <18:33:24> End! - delete PartyTable!
+C <18:33:24> Start unloading notice messgae data.
+C <18:33:24> End unloading notice message data.
+C <18:33:24> Start! - delete GroupTable!
+C <18:33:24> End! - delete GorupTable!
+C <18:33:24> Start! - Release GuildOfflinePool Pool!
+C <18:33:24> End! - Release GuildOfflinePool Pool!
+C <18:33:24> Start! - Release GroupTable Pool!
+C <18:33:24> End! - Release GroupTable Pool!
+C <18:33:24> Start! - Release GuildTable Pool!
+C <18:33:24> End! - Release GuildTable Pool!
+C <18:33:24> Start! - Release GuildUser Pool!
+C <18:33:24> End! - Release GuildUser Pool!
+C <18:33:24> Start! - Release PartyTable Pool!
+C <18:33:24> End! - Release PartyTable Pool!
+C <18:33:24> Start! - Release PartyUser Pool!
+C <18:33:24> Start! - Delete UserTable!
+C <18:33:24> End! - Delete UserTable!
+C <18:33:24> Start! - Delete ServerTable!
+C <18:33:24> End! - Delete ServerTable!
+C <18:33:24> Start! - Delete OwnServerInfo!
+C <18:33:24> End! - Delete OwnServerInfo!
+C <18:33:24> Start! - Release Session Table!
+C <18:33:24> End! - Release Session Table!
+C <18:33:25> Start! - Release BaseNetwork!
+C <18:33:27> End! - Release BaseNetwork!
+C <18:33:27> Start! - Release DB Component!
+C <18:34:13> ########### CorumOnline - World Server Started! ###########
+C <18:34:19> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <18:34:19> Fail to query GuildDungeonTable!
+C <18:34:19> GuildInfo Load - Start
+C <18:34:20> GuildInfo Load - End
+G <18:36:10> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:36:11> <yakolla> ce0004, 1 :: new m_pListRefreshFromDungeon
+C <18:40:15> ########### CorumOnline - World Server Started! ###########
+C <18:40:20> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <18:40:20> Fail to query GuildDungeonTable!
+C <18:40:20> GuildInfo Load - Start
+C <18:40:22> GuildInfo Load - End
+G <18:41:37> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:41:37> <yakolla> ce0004, 1 :: new m_pListRefreshFromDungeon
+B <18:42:40> Invalid Level, DungeonID : 3002, Name : TestFighter01
+G <18:42:56> WorldUserList Removed! in OnDisconnectUser() (Name:TestFighter01)
+C <18:42:56> Unanswered User Disconnected! (Name:TestFighter01, IP:203.238.38.179, Gap:15000)
+G <18:45:08> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:45:08> <yakolla> ce0004, 2 :: new m_pListRefreshFromDungeon
+B <18:45:19> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:45:23> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:45:40> Invalid Level, DungeonID : 3002, Name : TestFighter01
+G <18:45:55> WorldUserList Removed! in OnDisconnectUser() (Name:TestFighter01)
+C <18:45:55> Unanswered User Disconnected! (Name:TestFighter01, IP:203.238.38.179, Gap:15000)
+G <18:49:58> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:49:58> <yakolla> ce0004, 3 :: new m_pListRefreshFromDungeon
+B <18:50:04> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:50:17> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:50:21> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:50:23> Invalid Level, DungeonID : 3002, Name : TestFighter01
+B <18:50:24> Invalid Level, DungeonID : 3002, Name : TestFighter01
+A <18:52:44> Village Server Disconnected! (ID=6201)
+G <18:52:51> WorldUserList Removed! in OnDisconnectUser() (Name:TestFighter01)
+G <18:54:31> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:54:31> <yakolla> ce0004, 4 :: new m_pListRefreshFromDungeon
+G <18:54:39> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:TestFighter01)
+G <18:54:59> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <18:54:59> <yakolla> ce0004, 5 :: new m_pListRefreshFromDungeon
+A <18:59:24> Village Server Disconnected! (ID=6201)
+G <18:59:31> WorldUserList Removed! in OnDisconnectUser() (Name:TestFighter01)
+G <19:03:46> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <19:03:47> <yakolla> ce0004, 6 :: new m_pListRefreshFromDungeon
+A <19:04:48> Dungeon Server Disconnected! (ID=4201)
+C <19:09:29> ########### CorumOnline - World Server Started! ###########
+C <19:09:33> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <19:09:33> Fail to query GuildDungeonTable!
+C <19:09:33> GuildInfo Load - Start
+C <19:09:34> GuildInfo Load - End
+G <19:10:32> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <19:10:32> <yakolla> ce0004, 1 :: new m_pListRefreshFromDungeon
+G <19:11:18> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:TestFighter01)
+G <19:12:45> WorldUserList Added! in CmdGoToWorldSuccess() (Name:TestFighter01)
+B <19:12:51> Invalid Level, DungeonID : 3002, Name : TestFighter01
+G <19:13:34> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:TestFighter01)
+C <19:22:21> ########### CorumOnline - World Server Started! ###########
+C <19:22:24> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <19:22:24> Fail to query GuildDungeonTable!
+C <19:22:25> GuildInfo Load - Start
+C <19:22:26> GuildInfo Load - End
+G <19:25:21> WorldUserList Added! in QueryTypeUserInfo() (Name:TestFighter01)
+G <19:25:21> <yakolla> ce0004, 1 :: new m_pListRefreshFromDungeon
+G <19:26:36> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:TestFighter01)
+G <19:27:25> WorldUserList Added! in CmdGoToWorldSuccess() (Name:TestFighter01)
+A <19:27:42> Dungeon Server Disconnected! (ID=4201)
+A <19:28:23> Village Server Disconnected! (ID=6201)
+G <19:29:57> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:TestFighter01)

@@ -1,0 +1,36 @@
+C <10:12:49> ########### CorumOnline - World Server Started! ###########
+C <10:12:50> GuildInfo Load - Start
+C <10:12:50> GuildInfo Load - End
+B <10:12:54> Fail To Connect LoginAgent Server! (IP:222.106.120.33, Port:17100)
+C <10:14:30> ########### CorumOnline - World Server Started! ###########
+C <10:14:30> GuildInfo Load - Start
+C <10:14:30> GuildInfo Load - End
+C <10:18:04> ########### CorumOnline - World Server Started! ###########
+C <10:18:05> GuildInfo Load - Start
+C <10:18:05> GuildInfo Load - End
+C <10:19:38> ########### CorumOnline - World Server Started! ###########
+C <10:19:38> GuildInfo Load - Start
+C <10:19:38> GuildInfo Load - End
+B <10:19:41> Fail To Connect LoginAgent Server! (IP:222.106.120.33, Port:17100)
+C <10:19:42> Start! - Release BaseNetwork!
+C <10:19:43> End! - Release BaseNetwork!
+C <10:19:43> Start! - Release DB Component!
+C <10:32:55> ########### CorumOnline - World Server Started! ###########
+C <10:32:55> GuildInfo Load - Start
+C <10:32:55> GuildInfo Load - End
+C <10:33:38> ########### CorumOnline - World Server Started! ###########
+C <10:33:38> GuildInfo Load - Start
+C <10:33:38> GuildInfo Load - End
+C <10:38:04> ########### CorumOnline - World Server Started! ###########
+C <10:38:04> GuildInfo Load - Start
+C <10:38:04> GuildInfo Load - End
+C <11:15:29> ########### CorumOnline - World Server Started! ###########
+C <11:15:30> GuildInfo Load - Start
+C <11:15:30> GuildInfo Load - End
+G <11:49:19> WorldUserList Added! in QueryTypeUserInfo() (Name:½ÉÁø¼·)
+G <11:49:20> <yakolla> 1480004, 1 :: new m_pListRefreshFromDungeon
+G <12:03:44> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:½ÉÁø¼·)
+A <12:04:24> LoginAgent Server Disconnected! (ID=0)
+C <12:04:27> Start! - Release BaseNetwork!
+C <12:04:30> End! - Release BaseNetwork!
+C <12:04:30> Start! - Release DB Component!

@@ -1,0 +1,13 @@
+C <14:08:35> ########### CorumZero Online - Dungeon Server Started! ###########
+C <14:09:09> ########### CorumZero Online - Dungeon Server Started! ###########
+G <14:12:50> UpdateUserDB Name : GM001รฮปร, Level : 170, Exp : 541034941
+C <14:12:56> User that has invalid dungeon layer Entered!(Name:GM001รฮปร)
+A <14:16:23> World Server Disconnected! Server Will Terminate...
+C <14:16:33> Try to reconnect WorldServer! (IP:192.168.1.98, Port:17201)
+A <14:23:36> World Server Disconnected! Server Will Terminate...
+C <14:23:46> Try to reconnect WorldServer! (IP:192.168.1.98, Port:17201)
+A <14:25:45> World Server Disconnected! Server Will Terminate...
+C <14:25:55> Try to reconnect WorldServer! (IP:192.168.1.98, Port:17201)
+A <14:32:27> World Server Disconnected! Server Will Terminate...
+C <14:32:37> Try to reconnect WorldServer! (IP:192.168.1.98, Port:17201)
+B <14:32:38> Fail To Connect WorldServer! (IP:192.168.1.98, Port:17201)

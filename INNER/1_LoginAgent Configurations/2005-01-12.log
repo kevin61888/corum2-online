@@ -1,0 +1,29 @@
+C <10:05:33> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:05:36> @ Now Listening... (For Userside(13100))
+B <10:05:40> Invalid WorldServer IP Address Connected! Check WorldServerTable!(222.106.120.37)
+C <10:05:47> Unattached Server Disconnected! (IP=222.106.120.37)
+C <10:19:28> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:19:28> WorldServer Alloc Failed! (dwWorldMapID:1)
+B <10:19:31> @ Now Listening... (For Userside(13100))
+B <10:19:37> Invalid WorldServer IP Address Connected! Check WorldServerTable!(222.106.120.37)
+C <10:20:40> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:20:40> WorldServer Alloc Failed! (dwWorldMapID:1)
+C <10:22:16> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:22:16> WorldServer Alloc Failed! (dwWorldMapID:1)
+B <10:22:28> Invalid WorldServer IP Address Connected! Check WorldServerTable!(222.106.120.37)
+C <10:23:32> Unattached Server Disconnected! (IP=222.106.120.37)
+C <10:24:03> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:24:12> Invalid WorldServer IP Address Connected! Check WorldServerTable!(222.106.120.37)
+C <10:24:56> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:24:57> @ Now Listening... (For Userside(13100))
+C <13:33:08> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:33:09> @ Can not connect SQL Server(Game DB)! IP="222.106.120.45,2433"
+C <13:33:20> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:33:20> @ Can not connect SQL Server(Game DB)! IP="222.106.120.45,2433"
+C <13:34:25> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:34:26> @ Can not connect SQL Server(Game DB)! IP="222.106.120.45,2433"
+C <13:36:38> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:36:39> @ Can not connect SQL Server(Game DB)! IP="222.106.120.45,2433"
+C <13:37:54> ########### CorumOnline - LoginAgent Server Started! ###########
+C <13:39:08> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:39:21> @ Now Listening... (For Userside(13100))

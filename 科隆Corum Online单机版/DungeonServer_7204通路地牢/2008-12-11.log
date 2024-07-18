@@ -1,0 +1,8 @@
+C <21:39:45> ########### CorumZero Online - Dungeon Server Started! ###########
+C <21:39:55> ########### CorumZero Online - Dungeon Server Started! ###########
+A <21:40:41> World Server Disconnected! Server Will Terminate...
+C <21:41:44> ########### CorumZero Online - Dungeon Server Started! ###########
+B <21:41:51> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <21:42:01> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <21:43:33> [Before Die] Name : GM001รฮปร Criminal : 32767, Level : 130 exp : 167000000, decExpItem : 0, IncExpItem : 0
+B <21:43:33> [After Die] Name : GM001รฮปร Criminal : 32767, Level : 130 exp : 167000000

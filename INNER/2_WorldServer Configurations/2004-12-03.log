@@ -1,0 +1,161 @@
+C <12:28:04> ########### CorumOnline - World Server Started! ###########
+C <12:28:06> GuildInfo Load - Start
+C <12:28:06> GuildInfo Load - End
+C <12:28:13> Fail to attach LoginAgent Server! (ErrorCode:1)
+C <13:34:23> Unattached Server Disconnected! (IP=222.106.120.39)
+C <13:40:04> ########### CorumOnline - World Server Started! ###########
+C <13:40:06> GuildInfo Load - Start
+C <13:40:06> GuildInfo Load - End
+B <13:41:02> Server That has Invalid ID Try to Login!(ID=6201)
+B <13:41:25> Server That has Invalid ID Try to Login!(ID=4201)
+C <13:42:29> Unattached Server Disconnected! (IP=222.106.120.39)
+C <13:42:38> Unattached Server Disconnected! (IP=222.106.120.39)
+A <14:45:01> LoginAgent Server Disconnected! (ID=0)
+C <14:45:01> Start! - delete Certain IP List!
+C <14:45:01> End! - delete Certain IP List!
+C <14:45:01> Start! - delete AcceptTable!
+C <14:45:01> Start! - delete AcceptTable!
+C <14:45:01> Start! - delete DungeonTable!
+C <14:45:01> End! - delete DungeonTable!
+C <14:45:01> Start! - delete EventDungeonManager!
+C <14:45:01> End! - delete EventDungeonManager!
+C <14:45:01> Start! - delete GuildTable!
+C <14:45:01> End! - delete GuildTable!
+C <14:45:01> Start! - delete PartyTable!
+C <14:45:01> End! - delete PartyTable!
+C <14:45:01> Start unloading notice messgae data.
+C <14:45:01> End unloading notice message data.
+C <14:45:01> Start! - delete GroupTable!
+C <14:45:01> End! - delete GorupTable!
+C <14:45:01> Start! - Release GuildOfflinePool Pool!
+C <14:45:01> End! - Release GuildOfflinePool Pool!
+C <14:45:01> Start! - Release GroupTable Pool!
+C <14:45:01> End! - Release GroupTable Pool!
+C <14:45:01> Start! - Release GuildTable Pool!
+C <14:45:01> End! - Release GuildTable Pool!
+C <14:45:01> Start! - Release GuildUser Pool!
+C <14:45:01> End! - Release GuildUser Pool!
+C <14:45:01> Start! - Release PartyTable Pool!
+C <14:45:01> End! - Release PartyTable Pool!
+C <14:45:01> Start! - Release PartyUser Pool!
+C <14:45:01> Start! - Delete UserTable!
+C <14:45:02> End! - Delete UserTable!
+C <14:45:02> Start! - Delete ServerTable!
+C <14:45:02> End! - Delete ServerTable!
+C <14:45:02> Start! - Delete OwnServerInfo!
+C <14:45:02> End! - Delete OwnServerInfo!
+C <14:45:02> Start! - Release BaseNetwork!
+C <14:45:04> End! - Release BaseNetwork!
+C <14:45:04> Start! - Release DB Component!
+C <14:45:34> ########### CorumOnline - World Server Started! ###########
+C <14:45:36> GuildInfo Load - Start
+C <14:45:36> GuildInfo Load - End
+G <14:57:53> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <14:57:53> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+B <14:58:27> Invalid Level, DungeonID : 3, Name : zzz-minjin-zzz
+B <14:58:32> Invalid Level, DungeonID : 3, Name : zzz-minjin-zzz
+G <15:09:08> WorldUserList Removed! in OnDisconnectUser() (Name:zzz-minjin-zzz)
+G <15:09:33> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <15:09:33> <yakolla> d10004, 2 :: new m_pListRefreshFromDungeon
+G <15:11:00> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <17:10:52> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <17:10:52> <yakolla> d10504, 3 :: new m_pListRefreshFromDungeon
+G <17:11:20> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+C <17:11:38> [minjin] lpGuildList is Invalidate. Check the GuildList TABLE
+B <17:11:38> RGW_GUILD_DATA_ERROR is Catched : dwMyGuildIdx(0), dwOpGuildIdx(0)
+G <17:12:47> WorldUserList Added! in CmdGoToWorldSuccess() (Name:yyy-minjin-yyy)
+G <17:12:57> WorldUserList Added! in CmdGoToWorldSuccess() (Name:zzz-minjin-zzz)
+A <17:14:28> Dungeon Server Disconnected! (ID=6006)
+A <17:14:48> Dungeon Server Disconnected! (ID=6007)
+G <17:15:01> WorldUserList Removed! in OnDisconnectUser() (Name:yyy-minjin-yyy)
+A <17:15:08> LoginAgent Server Disconnected! (ID=0)
+C <17:15:08> Start! - delete Certain IP List!
+C <17:15:08> End! - delete Certain IP List!
+C <17:15:08> Start! - delete AcceptTable!
+C <17:15:08> Start! - delete AcceptTable!
+C <17:15:08> Start! - delete DungeonTable!
+C <17:15:08> End! - delete DungeonTable!
+C <17:15:08> Start! - delete EventDungeonManager!
+C <17:15:08> End! - delete EventDungeonManager!
+C <17:15:08> Start! - delete GuildTable!
+C <17:15:08> End! - delete GuildTable!
+C <17:15:08> Start! - delete PartyTable!
+C <17:15:08> End! - delete PartyTable!
+C <17:15:08> Start unloading notice messgae data.
+C <17:15:08> End unloading notice message data.
+C <17:15:08> Start! - delete GroupTable!
+C <17:15:08> End! - delete GorupTable!
+C <17:15:08> Start! - Release GuildOfflinePool Pool!
+C <17:15:08> End! - Release GuildOfflinePool Pool!
+C <17:15:08> Start! - Release GroupTable Pool!
+C <17:15:08> End! - Release GroupTable Pool!
+C <17:15:08> Start! - Release GuildTable Pool!
+C <17:15:08> End! - Release GuildTable Pool!
+C <17:15:08> Start! - Release GuildUser Pool!
+C <17:15:08> End! - Release GuildUser Pool!
+C <17:15:08> Start! - Release PartyTable Pool!
+C <17:15:08> End! - Release PartyTable Pool!
+C <17:15:08> Start! - Release PartyUser Pool!
+C <17:15:08> Start! - Delete UserTable!
+C <17:15:08> End! - Delete UserTable!
+C <17:15:08> Start! - Delete ServerTable!
+C <17:15:08> End! - Delete ServerTable!
+C <17:15:08> Start! - Delete OwnServerInfo!
+C <17:15:08> End! - Delete OwnServerInfo!
+C <17:15:08> Start! - Release BaseNetwork!
+C <17:38:29> ########### CorumOnline - World Server Started! ###########
+C <17:38:31> GuildInfo Load - Start
+C <17:38:31> GuildInfo Load - End
+G <17:40:57> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <17:40:57> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <17:41:19> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <17:41:19> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <17:41:39> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <17:41:56> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+C <17:42:09> [minjin] lpGuildList is Invalidate. Check the GuildList TABLE
+B <17:42:09> RGW_GUILD_DATA_ERROR is Catched : dwMyGuildIdx(2182), dwOpGuildIdx(2183)
+C <17:47:21> IsThereGuildMaster() Pointer : 00D10004
+C <17:47:21> IsThereGuildMaster() Pointer : 00D10504
+B <17:47:21> Function Takes over limited time (D:\for Working\with SourceSafe\Dev\DEVELOP\WorldServer\recvmsg.cpp 952 lines)
+C <18:20:52> ########### CorumOnline - World Server Started! ###########
+C <18:20:54> GuildInfo Load - Start
+C <18:20:54> GuildInfo Load - End
+A <18:21:37> Dungeon Server Disconnected! (ID=6007)
+A <18:23:03> Dungeon Server Disconnected! (ID=6007)
+A <18:23:31> Dungeon Server Disconnected! (ID=6007)
+C <18:25:42> ########### CorumOnline - World Server Started! ###########
+C <18:25:43> GuildInfo Load - Start
+C <18:25:43> GuildInfo Load - End
+G <18:50:29> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <18:50:29> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <18:50:31> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <18:50:31> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <18:52:30> WorldUserList Removed! in OnDisconnectUser() (Name:zzz-minjin-zzz)
+G <18:54:04> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+G <18:55:29> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <18:55:29> <yakolla> d10504, 3 :: new m_pListRefreshFromDungeon
+G <18:55:55> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+C <18:56:15> IsThereGuildMaster() Pointer : 00D10504
+C <18:56:15> IsThereGuildMaster() Pointer : 00D10004
+C <18:57:53> IsThereGuildMaster() Pointer : 00D10504
+C <18:57:53> IsThereGuildMaster() Pointer : 00D10004
+C <19:04:56> IsThereGuildMaster() Pointer : 00D10004
+C <19:04:56> IsThereGuildMaster() Pointer : 00D10504
+C <19:08:03> IsThereGuildMaster() Pointer : 00D10004
+C <19:08:03> IsThereGuildMaster() Pointer : 00D10504
+G <19:10:54> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <19:10:54> <yakolla> d10004, 4 :: new m_pListRefreshFromDungeon
+G <19:10:57> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <19:10:57> <yakolla> d10504, 5 :: new m_pListRefreshFromDungeon
+G <19:11:18> WorldUserList Removed! in OnDisconnectUser() (Name:zzz-minjin-zzz)
+G <19:11:27> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+G <19:12:02> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <19:12:02> <yakolla> d10504, 6 :: new m_pListRefreshFromDungeon
+G <19:13:30> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+C <19:13:43> IsThereGuildMaster() Pointer : 00D10504
+C <19:13:43> IsThereGuildMaster() Pointer : 00D10004
+C <19:14:04> IsThereGuildMaster() Pointer : 00D10004
+C <19:14:04> IsThereGuildMaster() Pointer : 00D10504
+C <19:14:09> IsThereGuildMaster() Pointer : 00D10004
+C <19:14:09> IsThereGuildMaster() Pointer : 00D10504
+A <19:16:26> Dungeon Server Disconnected! (ID=6006)

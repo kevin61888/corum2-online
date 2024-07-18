@@ -1,0 +1,276 @@
+C <11:58:40> ########### CorumOnline - World Server Started! ###########
+C <11:58:40> GuildInfo Load - Start
+C <11:58:40> GuildInfo Load - End
+C <12:00:28> ########### CorumOnline - World Server Started! ###########
+C <12:00:28> GuildInfo Load - Start
+C <12:00:28> GuildInfo Load - End
+A <12:23:48> LoginAgent Server Disconnected! (ID=0)
+C <12:23:48> Start! - Release BaseNetwork!
+C <12:23:49> End! - Release BaseNetwork!
+C <12:23:49> Start! - Release DB Component!
+C <12:23:49> End! - Release DB Component!
+C <12:23:49> Start! - CoUninitialize!
+C <13:58:58> ########### CorumOnline - World Server Started! ###########
+C <13:58:58> GuildInfo Load - Start
+C <13:58:58> GuildInfo Load - End
+A <14:12:40> LoginAgent Server Disconnected! (ID=0)
+C <14:12:40> Start! - Release BaseNetwork!
+C <14:12:40> End! - Release BaseNetwork!
+C <14:12:40> Start! - Release DB Component!
+C <14:12:40> End! - Release DB Component!
+C <14:12:40> Start! - CoUninitialize!
+C <14:12:51> ########### CorumOnline - World Server Started! ###########
+C <14:12:51> GuildInfo Load - Start
+C <14:12:51> GuildInfo Load - End
+C <14:12:52> Fail to attach LoginAgent Server! (ErrorCode:2)
+C <14:22:34> Unattached Server Disconnected! (IP=192.168.1.88)
+C <15:49:45> ########### CorumOnline - World Server Started! ###########
+C <15:49:46> GuildInfo Load - Start
+C <15:49:46> GuildInfo Load - End
+G <15:50:35> WorldUserList Added! in QueryTypeUserInfo() (Name:332323)
+G <15:50:35> <yakolla> 16f0004, 1 :: new m_pListRefreshFromDungeon
+G <15:50:41> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:332323)
+G <15:51:38> WorldUserList Added! in CmdGoToWorldSuccess() (Name:332323)
+A <15:54:18> Dungeon Server Disconnected! (ID=5201)
+G <15:54:49> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:332323)
+G <15:59:22> WorldUserList Added! in CmdGoToWorldSuccess() (Name:332323)
+G <15:59:30> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:332323)
+C <16:00:47> ########### CorumOnline - World Server Started! ###########
+C <16:00:48> GuildInfo Load - Start
+C <16:00:48> GuildInfo Load - End
+C <16:01:19> ########### CorumOnline - World Server Started! ###########
+C <16:01:19> GuildInfo Load - Start
+C <16:01:19> GuildInfo Load - End
+B <16:01:44> Fail To Connect LoginAgent Server! (IP:192.168.1.88, Port:17100)
+A <16:10:04> Dungeon Server Disconnected! (ID=6204)
+C <17:03:09> ########### CorumOnline - World Server Started! ###########
+C <17:03:57> ########### CorumOnline - World Server Started! ###########
+C <17:03:57> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:03:57> Fail To Query Map Informations!
+C <17:03:57> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:03:57> Fail to query BaseClassInfo!
+C <17:03:57> Start! - Release BaseNetwork!
+C <17:03:57> End! - Release BaseNetwork!
+C <17:03:57> Start! - Release DB Component!
+C <17:03:57> End! - Release DB Component!
+C <17:03:57> Start! - CoUninitialize!
+C <17:03:59> ########### CorumOnline - World Server Started! ###########
+C <17:03:59> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:03:59> Fail To Query Map Informations!
+C <17:03:59> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:03:59> Fail to query BaseClassInfo!
+C <17:03:59> Start! - Release BaseNetwork!
+C <17:03:59> End! - Release BaseNetwork!
+C <17:03:59> Start! - Release DB Component!
+C <17:03:59> End! - Release DB Component!
+C <17:03:59> Start! - CoUninitialize!
+C <17:04:00> ########### CorumOnline - World Server Started! ###########
+C <17:04:00> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:00> Fail To Query Map Informations!
+C <17:04:00> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:00> Fail to query BaseClassInfo!
+C <17:04:00> Start! - Release BaseNetwork!
+C <17:04:00> End! - Release BaseNetwork!
+C <17:04:00> Start! - Release DB Component!
+C <17:04:00> End! - Release DB Component!
+C <17:04:00> Start! - CoUninitialize!
+C <17:04:01> ########### CorumOnline - World Server Started! ###########
+C <17:04:02> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:02> Fail To Query Map Informations!
+C <17:04:02> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:02> Fail to query BaseClassInfo!
+C <17:04:02> Start! - Release BaseNetwork!
+C <17:04:02> End! - Release BaseNetwork!
+C <17:04:02> Start! - Release DB Component!
+C <17:04:02> End! - Release DB Component!
+C <17:04:02> Start! - CoUninitialize!
+C <17:04:03> ########### CorumOnline - World Server Started! ###########
+C <17:04:03> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:03> Fail To Query Map Informations!
+C <17:04:03> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:03> Fail to query BaseClassInfo!
+C <17:04:03> Start! - Release BaseNetwork!
+C <17:04:03> End! - Release BaseNetwork!
+C <17:04:03> Start! - Release DB Component!
+C <17:04:03> End! - Release DB Component!
+C <17:04:03> Start! - CoUninitialize!
+C <17:04:04> ########### CorumOnline - World Server Started! ###########
+C <17:04:04> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:04> Fail To Query Map Informations!
+C <17:04:04> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:04> Fail to query BaseClassInfo!
+C <17:04:04> Start! - Release BaseNetwork!
+C <17:04:04> End! - Release BaseNetwork!
+C <17:04:04> Start! - Release DB Component!
+C <17:04:04> End! - Release DB Component!
+C <17:04:04> Start! - CoUninitialize!
+C <17:04:38> ########### CorumOnline - World Server Started! ###########
+C <17:04:39> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:39> Fail To Query Map Informations!
+C <17:04:39> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:39> Fail to query BaseClassInfo!
+C <17:04:39> Start! - Release BaseNetwork!
+C <17:04:39> End! - Release BaseNetwork!
+C <17:04:39> Start! - Release DB Component!
+C <17:04:39> End! - Release DB Component!
+C <17:04:39> Start! - CoUninitialize!
+C <17:04:40> ########### CorumOnline - World Server Started! ###########
+C <17:04:40> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:40> Fail To Query Map Informations!
+C <17:04:40> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:40> Fail to query BaseClassInfo!
+C <17:04:40> Start! - Release BaseNetwork!
+C <17:04:40> End! - Release BaseNetwork!
+C <17:04:40> Start! - Release DB Component!
+C <17:04:40> End! - Release DB Component!
+C <17:04:40> Start! - CoUninitialize!
+C <17:04:41> ########### CorumOnline - World Server Started! ###########
+C <17:04:41> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:04:41> Fail To Query Map Informations!
+C <17:04:41> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:04:41> Fail to query BaseClassInfo!
+C <17:04:41> Start! - Release BaseNetwork!
+C <17:04:41> End! - Release BaseNetwork!
+C <17:04:41> Start! - Release DB Component!
+C <17:04:41> End! - Release DB Component!
+C <17:04:41> Start! - CoUninitialize!
+C <17:30:45> ########### CorumOnline - World Server Started! ###########
+C <17:30:45> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:30:45> Fail To Query Map Informations!
+C <17:30:45> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:30:45> Fail to query BaseClassInfo!
+C <17:30:45> Start! - Release BaseNetwork!
+C <17:30:45> End! - Release BaseNetwork!
+C <17:30:45> Start! - Release DB Component!
+C <17:30:45> End! - Release DB Component!
+C <17:30:45> Start! - CoUninitialize!
+C <17:30:47> ########### CorumOnline - World Server Started! ###########
+C <17:30:47> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:30:47> Fail To Query Map Informations!
+C <17:30:47> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:30:47> Fail to query BaseClassInfo!
+C <17:30:47> Start! - Release BaseNetwork!
+C <17:30:47> End! - Release BaseNetwork!
+C <17:30:47> Start! - Release DB Component!
+C <17:30:47> End! - Release DB Component!
+C <17:30:47> Start! - CoUninitialize!
+C <17:30:51> ########### CorumOnline - World Server Started! ###########
+C <17:30:52> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:30:52> Fail To Query Map Informations!
+C <17:30:52> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:30:52> Fail to query BaseClassInfo!
+C <17:30:52> Start! - Release BaseNetwork!
+C <17:30:52> End! - Release BaseNetwork!
+C <17:30:52> Start! - Release DB Component!
+C <17:30:52> End! - Release DB Component!
+C <17:30:52> Start! - CoUninitialize!
+C <17:30:53> ########### CorumOnline - World Server Started! ###########
+C <17:30:53> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:30:53> Fail To Query Map Informations!
+C <17:30:53> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:30:53> Fail to query BaseClassInfo!
+C <17:30:53> Start! - Release BaseNetwork!
+C <17:30:53> End! - Release BaseNetwork!
+C <17:30:53> Start! - Release DB Component!
+C <17:30:53> End! - Release DB Component!
+C <17:30:53> Start! - CoUninitialize!
+C <17:30:54> ########### CorumOnline - World Server Started! ###########
+C <17:30:54> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:30:54> Fail To Query Map Informations!
+C <17:30:54> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:30:54> Fail to query BaseClassInfo!
+C <17:30:54> Start! - Release BaseNetwork!
+C <17:30:54> End! - Release BaseNetwork!
+C <17:30:54> Start! - Release DB Component!
+C <17:30:54> End! - Release DB Component!
+C <17:30:54> Start! - CoUninitialize!
+C <17:31:30> ########### CorumOnline - World Server Started! ###########
+C <17:31:30> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:30> Fail To Query Map Informations!
+C <17:31:30> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:30> Fail to query BaseClassInfo!
+C <17:31:30> Start! - Release BaseNetwork!
+C <17:31:30> End! - Release BaseNetwork!
+C <17:31:30> Start! - Release DB Component!
+C <17:31:30> End! - Release DB Component!
+C <17:31:30> Start! - CoUninitialize!
+C <17:31:31> ########### CorumOnline - World Server Started! ###########
+C <17:31:31> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:31> Fail To Query Map Informations!
+C <17:31:31> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:31> Fail to query BaseClassInfo!
+C <17:31:31> Start! - Release BaseNetwork!
+C <17:31:31> End! - Release BaseNetwork!
+C <17:31:31> Start! - Release DB Component!
+C <17:31:31> End! - Release DB Component!
+C <17:31:31> Start! - CoUninitialize!
+C <17:31:32> ########### CorumOnline - World Server Started! ###########
+C <17:31:32> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:32> Fail To Query Map Informations!
+C <17:31:32> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:32> Fail to query BaseClassInfo!
+C <17:31:32> Start! - Release BaseNetwork!
+C <17:31:32> End! - Release BaseNetwork!
+C <17:31:32> Start! - Release DB Component!
+C <17:31:32> End! - Release DB Component!
+C <17:31:32> Start! - CoUninitialize!
+C <17:31:33> ########### CorumOnline - World Server Started! ###########
+C <17:31:34> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:34> Fail To Query Map Informations!
+C <17:31:34> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:34> Fail to query BaseClassInfo!
+C <17:31:34> Start! - Release BaseNetwork!
+C <17:31:34> End! - Release BaseNetwork!
+C <17:31:34> Start! - Release DB Component!
+C <17:31:34> End! - Release DB Component!
+C <17:31:34> Start! - CoUninitialize!
+C <17:31:34> ########### CorumOnline - World Server Started! ###########
+C <17:31:35> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:35> Fail To Query Map Informations!
+C <17:31:35> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:35> Fail to query BaseClassInfo!
+C <17:31:35> Start! - Release BaseNetwork!
+C <17:31:35> End! - Release BaseNetwork!
+C <17:31:35> Start! - Release DB Component!
+C <17:31:35> End! - Release DB Component!
+C <17:31:35> Start! - CoUninitialize!
+C <17:31:35> ########### CorumOnline - World Server Started! ###########
+C <17:31:35> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:35> Fail To Query Map Informations!
+C <17:31:35> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:35> Fail to query BaseClassInfo!
+C <17:31:35> Start! - Release BaseNetwork!
+C <17:31:35> End! - Release BaseNetwork!
+C <17:31:35> Start! - Release DB Component!
+C <17:31:35> End! - Release DB Component!
+C <17:31:35> Start! - CoUninitialize!
+C <17:31:36> ########### CorumOnline - World Server Started! ###########
+C <17:31:37> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:37> Fail To Query Map Informations!
+C <17:31:37> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:37> Fail to query BaseClassInfo!
+C <17:31:37> Start! - Release BaseNetwork!
+C <17:31:37> End! - Release BaseNetwork!
+C <17:31:37> Start! - Release DB Component!
+C <17:31:37> End! - Release DB Component!
+C <17:31:37> Start! - CoUninitialize!
+C <17:31:55> ########### CorumOnline - World Server Started! ###########
+C <17:31:55> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:31:55> Fail To Query Map Informations!
+C <17:31:55> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:31:55> Fail to query BaseClassInfo!
+C <17:31:55> Start! - Release BaseNetwork!
+C <17:31:55> End! - Release BaseNetwork!
+C <17:31:55> Start! - Release DB Component!
+C <17:31:55> End! - Release DB Component!
+C <17:31:55> Start! - CoUninitialize!
+C <17:32:05> ########### CorumOnline - World Server Started! ###########
+C <17:32:05> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_DUNGEON_INFO_WORLD'。, Query : CZP_QUERY_DUNGEON_INFO_WORLD 0
+B <17:32:05> Fail To Query Map Informations!
+C <17:32:05> [Msg for DB] HRESULT: 80040e14, Minor Code: 2812, Source: Microsoft OLE DB Provider for SQL Server, Description: 找不到存储过程 'CZP_QUERY_BASECLASSINFO'。, Query : CZP_QUERY_BASECLASSINFO
+B <17:32:05> Fail to query BaseClassInfo!
+C <17:32:05> Start! - Release BaseNetwork!
+C <17:32:05> End! - Release BaseNetwork!
+C <17:32:05> Start! - Release DB Component!
+C <17:32:05> End! - Release DB Component!
+C <17:32:05> Start! - CoUninitialize!

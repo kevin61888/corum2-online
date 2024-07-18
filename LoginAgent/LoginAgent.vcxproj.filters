@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4401c058-47af-49ab-bf0f-f7000f507995}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ccde4f0e-90cc-4c52-b6d3-7c3f23d04682}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Netmarble">
+      <UniqueIdentifier>{0b696c12-7fe9-40b8-bd51-c6cbb6dd3a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Container">
+      <UniqueIdentifier>{30cce794-9ae4-4240-b7d8-44f93ad81ff0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChinaBilling">
+      <UniqueIdentifier>{786bece3-565d-4622-979f-a2cf23904c85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Accessory">
+      <UniqueIdentifier>{6165237d-cc23-44c5-a2af-99a34ec67be9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Licensing">
+      <UniqueIdentifier>{30107096-124d-4227-91c3-232078fbba2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonServer">
+      <UniqueIdentifier>{3bcfe520-fc1b-4b0e-b6ca-7c59c39180d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7833f16c-c740-4d2f-81a6-f97a64f3e3fa}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DBProc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DBProcItemMall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MsgProc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MsgProcForServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OwnServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="recvmsg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldServerTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Linkedlist.cpp">
+      <Filter>Container</Filter>
+    </ClCompile>
+    <ClCompile Include="OnlyList.cpp">
+      <Filter>Container</Filter>
+    </ClCompile>
+    <ClCompile Include="ChinaBillingProc.cpp">
+      <Filter>ChinaBilling</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketEncrypt.cpp">
+      <Filter>Accessory</Filter>
+    </ClCompile>
+    <ClCompile Include="LicensingProc.cpp">
+      <Filter>Licensing</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DBProc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DBProcItemMall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgProc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgProcForServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OwnServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="recvmsg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerFunction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThrowQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="User.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UserTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldServerTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPSSOLib.h">
+      <Filter>Netmarble</Filter>
+    </ClInclude>
+    <ClInclude Include="Linkedlist.h">
+      <Filter>Container</Filter>
+    </ClInclude>
+    <ClInclude Include="OnlyList.h">
+      <Filter>Container</Filter>
+    </ClInclude>
+    <ClInclude Include="ChinaBillingPacket.h">
+      <Filter>ChinaBilling</Filter>
+    </ClInclude>
+    <ClInclude Include="ChinaBillingProc.h">
+      <Filter>ChinaBilling</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketEncrypt.h">
+      <Filter>Accessory</Filter>
+    </ClInclude>
+    <ClInclude Include="LicensingPacket.h">
+      <Filter>Licensing</Filter>
+    </ClInclude>
+    <ClInclude Include="LicensingProc.h">
+      <Filter>Licensing</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="CPSSOLib.lib">
+      <Filter>Netmarble</Filter>
+    </Library>
+    <Library Include="CommonServer.lib">
+      <Filter>CommonServer</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="libcomservice2.dll">
+      <Filter>Netmarble</Filter>
+    </CustomBuild>
+    <CustomBuild Include="CommonServer.dll">
+      <Filter>CommonServer</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

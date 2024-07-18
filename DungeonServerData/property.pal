@@ -1,0 +1,29 @@
+TILE_NUM	25
+0	type_a.tga
+1	type_b.tga
+2	type_c.tga
+3	type_d.tga
+4	type_e.tga
+5	type_f.tga
+6	type_g.tga
+7	type_h.tga
+8	type_i.tga
+9	type_cp.tga
+10	type_guardian.tga
+16	type_movespot_01.tga
+17	type_movespot_02.tga
+18	type_movespot_03.tga
+19	type_movespot_04.tga
+20	type_movespot_05.tga
+21	type_movespot_06.tga
+22	type_movespot_07.tga
+23	type_movespot_08.tga
+24	type_movespot_09.tga
+25	type_movespot_10.tga
+30	type_startspot_01.tga
+31	type_startspot_02.tga
+32	type_startspot_03.tga
+33	type_startspot_04.tga
+34	type_startspot_05.tga
+
+

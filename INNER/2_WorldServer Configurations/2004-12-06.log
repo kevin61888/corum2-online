@@ -1,0 +1,227 @@
+C <00:09:38> ########### CorumOnline - World Server Started! ###########
+C <00:09:40> GuildInfo Load - Start
+C <00:09:40> GuildInfo Load - End
+G <00:10:04> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:10:04> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <00:10:35> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <00:11:33> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <00:11:33> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <00:11:42> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+C <00:11:51> IsThereGuildMaster() Pointer : 00D10504
+C <00:11:51> IsThereGuildMaster() Pointer : 00D10004
+C <00:12:30> IsThereGuildMaster() Pointer : 00D10504
+C <00:12:30> IsThereGuildMaster() Pointer : 00D10004
+C <00:12:32> IsThereGuildMaster() Pointer : 00D10504
+C <00:12:32> IsThereGuildMaster() Pointer : 00D10004
+C <00:12:47> IsThereGuildMaster() Pointer : 00D10504
+C <00:12:47> IsThereGuildMaster() Pointer : 00D10004
+C <00:12:49> IsThereGuildMaster() Pointer : 00D10504
+C <00:12:49> IsThereGuildMaster() Pointer : 00D10004
+C <00:12:51> IsThereGuildMaster() Pointer : 00D10504
+C <00:12:51> IsThereGuildMaster() Pointer : 00D10004
+C <00:14:51> IsThereGuildMaster() Pointer : 00D10504
+C <00:14:51> IsThereGuildMaster() Pointer : 00D10004
+C <00:15:09> IsThereGuildMaster() Pointer : 00D10504
+C <00:15:09> IsThereGuildMaster() Pointer : 00D10004
+C <00:15:21> IsThereGuildMaster() Pointer : 00D10504
+C <00:15:21> IsThereGuildMaster() Pointer : 00D10004
+C <00:15:27> IsThereGuildMaster() Pointer : 00D10504
+C <00:15:27> IsThereGuildMaster() Pointer : 00D10004
+C <00:15:36> IsThereGuildMaster() Pointer : 00D10504
+C <00:15:36> IsThereGuildMaster() Pointer : 00D10004
+C <00:16:36> ########### CorumOnline - World Server Started! ###########
+C <00:16:38> GuildInfo Load - Start
+C <00:16:38> GuildInfo Load - End
+G <00:17:10> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:17:10> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <00:17:16> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <00:17:16> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <00:17:22> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+G <00:17:27> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+C <00:17:35> IsThereGuildMaster() Pointer : 00D10004
+C <00:17:35> IsThereGuildMaster() Pointer : 00D10504
+C <00:17:42> IsThereGuildMaster() Pointer : 00D10504
+C <00:17:42> IsThereGuildMaster() Pointer : 00D10004
+C <00:17:48> IsThereGuildMaster() Pointer : 00D10504
+C <00:17:48> IsThereGuildMaster() Pointer : 00D10004
+C <00:17:56> IsThereGuildMaster() Pointer : 00D10504
+C <00:17:56> IsThereGuildMaster() Pointer : 00D10004
+C <00:18:02> IsThereGuildMaster() Pointer : 00D10504
+C <00:18:02> IsThereGuildMaster() Pointer : 00D10004
+C <00:23:03> ########### CorumOnline - World Server Started! ###########
+C <00:23:05> GuildInfo Load - Start
+C <00:23:05> GuildInfo Load - End
+G <00:23:17> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:23:17> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <00:24:01> WorldUserList Removed! in OnDisconnectUser() (Name:zzz-minjin-zzz)
+G <00:24:09> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:24:09> <yakolla> d10004, 2 :: new m_pListRefreshFromDungeon
+B <00:26:18> Function Takes over limited time (D:\for Working\with SourceSafe\Dev\DEVELOP\WorldServer\recvmsg.cpp 952 lines)
+G <00:26:18> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <00:29:55> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:29:55> <yakolla> d10004, 3 :: new m_pListRefreshFromDungeon
+G <00:30:41> WorldUserList Removed! in OnDisconnectUser() (Name:zzz-minjin-zzz)
+G <00:32:09> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:32:09> <yakolla> d10004, 4 :: new m_pListRefreshFromDungeon
+G <00:34:13> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <00:35:34> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <00:35:34> <yakolla> d10504, 5 :: new m_pListRefreshFromDungeon
+G <00:35:42> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+C <00:35:52> IsThereGuildMaster() Pointer : 00D10504
+C <00:35:52> IsThereGuildMaster() Pointer : 00D10004
+B <00:39:57> Function Takes over limited time (D:\for Working\with SourceSafe\Dev\DEVELOP\WorldServer\recvmsg.cpp 899 lines)
+C <00:40:08> IsThereGuildMaster() Pointer : 00D10504
+C <00:40:08> IsThereGuildMaster() Pointer : 00D10004
+G <00:44:23> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <00:44:23> <yakolla> d10504, 6 :: new m_pListRefreshFromDungeon
+G <00:44:48> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+G <00:45:09> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <00:45:09> <yakolla> d10004, 7 :: new m_pListRefreshFromDungeon
+G <00:45:15> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+C <00:45:24> IsThereGuildMaster() Pointer : 00D10504
+C <00:45:24> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:22> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:22> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:34> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:34> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:35> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:35> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:35> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:35> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:36> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:36> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:44> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:44> IsThereGuildMaster() Pointer : 00D10004
+C <00:47:45> IsThereGuildMaster() Pointer : 00D10504
+C <00:47:45> IsThereGuildMaster() Pointer : 00D10004
+C <00:48:11> IsThereGuildMaster() Pointer : 00D10004
+C <00:48:11> IsThereGuildMaster() Pointer : 00D10504
+C <00:48:23> IsThereGuildMaster() Pointer : 00D10504
+C <00:48:23> IsThereGuildMaster() Pointer : 00D10004
+C <00:48:31> IsThereGuildMaster() Pointer : 00D10504
+C <00:48:31> IsThereGuildMaster() Pointer : 00D10004
+C <00:48:39> IsThereGuildMaster() Pointer : 00D10504
+C <00:48:39> IsThereGuildMaster() Pointer : 00D10004
+A <01:01:24> Dungeon Server Disconnected! (ID=6006)
+A <01:01:31> Dungeon Server Disconnected! (ID=6007)
+C <02:00:00> ########### CorumOnline - World Server Started! ###########
+C <02:00:02> GuildInfo Load - Start
+C <02:00:02> GuildInfo Load - End
+G <02:01:23> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <02:01:23> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <02:02:13> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <02:02:32> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <02:02:32> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <02:02:42> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+G <02:08:37> WorldUserList Added! in QueryTypeUserInfo() (Name:xxx-minjin-xxx)
+G <02:08:37> <yakolla> d10504, 3 :: new m_pListRefreshFromDungeon
+G <02:08:47> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:xxx-minjin-xxx)
+G <02:09:06> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <02:09:06> <yakolla> d10004, 4 :: new m_pListRefreshFromDungeon
+G <02:09:15> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+B <02:10:26> [minjin] Pointer is NULL!! [ d:\for working\with sourcesafe\dev\develop\worldserver\stupidnullpointerchecker.h | 12 Lines ]
+C <17:39:46> ########### CorumOnline - World Server Started! ###########
+C <17:39:59> GuildInfo Load - Start
+C <17:39:59> GuildInfo Load - End
+G <17:42:16> WorldUserList Added! in QueryTypeUserInfo() (Name:zzz-minjin-zzz)
+G <17:42:16> <yakolla> d10004, 1 :: new m_pListRefreshFromDungeon
+G <17:42:35> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:zzz-minjin-zzz)
+G <17:42:37> WorldUserList Added! in QueryTypeUserInfo() (Name:yyy-minjin-yyy)
+G <17:42:37> <yakolla> d10504, 2 :: new m_pListRefreshFromDungeon
+G <17:42:47> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:yyy-minjin-yyy)
+C <17:42:58> IsThereGuildMaster() Pointer : 00D10504
+C <17:42:58> IsThereGuildMaster() Pointer : 00D10004
+C <18:05:31> IsThereGuildMaster() Pointer : 00D10504
+C <18:05:31> IsThereGuildMaster() Pointer : 00D10004
+C <18:05:42> IsThereGuildMaster() Pointer : 00D10504
+C <18:05:42> IsThereGuildMaster() Pointer : 00D10004
+C <18:06:53> IsThereGuildMaster() Pointer : 00D10504
+C <18:06:53> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:19> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:19> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:30> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:30> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:38> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:38> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:41> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:41> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:46> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:46> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:52> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:52> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:54> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:54> IsThereGuildMaster() Pointer : 00D10004
+C <18:07:56> IsThereGuildMaster() Pointer : 00D10504
+C <18:07:56> IsThereGuildMaster() Pointer : 00D10004
+C <18:08:07> IsThereGuildMaster() Pointer : 00D10504
+C <18:08:07> IsThereGuildMaster() Pointer : 00D10004
+C <18:08:10> IsThereGuildMaster() Pointer : 00D10504
+C <18:08:10> IsThereGuildMaster() Pointer : 00D10004
+C <18:08:11> IsThereGuildMaster() Pointer : 00D10504
+C <18:08:11> IsThereGuildMaster() Pointer : 00D10004
+C <18:08:12> IsThereGuildMaster() Pointer : 00D10504
+C <18:08:12> IsThereGuildMaster() Pointer : 00D10004
+C <18:08:27> IsThereGuildMaster() Pointer : 00D10504
+C <18:08:27> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:25> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:25> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:36> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:36> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:43> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:43> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:45> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:45> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:48> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:48> IsThereGuildMaster() Pointer : 00D10004
+C <18:10:56> IsThereGuildMaster() Pointer : 00D10504
+C <18:10:56> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:04> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:04> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:17> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:17> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:27> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:27> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:30> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:30> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:32> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:32> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:37> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:37> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:43> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:43> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:47> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:47> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:48> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:48> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:55> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:55> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:57> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:57> IsThereGuildMaster() Pointer : 00D10004
+C <18:11:58> IsThereGuildMaster() Pointer : 00D10504
+C <18:11:58> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:00> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:00> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:00> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:00> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:01> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:08> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:08> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:14> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:14> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:16> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:16> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:19> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:19> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:22> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:22> IsThereGuildMaster() Pointer : 00D10004
+C <18:12:40> IsThereGuildMaster() Pointer : 00D10504
+C <18:12:40> IsThereGuildMaster() Pointer : 00D10004
+C <18:13:57> IsThereGuildMaster() Pointer : 00D10504
+C <18:13:57> IsThereGuildMaster() Pointer : 00D10004
+A <18:33:28> Dungeon Server Disconnected! (ID=6006)
+A <18:33:32> Dungeon Server Disconnected! (ID=6007)

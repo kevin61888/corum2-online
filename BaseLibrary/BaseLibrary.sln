@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseLibrary", "BaseLibrary.vcproj", "{F8A9E857-2C61-41E5-BF83-158CAAF1D702}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {1FAF212A-38BA-4FF9-811F-275B5DCE31F2}
+		SccProjectUniqueName1 = BaseLibrary.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		DebugMFC = DebugMFC
+		DebugS = DebugS
+		DebugSingle = DebugSingle
+		Release = Release
+		ReleaseMFC = ReleaseMFC
+		ReleaseS = ReleaseS
+		ReleaseSingle = ReleaseSingle
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.Debug.ActiveCfg = Debug|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.Debug.Build.0 = Debug|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugMFC.ActiveCfg = DebugMFC|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugMFC.Build.0 = DebugMFC|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugS.ActiveCfg = DebugS|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugS.Build.0 = DebugS|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugSingle.ActiveCfg = DebugSingle|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.DebugSingle.Build.0 = DebugSingle|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.Release.ActiveCfg = Release|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.Release.Build.0 = Release|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseMFC.ActiveCfg = ReleaseMFC|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseMFC.Build.0 = ReleaseMFC|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseS.ActiveCfg = ReleaseS|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseS.Build.0 = ReleaseS|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseSingle.ActiveCfg = ReleaseSingle|Win32
+		{F8A9E857-2C61-41E5-BF83-158CAAF1D702}.ReleaseSingle.Build.0 = ReleaseSingle|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

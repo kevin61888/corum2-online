@@ -1,0 +1,89 @@
+C <18:22:44> ########### CorumOnline - LoginAgent Server Started! ###########
+B <18:22:51> @ Licensing Server Connected Successfully!
+C <18:25:54> ########### CorumOnline - World Server Started! ###########
+C <18:25:59> [Msg for DB] HRESULT: 80040e37, Minor Code: 208, Source: Microsoft OLE DB Provider for SQL Server, Description: «ª«Ö«¸«§«¯«ÈÙ£ 'GuildDungeonTable' ªÏÙí?ªÇª¹¡£, Query : Select * from GuildDungeonTable
+B <18:25:59> Fail to query GuildDungeonTable!
+C <18:25:59> GuildInfo Load - Start
+C <18:26:00> GuildInfo Load - End
+C <18:31:18> ########### CorumZero Online - Village Server Started! ###########
+B <18:31:38> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:31:48> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:31:48> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:31:58> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:34:03> ########### CorumZero Online - Village Server Started! ###########
+B <18:34:25> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:34:35> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+A <18:38:20> World Server Disconnected! Server Will Terminate...
+C <18:38:30> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:38:32> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:38:40> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:38:41> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:38:50> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:38:51> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:00> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:02> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:10> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:11> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:20> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:21> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:30> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:31> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:40> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:41> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:39:50> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:39:51> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:40:00> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:40:01> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:40:10> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:40:11> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:40:20> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:40:22> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <18:40:30> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <18:40:31> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:00:24> ########### CorumZero Online - Village Server Started! ###########
+C <19:06:43> ########### CorumZero Online - Village Server Started! ###########
+C <19:09:43> ########### CorumZero Online - Village Server Started! ###########
+G <19:13:54> Name = TestFighter01, dwUserIndex = 162, dwConnectionIndex = 1
+G <19:13:54> UpdateUserDB Name : TestFighter01, Level : 150, Exp : 1070001557
+G <19:14:01> Name = TestFighter01, dwUserIndex = 162, dwConnectionIndex = 1
+G <19:14:01> UpdateUserDB Name : TestFighter01, Level : 150, Exp : 1070001557
+A <19:17:20> World Server Disconnected! Server Will Terminate...
+C <19:23:32> ########### CorumZero Online - Village Server Started! ###########
+C <19:28:46> ########### CorumZero Online - Village Server Started! ###########
+G <19:32:54> Name = TestFighter01, dwUserIndex = 162, dwConnectionIndex = 1
+G <19:32:54> UpdateUserDB Name : TestFighter01, Level : 150, Exp : 1070001557
+G <19:34:18> Name = TestFighter01, dwUserIndex = 162, dwConnectionIndex = 1
+G <19:34:18> UpdateUserDB Name : TestFighter01, Level : 150, Exp : 1070001557
+A <19:35:05> World Server Disconnected! Server Will Terminate...
+C <19:35:15> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:35:16> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:35:25> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:35:26> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:35:35> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:35:36> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:35:45> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:35:46> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:35:55> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:35:56> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:05> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:06> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:15> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:16> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:25> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:26> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:35> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:36> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:45> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:46> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:36:55> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:36:56> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:37:05> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:37:06> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:37:15> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:37:16> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:37:25> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:37:26> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:37:35> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)
+B <19:37:36> Fail To Connect WorldServer! (IP:203.238.38.179, Port:17201)
+C <19:37:43> ########### CorumZero Online - Village Server Started! ###########
+C <19:37:45> Try to reconnect WorldServer! (IP:203.238.38.179, Port:17201)

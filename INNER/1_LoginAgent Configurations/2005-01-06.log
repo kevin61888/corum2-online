@@ -1,0 +1,4 @@
+C <11:17:46> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:17:47> @ Now Listening... (For Userside(13100))
+B <11:19:29> [Msg for DB] [OLEDB Query Error] 'EXEC CorumGameLogin_OB 'han', 'han', '222.106.120.37', '277''( OLEDBThread(VOID) )
+B <11:19:29> pResult->Query.select.pResult is NULL! (dwRowSize:0)

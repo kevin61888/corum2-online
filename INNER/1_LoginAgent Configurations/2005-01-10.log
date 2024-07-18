@@ -1,0 +1,24 @@
+C <10:58:29> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:58:32> @ Now Listening... (For Userside(13100))
+B <10:58:38> Server That has Invalid ID Try to Login!(ID=1)
+C <11:05:40> ########### CorumOnline - LoginAgent Server Started! ###########
+C <11:05:57> ########### CorumOnline - LoginAgent Server Started! ###########
+C <11:07:21> ########### CorumOnline - LoginAgent Server Started! ###########
+C <11:07:38> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:07:39> [Msg for DB] HRESULT: 80004005, Minor Code: 512, Source: Microsoft OLE DB Provider for SQL Server, Description: Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression., Query : CZP_RESET_ITEM_SERIAL 13100
+C <11:07:59> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:08:26> @ Now Listening... (For Userside(13100))
+A <11:12:21> WorldServer Disconnected! (WorldMapID=1)
+C <11:12:25> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:12:41> @ Now Listening... (For Userside(13100))
+C <11:14:12> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:14:14> @ Now Listening... (For Userside(13100))
+C <11:15:01> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:15:03> @ Now Listening... (For Userside(13100))
+C <11:16:15> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:16:16> @ Now Listening... (For Userside(13100))
+C <11:19:37> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:19:38> @ Now Listening... (For Userside(13100))
+A <11:20:09> WorldServer Disconnected! (WorldMapID=1)
+C <11:21:57> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:21:59> @ Now Listening... (For Userside(13100))

@@ -1,0 +1,17 @@
+C <16:16:16> ########### CorumZero Online - Dungeon Server Started! ###########
+C <16:17:39> Start reload dungeonserver data!
+C <16:17:39> End reload dungeonserver data!
+C <16:18:12> Start reload dungeonserver data!
+C <16:18:12> End reload dungeonserver data!
+C <18:42:45> ########### CorumZero Online - Dungeon Server Started! ###########
+C <19:33:16> Start reload dungeonserver data!
+C <19:33:16> End reload dungeonserver data!
+C <19:33:30> Start reload dungeonserver data!
+C <19:33:30> End reload dungeonserver data!
+C <19:46:06> Start reload dungeonserver data!
+C <19:46:06> End reload dungeonserver data!
+A <20:18:26> World Server Disconnected! Server Will Terminate...
+C <20:18:36> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+B <20:18:37> Fail To Connect WorldServer! (IP:192.168.1.88, Port:17201)
+C <20:18:46> Try to reconnect WorldServer! (IP:192.168.1.88, Port:17201)
+A <20:35:19> World Server Disconnected! Server Will Terminate...

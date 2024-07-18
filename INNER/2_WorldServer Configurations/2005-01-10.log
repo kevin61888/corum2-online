@@ -1,0 +1,44 @@
+C <10:58:35> ########### CorumOnline - World Server Started! ###########
+C <10:58:36> GuildInfo Load - Start
+C <10:58:36> GuildInfo Load - End
+C <10:58:38> Fail to attach LoginAgent Server! (ErrorCode:1)
+B <10:58:46> Server That has Invalid ID Try to Login!(ID=6201)
+C <11:05:35> Unattached Server Disconnected! (IP=222.106.120.37)
+C <11:08:16> ########### CorumOnline - World Server Started! ###########
+C <11:08:17> GuildInfo Load - Start
+C <11:08:17> GuildInfo Load - End
+B <11:09:42> Server That has Invalid ID Try to Login!(ID=6201)
+C <11:09:59> Unattached Server Disconnected! (IP=222.106.120.37)
+C <11:12:28> ########### CorumOnline - World Server Started! ###########
+C <11:12:29> GuildInfo Load - Start
+C <11:12:29> GuildInfo Load - End
+B <11:12:32> Fail To Connect LoginAgent Server! (IP:222.106.120.37, Port:17100)
+C <11:14:16> ########### CorumOnline - World Server Started! ###########
+C <11:14:17> GuildInfo Load - Start
+C <11:14:17> GuildInfo Load - End
+B <11:14:20> Fail To Connect LoginAgent Server! (IP:222.106.120.37, Port:17100)
+C <11:15:05> ########### CorumOnline - World Server Started! ###########
+C <11:15:06> GuildInfo Load - Start
+C <11:15:06> GuildInfo Load - End
+B <11:15:08> Fail To Connect LoginAgent Server! (IP:222.106.120.37, Port:17100)
+C <11:16:19> ########### CorumOnline - World Server Started! ###########
+C <11:16:20> GuildInfo Load - Start
+C <11:16:20> GuildInfo Load - End
+A <11:19:18> LoginAgent Server Disconnected! (ID=0)
+C <11:19:19> Start! - Release BaseNetwork!
+C <11:19:20> End! - Release BaseNetwork!
+C <11:19:20> Start! - Release DB Component!
+C <11:19:20> End! - Release DB Component!
+C <11:19:20> Start! - CoUninitialize!
+C <11:19:40> ########### CorumOnline - World Server Started! ###########
+C <11:19:41> GuildInfo Load - Start
+C <11:19:41> GuildInfo Load - End
+C <11:22:00> ########### CorumOnline - World Server Started! ###########
+C <11:22:02> GuildInfo Load - Start
+C <11:22:02> GuildInfo Load - End
+A <11:24:06> LoginAgent Server Disconnected! (ID=0)
+C <11:24:06> Start! - Release BaseNetwork!
+C <11:24:07> End! - Release BaseNetwork!
+C <11:24:07> Start! - Release DB Component!
+C <11:24:07> End! - Release DB Component!
+C <11:24:07> Start! - CoUninitialize!

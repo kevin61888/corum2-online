@@ -1,0 +1,147 @@
+C <10:05:39> ########### CorumOnline - World Server Started! ###########
+C <10:05:39> GuildInfo Load - Start
+C <10:05:39> GuildInfo Load - End
+C <10:05:40> Fail to attach LoginAgent Server! (ErrorCode:2)
+C <10:19:36> ########### CorumOnline - World Server Started! ###########
+C <10:19:36> GuildInfo Load - Start
+C <10:19:36> GuildInfo Load - End
+C <10:19:37> Fail to attach LoginAgent Server! (ErrorCode:2)
+C <10:20:32> Unattached Server Disconnected! (IP=222.106.120.37)
+C <10:22:25> ########### CorumOnline - World Server Started! ###########
+C <10:22:26> GuildInfo Load - Start
+C <10:22:26> GuildInfo Load - End
+C <10:22:28> Fail to attach LoginAgent Server! (ErrorCode:2)
+C <10:24:10> ########### CorumOnline - World Server Started! ###########
+C <10:24:10> GuildInfo Load - Start
+C <10:24:10> GuildInfo Load - End
+C <10:24:12> Fail to attach LoginAgent Server! (ErrorCode:2)
+C <10:24:48> Unattached Server Disconnected! (IP=222.106.120.37)
+C <10:25:00> ########### CorumOnline - World Server Started! ###########
+C <10:25:00> GuildInfo Load - Start
+C <10:25:00> GuildInfo Load - End
+G <10:25:56> WorldUserList Added! in QueryTypeUserInfo() (Name:윈드워커)
+G <10:25:56> <yakolla> e10004, 1 :: new m_pListRefreshFromDungeon
+G <10:26:30> WorldUserList Added! in QueryTypeUserInfo() (Name:댑뵤)
+G <10:26:30> <yakolla> e104f1, 2 :: new m_pListRefreshFromDungeon
+G <10:27:23> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:윈드워커)
+G <10:27:58> WorldUserList Removed! in OnDisconnectUser() (Name:댑뵤)
+G <10:29:27> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <10:29:27> <yakolla> e104f1, 3 :: new m_pListRefreshFromDungeon
+G <10:29:46> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <10:43:04> WorldUserList Added! in QueryTypeUserInfo() (Name:윈드워커)
+G <10:43:04> <yakolla> e104f1, 4 :: new m_pListRefreshFromDungeon
+G <10:43:08> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:윈드워커)
+G <10:45:33> WorldUserList Added! in QueryTypeUserInfo() (Name:윈드워커)
+G <10:45:33> <yakolla> e104f1, 5 :: new m_pListRefreshFromDungeon
+G <10:45:36> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:윈드워커)
+G <10:46:03> WorldUserList Added! in QueryTypeUserInfo() (Name:윈드워커)
+G <10:46:03> <yakolla> e104f1, 6 :: new m_pListRefreshFromDungeon
+G <10:46:06> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:윈드워커)
+G <10:53:39> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <10:53:39> <yakolla> e104f1, 7 :: new m_pListRefreshFromDungeon
+G <10:54:27> WorldUserList Removed! in OnDisconnectUser() (Name:서머너)
+G <10:56:23> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <10:56:23> <yakolla> e104f1, 8 :: new m_pListRefreshFromDungeon
+G <10:56:40> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <10:58:56> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <10:58:56> <yakolla> e10004, 9 :: new m_pListRefreshFromDungeon
+G <10:59:01> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:00:32> WorldUserList Added! in CmdGoToWorldSuccess() (Name:Test009)
+G <11:00:34> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:02:49> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:02:49> <yakolla> e104f1, 10 :: new m_pListRefreshFromDungeon
+G <11:02:52> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:04:24> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:04:24> <yakolla> e104f1, 11 :: new m_pListRefreshFromDungeon
+G <11:04:27> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:05:39> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:05:39> <yakolla> e104f1, 12 :: new m_pListRefreshFromDungeon
+G <11:05:42> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:08:41> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:08:41> <yakolla> e104f1, 13 :: new m_pListRefreshFromDungeon
+G <11:08:43> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+A <11:10:32> Dungeon Server Disconnected! (ID=6009)
+G <11:11:44> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:11:44> <yakolla> e104f1, 14 :: new m_pListRefreshFromDungeon
+G <11:11:48> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:13:25> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:13:25> <yakolla> e104f1, 15 :: new m_pListRefreshFromDungeon
+G <11:13:55> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:13:55> <yakolla> e10004, 16 :: new m_pListRefreshFromDungeon
+G <11:13:59> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:14:09> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:15:41> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:15:41> <yakolla> e104f1, 17 :: new m_pListRefreshFromDungeon
+G <11:15:46> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:16:42> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:16:42> <yakolla> e10004, 18 :: new m_pListRefreshFromDungeon
+G <11:16:46> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:19:58> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:19:58> <yakolla> e104f1, 19 :: new m_pListRefreshFromDungeon
+G <11:20:02> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:26:05> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <11:26:05> <yakolla> e104f1, 20 :: new m_pListRefreshFromDungeon
+G <11:26:08> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <11:45:27> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:45:27> <yakolla> e10004, 21 :: new m_pListRefreshFromDungeon
+G <11:45:31> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:47:14> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:47:14> <yakolla> e10004, 22 :: new m_pListRefreshFromDungeon
+G <11:47:17> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:48:53> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:48:53> <yakolla> e10004, 23 :: new m_pListRefreshFromDungeon
+G <11:48:56> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <11:50:52> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <11:50:52> <yakolla> e10004, 24 :: new m_pListRefreshFromDungeon
+G <11:50:55> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <12:07:22> WorldUserList Added! in QueryTypeUserInfo() (Name:Test009)
+G <12:07:22> <yakolla> e10004, 25 :: new m_pListRefreshFromDungeon
+G <12:07:25> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:Test009)
+G <12:50:16> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <12:50:16> <yakolla> e10004, 26 :: new m_pListRefreshFromDungeon
+G <12:50:21> WorldUserList Removed! in OnDisconnectUser() (Name:레인저)
+G <12:52:28> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <12:52:28> <yakolla> e10004, 27 :: new m_pListRefreshFromDungeon
+G <12:52:37> WorldUserList Removed! in OnDisconnectUser() (Name:레인저)
+G <12:52:52> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <12:52:52> <yakolla> e10004, 28 :: new m_pListRefreshFromDungeon
+G <12:53:08> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:레인저)
+G <12:57:59> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <12:57:59> <yakolla> e10004, 29 :: new m_pListRefreshFromDungeon
+G <12:58:02> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:레인저)
+G <13:01:06> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <13:01:06> <yakolla> e10004, 30 :: new m_pListRefreshFromDungeon
+G <13:01:08> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:레인저)
+G <13:05:06> WorldUserList Added! in QueryTypeUserInfo() (Name:레인저)
+G <13:05:06> <yakolla> e10004, 31 :: new m_pListRefreshFromDungeon
+G <13:05:09> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:레인저)
+G <13:09:27> WorldUserList Added! in QueryTypeUserInfo() (Name:프리스트)
+G <13:09:27> <yakolla> e10004, 32 :: new m_pListRefreshFromDungeon
+G <13:10:03> WorldUserList Removed! in OnDisconnectUser() (Name:프리스트)
+G <13:11:19> WorldUserList Added! in QueryTypeUserInfo() (Name:프리스트)
+G <13:11:19> <yakolla> e10004, 33 :: new m_pListRefreshFromDungeon
+G <13:11:35> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:프리스트)
+A <13:22:42> Dungeon Server Disconnected! (ID=6009)
+A <13:28:51> LoginAgent Server Disconnected! (ID=0)
+C <13:28:52> Start! - Release BaseNetwork!
+C <13:28:52> End! - Release BaseNetwork!
+C <13:28:52> Start! - Release DB Component!
+C <13:28:52> End! - Release DB Component!
+C <13:28:52> Start! - CoUninitialize!
+C <13:39:15> ########### CorumOnline - World Server Started! ###########
+C <13:39:16> GuildInfo Load - Start
+C <13:39:16> GuildInfo Load - End
+A <13:44:14> Dungeon Server Disconnected! (ID=6009)
+G <13:56:34> WorldUserList Added! in QueryTypeUserInfo() (Name:프리스트)
+G <13:56:34> <yakolla> e10004, 1 :: new m_pListRefreshFromDungeon
+G <13:56:38> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:프리스트)
+G <13:56:49> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <13:56:49> <yakolla> e104f1, 2 :: new m_pListRefreshFromDungeon
+G <13:56:52> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <14:01:37> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <14:01:37> <yakolla> e10004, 3 :: new m_pListRefreshFromDungeon
+G <14:01:49> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+G <14:03:31> WorldUserList Added! in QueryTypeUserInfo() (Name:서머너)
+G <14:03:31> <yakolla> e10004, 4 :: new m_pListRefreshFromDungeon
+G <14:03:33> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:서머너)
+A <14:07:58> Dungeon Server Disconnected! (ID=6009)

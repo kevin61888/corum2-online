@@ -1,0 +1,56 @@
+C <17:33:21> ########### CorumOnline - World Server Started! ###########
+C <17:33:21> GuildInfo Load - Start
+C <17:33:21> GuildInfo Load - End
+C <17:34:08> ########### CorumOnline - World Server Started! ###########
+C <17:34:08> GuildInfo Load - Start
+C <17:34:08> GuildInfo Load - End
+C <17:38:05> ########### CorumOnline - World Server Started! ###########
+C <17:38:07> GuildInfo Load - Start
+C <17:38:07> GuildInfo Load - End
+A <17:38:39> Dungeon Server Disconnected! (ID=5201)
+A <17:38:42> Village Server Disconnected! (ID=6201)
+A <17:38:44> LoginAgent Server Disconnected! (ID=0)
+C <17:38:44> Start! - Release BaseNetwork!
+C <17:38:44> End! - Release BaseNetwork!
+C <17:38:44> Start! - Release DB Component!
+C <17:38:44> End! - Release DB Component!
+C <17:38:44> Start! - CoUninitialize!
+C <17:42:48> ########### CorumOnline - World Server Started! ###########
+C <17:42:48> GuildInfo Load - Start
+C <17:42:48> GuildInfo Load - End
+G <17:43:10> WorldUserList Added! in QueryTypeUserInfo() (Name:1111112)
+G <17:43:10> <yakolla> 14d0004, 1 :: new m_pListRefreshFromDungeon
+G <17:43:12> WorldUserList Removed! in CmdDungeonJoinSuccess() (Name:1111112)
+A <17:43:28> Village Server Disconnected! (ID=6201)
+A <17:43:32> LoginAgent Server Disconnected! (ID=0)
+C <17:43:32> Start! - Release BaseNetwork!
+C <17:43:32> End! - Release BaseNetwork!
+C <17:43:32> Start! - Release DB Component!
+C <17:43:32> End! - Release DB Component!
+C <17:43:32> Start! - CoUninitialize!
+C <19:54:36> ########### CorumOnline - World Server Started! ###########
+C <19:54:36> GuildInfo Load - Start
+C <19:54:36> GuildInfo Load - End
+B <19:54:39> Fail To Connect LoginAgent Server! (IP:192.168.1.88, Port:17100)
+C <19:56:12> ########### CorumOnline - World Server Started! ###########
+C <19:56:12> GuildInfo Load - Start
+C <19:56:12> GuildInfo Load - End
+C <21:38:37> ########### CorumOnline - World Server Started! ###########
+C <21:38:37> GuildInfo Load - Start
+C <21:38:37> GuildInfo Load - End
+G <21:39:53> WorldUserList Added! in QueryTypeUserInfo() (Name:1111112)
+G <21:39:53> <yakolla> 14d0004, 1 :: new m_pListRefreshFromDungeon
+G <21:42:21> WorldUserList Removed! in OnDisconnectUser() (Name:1111112)
+A <21:42:50> Dungeon Server Disconnected! (ID=5201)
+A <22:03:01> Dungeon Server Disconnected! (ID=5202)
+A <22:04:34> Dungeon Server Disconnected! (ID=5204)
+A <22:06:12> Dungeon Server Disconnected! (ID=5205)
+A <22:07:13> Dungeon Server Disconnected! (ID=6203)
+A <22:09:57> Dungeon Server Disconnected! (ID=7204)
+A <22:10:07> Dungeon Server Disconnected! (ID=7204)
+A <22:13:46> LoginAgent Server Disconnected! (ID=0)
+C <22:13:46> Start! - Release BaseNetwork!
+C <22:13:46> End! - Release BaseNetwork!
+C <22:13:46> Start! - Release DB Component!
+C <22:13:46> End! - Release DB Component!
+C <22:13:46> Start! - CoUninitialize!

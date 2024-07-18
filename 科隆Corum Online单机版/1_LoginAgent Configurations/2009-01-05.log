@@ -1,0 +1,168 @@
+C <13:09:50> ########### CorumOnline - LoginAgent Server Started! ###########
+B <13:09:50> @ Connecting SQL Server(Game DB)...
+B <13:09:50> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <13:09:50> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <13:09:50> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <13:09:50> @ Connecting SQL Server(Billing DB)...
+B <13:09:50> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <13:09:50> @ Connecting SQL Server(Log DB)...
+B <13:09:50> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <13:09:53> @ Now Listening... (For Userside(7001))
+C <15:46:21> ########### CorumOnline - LoginAgent Server Started! ###########
+B <15:46:21> @ Connecting SQL Server(Game DB)...
+B <15:46:21> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <15:46:21> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <15:46:21> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <15:46:21> @ Connecting SQL Server(Billing DB)...
+B <15:46:21> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <15:46:21> @ Connecting SQL Server(Log DB)...
+B <15:46:21> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <15:46:22> @ Now Listening... (For Userside(7001))
+B <15:46:46> [Msg for DB] [OLEDB Query Error] 'EXEC CZP_QUERY_ITEMMALL_INFO 'test2', 0'( OLEDBThread(VOID) )
+B <15:46:46> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <15:47:32> [Msg for DB] [OLEDB Query Error] 'EXEC CZP_QUERY_ITEMMALL_INFO 'test2', 0'( OLEDBThread(VOID) )
+B <15:47:32> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <15:49:07> [Msg for DB] [OLEDB Query Error] 'EXEC CZP_QUERY_ITEMMALL_INFO 'test2', 0'( OLEDBThread(VOID) )
+B <15:49:07> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+A <16:02:29> WorldServer Disconnected! (WorldMapID=1)
+B <16:02:29> OnDisconnectServer() : SetEvent(g_pThis->m_hKeyEvent[7])
+B <16:02:29> ShutDownServer()
+C <16:02:29> Start! - Logout All User!
+C <16:02:29> End! - Logout All User!
+C <16:02:29> Start! - Delete OwnServerInfo!
+C <16:02:29> End! - Delete OwnServerInfo!
+C <16:02:29> Start! - Release BaseNetwork!
+C <16:02:29> End! - Release BaseNetwork!
+C <16:02:29> Start! - Release DB Component!
+C <16:02:29> End! - Release DB Component!
+C <16:02:29> Start! - CoUninitialize!
+C <16:13:59> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:13:59> @ Connecting SQL Server(Game DB)...
+B <16:13:59> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <16:13:59> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <16:13:59> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:13:59> @ Connecting SQL Server(Billing DB)...
+B <16:13:59> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:13:59> @ Connecting SQL Server(Log DB)...
+B <16:13:59> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <16:14:00> @ Now Listening... (For Userside(7001))
+C <16:53:20> ########### CorumOnline - LoginAgent Server Started! ###########
+B <16:53:20> @ Connecting SQL Server(Game DB)...
+B <16:53:20> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <16:53:20> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <16:53:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:53:20> @ Connecting SQL Server(Billing DB)...
+B <16:53:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <16:53:20> @ Connecting SQL Server(Log DB)...
+B <16:53:20> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <16:53:21> @ Now Listening... (For Userside(7001))
+B <16:56:48> [Msg for DB] [OLEDB Query Error] 'CZP_CREATE_NEW_CHARACTER 'test2', 'fsdfaf', 4, 1001, 3, 3, '192.168.1.88''( OLEDBThread(VOID) )
+B <16:56:48> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <16:57:01> Character Place Overlapped! at CmdCreateNewCharacter() bChrNum=3
+B <16:57:20> [Msg for DB] [OLEDB Query Error] 'CZP_CREATE_NEW_CHARACTER 'test3', 'fsfaf', 4, 1001, 1, 3, '192.168.1.88''( OLEDBThread(VOID) )
+B <16:57:20> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <16:58:40> [Msg for DB] [OLEDB Query Error] 'CZP_CREATE_NEW_CHARACTER 'test3', 'fasdfa', 4, 1001, 1, 1, '192.168.1.88''( OLEDBThread(VOID) )
+B <16:58:40> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <16:58:47> [Msg for DB] [OLEDB Query Error] 'CZP_DELETE_CHARACTER 'test3', 'fsfsdf', '192.168.1.88''( OLEDBThread(VOID) )
+B <16:58:47> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+C <17:20:10> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:20:10> @ Connecting SQL Server(Game DB)...
+B <17:20:12> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:20:12> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:20:12> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:20:12> @ Connecting SQL Server(Billing DB)...
+B <17:20:12> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:20:12> @ Connecting SQL Server(Log DB)...
+B <17:20:12> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <17:20:13> @ Now Listening... (For Userside(7001))
+C <17:33:52> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:33:52> @ Connecting SQL Server(Game DB)...
+B <17:33:52> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:33:52> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:33:52> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:33:52> @ Connecting SQL Server(Billing DB)...
+B <17:33:52> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:33:52> @ Connecting SQL Server(Log DB)...
+B <17:33:52> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+C <17:34:04> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:34:04> @ Connecting SQL Server(Game DB)...
+B <17:34:04> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:34:04> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:34:04> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:34:04> @ Connecting SQL Server(Billing DB)...
+B <17:34:04> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:34:04> @ Connecting SQL Server(Log DB)...
+B <17:34:04> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+C <17:38:00> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:38:00> @ Connecting SQL Server(Game DB)...
+B <17:38:02> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:38:02> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:38:02> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:38:02> @ Connecting SQL Server(Billing DB)...
+B <17:38:02> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:38:02> @ Connecting SQL Server(Log DB)...
+B <17:38:02> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <17:38:03> @ Now Listening... (For Userside(7001))
+C <17:42:45> ########### CorumOnline - LoginAgent Server Started! ###########
+B <17:42:45> @ Connecting SQL Server(Game DB)...
+B <17:42:45> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <17:42:45> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <17:42:45> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:42:45> @ Connecting SQL Server(Billing DB)...
+B <17:42:45> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <17:42:45> @ Connecting SQL Server(Log DB)...
+B <17:42:45> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <17:42:46> @ Now Listening... (For Userside(7001))
+C <19:50:30> ########### CorumOnline - LoginAgent Server Started! ###########
+B <19:50:30> @ Connecting SQL Server(Game DB)...
+B <19:50:30> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <19:50:30> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <19:50:30> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:50:30> @ Connecting SQL Server(Billing DB)...
+B <19:50:30> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:50:30> @ Connecting SQL Server(Log DB)...
+B <19:50:30> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+C <19:54:20> ########### CorumOnline - LoginAgent Server Started! ###########
+B <19:54:20> @ Connecting SQL Server(Game DB)...
+B <19:54:20> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <19:54:20> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <19:54:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:54:20> @ Connecting SQL Server(Billing DB)...
+B <19:54:20> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:54:20> @ Connecting SQL Server(Log DB)...
+B <19:54:20> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <19:54:21> @ Now Listening... (For Userside(7001))
+C <19:56:08> ########### CorumOnline - LoginAgent Server Started! ###########
+B <19:56:08> @ Connecting SQL Server(Game DB)...
+B <19:56:08> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <19:56:08> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <19:56:08> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:56:08> @ Connecting SQL Server(Billing DB)...
+B <19:56:08> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <19:56:08> @ Connecting SQL Server(Log DB)...
+B <19:56:08> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <19:56:09> @ Now Listening... (For Userside(7001))
+A <19:58:53> WorldServer Disconnected! (WorldMapID=1)
+B <19:58:53> OnDisconnectServer() : SetEvent(g_pThis->m_hKeyEvent[7])
+B <19:58:53> ShutDownServer()
+C <19:58:53> Start! - Logout All User!
+C <19:58:53> End! - Logout All User!
+C <19:58:53> Start! - Delete OwnServerInfo!
+C <19:58:53> End! - Delete OwnServerInfo!
+C <19:58:53> Start! - Release BaseNetwork!
+C <19:58:54> End! - Release BaseNetwork!
+C <19:58:54> Start! - Release DB Component!
+C <19:58:54> End! - Release DB Component!
+C <19:58:54> Start! - CoUninitialize!
+C <21:38:34> ########### CorumOnline - LoginAgent Server Started! ###########
+B <21:38:35> @ Connecting SQL Server(Game DB)...
+B <21:38:35> @ SQL Server(Game DB) Connected!(192.168.1.88,1433)
+B <21:38:35> @ SQL Server(Total DB) Connected!(192.168.1.88,1433)
+B <21:38:35> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <21:38:35> @ Connecting SQL Server(Billing DB)...
+B <21:38:35> @ SQL Server(Member DB) Connected!(192.168.1.88,1433)
+B <21:38:35> @ Connecting SQL Server(Log DB)...
+B <21:38:35> @ SQL Server(Log DB) Connected!(192.168.1.88,1433)
+B <21:38:35> @ Now Listening... (For Userside(7001))
+B <21:39:49> [Msg for DB] [OLEDB Query Error] 'CZP_CREATE_NEW_CHARACTER 'test2', 'fasdfa', 4, 1001, 1, 3, '192.168.1.88''( OLEDBThread(VOID) )
+B <21:39:49> pResult->Query.select.pResult is NULL! (dwRowSize:0)

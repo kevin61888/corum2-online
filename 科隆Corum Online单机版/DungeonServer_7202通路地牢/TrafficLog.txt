@@ -1,0 +1,14 @@
+Header:   0, Count:         19, Traffic:                80731 Bytes
+Header:   3, Count:          1, Traffic:                   14 Bytes
+Header:   6, Count:         38, Traffic:                 1444 Bytes
+Header:  11, Count:        261, Traffic:                28710 Bytes
+Header:  12, Count:         32, Traffic:                  192 Bytes
+Header:  14, Count:        876, Traffic:                30660 Bytes
+Header:  15, Count:        559, Traffic:                 7826 Bytes
+Header:  16, Count:         13, Traffic:                  364 Bytes
+Header:  19, Count:         15, Traffic:                  366 Bytes
+Header:  22, Count:         24, Traffic:                 1248 Bytes
+Header:  23, Count:          1, Traffic:                   10 Bytes
+Header:  24, Count:          1, Traffic:                   55 Bytes
+Header:  26, Count:         61, Traffic:                 1371 Bytes
+Header: 166, Count:         19, Traffic:                   57 Bytes

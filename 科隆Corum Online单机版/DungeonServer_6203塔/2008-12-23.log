@@ -1,0 +1,30 @@
+C <17:29:03> ########### CorumZero Online - Dungeon Server Started! ###########
+C <17:29:04> [Msg for DB] HRESULT: 80004005, Minor Code: 512, Source: Microsoft OLE DB Provider for SQL Server, Description: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。, Query : CZP_RESET_ITEM_SERIAL 16202
+B <17:29:04> Fail to Reset ItemSerialCount!(Port=16202)
+C <17:29:23> ########### CorumZero Online - Dungeon Server Started! ###########
+C <17:29:23> [Msg for DB] HRESULT: 80004005, Minor Code: 512, Source: Microsoft OLE DB Provider for SQL Server, Description: 子查询返回的值不止一个。当子查询跟随在 =、!=、<、<=、>、>= 之后，或子查询用作表达式时，这种情况是不允许的。, Query : CZP_RESET_ITEM_SERIAL 16202
+B <17:29:23> Fail to Reset ItemSerialCount!(Port=16202)
+C <17:31:21> ########### CorumZero Online - Dungeon Server Started! ###########
+C <17:31:57> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:31:59> Fail To Connect WorldServer! (IP:192.168.1.18, Port:17201)
+C <17:32:09> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+C <17:37:50> ########### CorumZero Online - Dungeon Server Started! ###########
+C <17:40:21> ########### CorumZero Online - Dungeon Server Started! ###########
+B <17:40:24> Fail To Connect WorldServer! (IP:192.168.1.18, Port:17201)
+C <17:40:34> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+A <18:20:15> World Server Disconnected! Server Will Terminate...
+C <18:20:25> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+B <18:20:26> Fail To Connect WorldServer! (IP:192.168.1.18, Port:17201)
+C <18:20:35> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+B <18:20:36> Fail To Connect WorldServer! (IP:192.168.1.18, Port:17201)
+C <18:20:45> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+B <18:20:46> Fail To Connect WorldServer! (IP:192.168.1.18, Port:17201)
+C <18:20:55> Try to reconnect WorldServer! (IP:192.168.1.18, Port:17201)
+C <18:20:55> pDungeon is NULL at CmdDungeonInfo function.
+C <18:20:55> pDungeon is NULL at CmdDungeonInfo function.
+C <18:20:55> pDungeon is NULL at CmdDungeonInfo function.
+C <18:20:57> ########### CorumZero Online - Dungeon Server Started! ###########
+C <18:21:02> ########### CorumZero Online - Dungeon Server Started! ###########
+C <18:29:37> ########### CorumZero Online - Dungeon Server Started! ###########
+B <18:30:39> [Before Die] Name : 刺客008 Criminal : 124, Level : 35 exp : 395876, decExpItem : 0, IncExpItem : 0
+B <18:30:39> [After Die] Name : 刺客008 Criminal : 124, Level : 35 exp : 395876

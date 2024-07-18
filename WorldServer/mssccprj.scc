@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[WorldServer.dsp]
+SCC_Aux_Path = "\\kbs-sub\VSS\"
+SCC_Project_Name = "$/Develop/WorldServer", XANAAAAA

@@ -1,0 +1,61 @@
+C <10:25:42> ########### CorumOnline - LoginAgent Server Started! ###########
+B <10:25:42> @ Connecting SQL Server(Game DB)...
+B <10:25:42> @ SQL Server(Game DB) Connected!(222.106.120.45,2433)
+B <10:25:42> @ SQL Server(Total DB) Connected!(222.106.120.45,2433)
+B <10:25:42> @ SQL Server(Member DB) Connected!(222.106.120.45,2433)
+B <10:25:42> @ Connecting SQL Server(Billing DB)...
+B <10:25:42> @ SQL Server(Member DB) Connected!(222.106.120.45,2433)
+B <10:25:42> @ Connecting SQL Server(Log DB)...
+B <10:25:42> @ SQL Server(Log DB) Connected!(222.106.120.45,2433)
+C <11:15:02> ########### CorumOnline - LoginAgent Server Started! ###########
+B <11:15:02> @ Connecting SQL Server(Game DB)...
+B <11:15:03> @ SQL Server(Game DB) Connected!(222.106.120.45,2433)
+B <11:15:03> @ SQL Server(Total DB) Connected!(222.106.120.45,2433)
+B <11:15:03> @ SQL Server(Member DB) Connected!(222.106.120.45,2433)
+B <11:15:03> @ Connecting SQL Server(Billing DB)...
+B <11:15:03> @ SQL Server(Member DB) Connected!(222.106.120.45,2433)
+B <11:15:03> @ Connecting SQL Server(Log DB)...
+B <11:15:03> @ SQL Server(Log DB) Connected!(222.106.120.45,2433)
+B <11:16:35> @ Now Listening... (For Userside(13100))
+B <11:16:38> @ Userside already listening!
+B <11:16:39> @ Userside already listening!
+B <11:17:46> [Msg for DB] [OLEDB Query Error] 'EXEC CorumGameLogin_OB 'a9rumi', '9ru1771', '222.106.120.33', '168''( OLEDBThread(VOID) )
+B <11:17:46> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <11:24:14> @ Userside already listening!
+C <11:24:26> Logout All User Successfully!
+C <11:24:48> Logout All User Successfully!
+C <11:25:08> Logout All User Successfully!
+B <11:25:10> @ Userside already listening!
+B <11:25:11> @ Userside already listening!
+B <11:26:03> [Msg for DB] [OLEDB Query Error] 'EXEC CorumGameLogin_OB 'a9rumi', '9ru1771', '222.106.120.33', '168''( OLEDBThread(VOID) )
+B <11:26:03> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+C <11:34:12> Logout All User Successfully!
+C <11:34:14> Logout All User Successfully!
+B <11:34:32> [Msg for DB] [OLEDB Query Error] 'EXEC CorumGameLogin_OB 'a9rumi', '9ru1771', '222.106.120.33', '168''( OLEDBThread(VOID) )
+B <11:34:32> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+C <11:37:30> Logout All User Successfully!
+C <11:37:48> Logout All User Successfully!
+C <11:37:50> Logout All User Successfully!
+C <11:37:51> Logout All User Successfully!
+C <11:37:53> Logout All User Successfully!
+C <11:38:01> Logout All User Successfully!
+C <11:38:01> Logout All User Successfully!
+B <11:38:10> @ Userside already listening!
+B <11:38:11> @ Userside already listening!
+B <11:38:11> @ Userside already listening!
+B <11:38:11> @ Userside already listening!
+B <11:38:11> @ Userside already listening!
+B <11:38:11> @ Userside already listening!
+B <11:38:12> @ Userside already listening!
+C <11:38:15> Logout All User Successfully!
+B <11:40:41> [Msg for DB] [OLEDB Query Error] 'EXEC CorumGameLogin_OB 'a9rumi', '9ru1771', '222.106.120.33', '168''( OLEDBThread(VOID) )
+B <11:40:41> pResult->Query.select.pResult is NULL! (dwRowSize:0)
+B <12:04:23> MainLoop() : SetEvent(g_pThis->m_hKeyEvent[7])
+B <12:04:23> ShutDownServer()
+C <12:04:23> Start! - Logout All User!
+C <12:04:23> End! - Logout All User!
+C <12:04:23> Start! - Delete OwnServerInfo!
+C <12:04:23> End! - Delete OwnServerInfo!
+C <12:04:23> Start! - Release BaseNetwork!
+C <12:04:24> End! - Release BaseNetwork!
+C <12:04:24> Start! - Release DB Component!
